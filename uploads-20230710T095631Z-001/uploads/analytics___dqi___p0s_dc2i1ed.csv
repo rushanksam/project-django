@@ -1,0 +1,5151 @@
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29585988,Cast Session Successful Event is Fired,Nakul Sharma,C2699957,,GCX-24230,,,,Analytics - DQI - P0s,R109732,"Android
+Web
+iPad
+iPhone",P0,GQA-2332,Analytics (DQI) - P0s,Android Phone,R109733,Casting Session Analytics,0,,Passed,Nakul Sharma,5/23/2023 4:03 AM,Events,
+T29585989,Cast Session Start Failure Event is Fired,Nakul Sharma,C2699958,,GCX-24230,,,,Analytics - DQI - P0s,R109732,"Android
+Web
+iPad
+iPhone",P0,GQA-2332,Analytics (DQI) - P0s,Android Phone,R109733,Casting Session Analytics,0,,Failed,Nakul Sharma,5/23/2023 6:42 AM,Events,
+T29585991,Playback for user initiated videos,Nakul Sharma,C2699960,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,Android Phone,R109733,Playback Schema,0,,Passed,Nakul Sharma,5/23/2023 6:11 AM,Events,
+T29585992,Playback for endcard videos,Nakul Sharma,C2699961,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Android Phone,R109733,Playback Schema,0,,Passed,Nakul Sharma,5/23/2023 6:11 AM,Events,
+T29585993,"Playback - Pause, resume",Nakul Sharma,C2699963,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,Android Phone,R109733,Playback Schema,0,,Passed,Nakul Sharma,5/23/2023 6:11 AM,Events,
+T29585994,"Playback - bufferstart,bufferstop,resume",Nakul Sharma,C2699964,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Android Phone,R109733,Playback Schema,0,,Passed,Nakul Sharma,5/23/2023 6:11 AM,Events,
+T29585990,Videoplayer - userinitiated,Nakul Sharma,C2699959,,GCX-24876  GCX-26271,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,Android Phone,R109733,Video Player schema,0,,Failed,Nakul Sharma,5/23/2023 5:08 AM,Events,
+T29585985,session.action - First start,Nakul Sharma,C2699954,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Android Phone,R109733,Session Schema,0,,Passed,Nakul Sharma,5/23/2023 6:17 AM,Events,
+T29585986,session.action - Cold start,Nakul Sharma,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Android Phone,R109733,Session Schema,0,,Passed,Nakul Sharma,5/23/2023 6:17 AM,Events,
+T29585987,session..action - Resume start,Nakul Sharma,C2699956,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Android Phone,R109733,Session Schema,0,,Passed,Nakul Sharma,5/23/2023 6:17 AM,Events,
+T29585982,purchaseInitiate,Nakul Sharma,C2699948,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Android Phone,R109733,Purchase Schema,0,,Passed,Nakul Sharma,5/23/2023 7:59 AM,Events,
+T29585983,purchaseReceipt,Nakul Sharma,C2699949,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+HWA
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Android Phone,R109733,Purchase Schema,0,,Passed,Nakul Sharma,5/23/2023 7:59 AM,Events,
+T29585984,purchaseRestore,Nakul Sharma,C2699953,Functionality is not available,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Android Phone,R109733,Purchase Schema,0,,Remove from Run,Nakul Sharma,5/23/2023 6:39 AM,Events,
+T29585995,AdBreak.Start,Nakul Sharma,C2699965,,GCX-25469,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android Phone,R109733,AdBreak Schema,0,,Failed,Nakul Sharma,5/23/2023 4:55 AM,Events,
+T29585996,AdBreak.Complete,Nakul Sharma,C2699966,,GCX-25469,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android Phone,R109733,AdBreak Schema,0,,Failed,Nakul Sharma,5/23/2023 4:56 AM,Events,
+T29586002,Ad - start,Nakul Sharma,C2699977,,GCX-25469,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android Phone,R109733,AD schema,0,,Failed,Nakul Sharma,5/23/2023 5:05 AM,Events,
+T29586003,"Ad - pausestart,pausestop,resume",Nakul Sharma,C2699979,,GCX-25469,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android Phone,R109733,AD schema,0,,Failed,Nakul Sharma,5/23/2023 5:05 AM,Events,
+T29586004,"Ad - bufferstart,bufferstop,resume",Nakul Sharma,C2699980,,GCX-25469,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android Phone,R109733,AD schema,0,,Failed,Nakul Sharma,5/23/2023 5:05 AM,Events,
+T29586005,Ad - stop,Nakul Sharma,C2699981,,GCX-25469,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android Phone,R109733,AD schema,0,,Failed,Nakul Sharma,5/23/2023 5:05 AM,Events,
+T29586006,Ad - complete,Nakul Sharma,C2699982,,GCX-25469,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android Phone,R109733,AD schema,0,,Failed,Nakul Sharma,5/23/2023 5:05 AM,Events,
+T29585997,Account. register,Nakul Sharma,C2699968,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Android Phone,R109733,Account Schema,0,,Passed,Nakul Sharma,5/23/2023 8:03 AM,Events,
+T29585998,Account.create.profile,Nakul Sharma,C2699970,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Android Phone,R109733,Account Schema,0,,Passed,Nakul Sharma,5/23/2023 8:05 AM,Events,
+T29585999,Authentication - Login,Nakul Sharma,C2699972,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Android Phone,R109733,Authentication.action,0,,Passed,Nakul Sharma,5/23/2023 6:37 AM,Events,
+T29586000,Authentication - Logout,Nakul Sharma,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Android Phone,R109733,Authentication.action,0,,Passed,Nakul Sharma,5/23/2023 6:37 AM,Events,
+T29586001,Authentication-LoginStart,Nakul Sharma,C2699976,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Android Phone,R109733,Authentication.action,0,,Passed,Nakul Sharma,5/23/2023 6:37 AM,Events,
+T29586007,Download-Online viewing for downloaded content - videoPlayer,Nakul Sharma,C2699988,,,,,,Analytics - DQI - P0s,R109732,"Android
+Fire Tab
+iPad
+iPhone",P0,"GCX-8242, GQA-2873",Analytics (DQI) - P0s,Android Phone,R109733,Download -Online,0,,Passed,Nakul Sharma,5/23/2023 6:46 AM,Events,
+T29586008,Verify analytics for Connect Your Provider flow - Select provider from list,Nakul Sharma,C2699989,,CONS-8521,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2229,Analytics (DQI) - P0s,Android Phone,R109733,Analytics-new - sign in,0,,Failed,Nakul Sharma,5/23/2023 6:20 AM,Events,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586020,Playback for user initiated videos,,C2699960,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,Android TV,R109734,Playback Schema,0,,Passed,Miguel Mota,5/23/2023 6:01 AM,Events,1.0.0.84
+T29586021,Playback for endcard videos,,C2699961,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Android TV,R109734,Playback Schema,0,,Passed,Miguel Mota,5/23/2023 6:06 AM,Events,1.0.0.84
+T29586022,"Playback - Pause, resume",,C2699963,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,Android TV,R109734,Playback Schema,0,,Passed,Miguel Mota,5/23/2023 6:03 AM,Events,1.0.0.84
+T29586023,"Playback - bufferstart,bufferstop,resume",,C2699964,GCX-23395 - [Analytics] No playback.bufferStart and playback.bufferStop events,GCX-23395,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Android TV,R109734,Playback Schema,0,,Failed,Miguel Mota,5/23/2023 6:53 AM,Events,
+T29586019,Videoplayer - userinitiated,,C2699959,GCX-24941 - [Comcast/Web/CDEV][Analytics] No videoplayer.exitbeforestart event when exiting the player before start playing,GCX-24941,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,Android TV,R109734,Video Player schema,0,,Failed,Miguel Mota,5/23/2023 4:24 AM,Events,
+T29586016,session.action - First start,,C2699954,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Android TV,R109734,Session Schema,0,,Passed,Miguel Mota,5/23/2023 5:15 AM,Events,1.0.0.84
+T29586017,session.action - Cold start,,C2699955,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Android TV,R109734,Session Schema,0,,Passed,Miguel Mota,5/23/2023 6:28 AM,Events,1.0.0.84
+T29586018,session..action - Resume start,,C2699956,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Android TV,R109734,Session Schema,0,,Passed,Miguel Mota,5/23/2023 5:17 AM,Events,1.0.0.84
+T29586013,purchaseInitiate,,C2699948,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Android TV,R109734,Purchase Schema,0,,Passed,Miguel Mota,5/23/2023 7:41 AM,Events,1.0.0.84
+T29586014,purchaseReceipt,,C2699949,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+HWA
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Android TV,R109734,Purchase Schema,0,,Passed,Miguel Mota,5/23/2023 7:47 AM,Events,1.0.0.84
+T29586015,purchaseRestore,,C2699953,No Restart/Restore button on Settings/Account.,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Android TV,R109734,Purchase Schema,0,,Remove from Run,Miguel Mota,5/23/2023 8:05 AM,Events,
+T29586024,AdBreak.Start,,C2699965,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android TV,R109734,AdBreak Schema,0,,Passed,Miguel Mota,5/23/2023 6:11 AM,Events,1.0.0.84
+T29586025,AdBreak.Complete,,C2699966,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android TV,R109734,AdBreak Schema,0,,Passed,Miguel Mota,5/23/2023 6:12 AM,Events,1.0.0.84
+T29586031,Ad - start,,C2699977,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android TV,R109734,AD schema,0,,Passed,Miguel Mota,5/23/2023 5:40 AM,Events,1.0.0.84
+T29586032,"Ad - pausestart,pausestop,resume",,C2699979,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android TV,R109734,AD schema,0,,Passed,Miguel Mota,5/23/2023 5:45 AM,Events,1.0.0.84
+T29586033,"Ad - bufferstart,bufferstop,resume",,C2699980,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android TV,R109734,AD schema,0,,Passed,Miguel Mota,5/23/2023 5:42 AM,Events,1.0.0.84
+T29586034,Ad - stop,,C2699981,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android TV,R109734,AD schema,0,,Passed,Miguel Mota,5/23/2023 5:47 AM,Events,1.0.0.84
+T29586035,Ad - complete,,C2699982,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Android TV,R109734,AD schema,0,,Passed,Miguel Mota,5/23/2023 5:48 AM,Events,1.0.0.84
+T29586026,Account. register,,C2699968,GCX-25948 - [Analytics] Account.register event missing key values,GCX-25948,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Android TV,R109734,Account Schema,0,,Failed,Miguel Mota,5/23/2023 4:28 AM,Events,
+T29586027,Account.create.profile,,C2699970,"GCX-25941 - [Analytics] Issue with lastLoginTime and migrationStatus keys in """"create"""" action of category """"profile""""",GCX-25941,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Android TV,R109734,Account Schema,0,,Failed,Miguel Mota,5/23/2023 4:37 AM,Events,
+T29586028,Authentication - Login,,C2699972,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Android TV,R109734,Authentication.action,0,,Passed,Miguel Mota,5/23/2023 5:26 AM,Events,1.0.0.84
+T29586029,Authentication - Logout,,C2699973,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Android TV,R109734,Authentication.action,0,,Passed,Miguel Mota,5/23/2023 5:27 AM,Events,1.0.0.84
+T29586030,Authentication-LoginStart,,C2699976,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Android TV,R109734,Authentication.action,0,,Passed,Miguel Mota,5/23/2023 5:23 AM,Events,1.0.0.84
+T29586036,Verify analytics for Connect Your Provider flow - Select provider from list,,C2699989,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2229,Analytics (DQI) - P0s,Android TV,R109734,Analytics-new - sign in,0,,Passed,Miguel Mota,5/23/2023 7:01 AM,Events,1.0.0.84
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586051,Playback for user initiated videos,Miguel Mota,C2699960,"Comcast xi6
+PROD
+Build nr 1.0.2.4",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,Comcast,R109735,Playback Schema,0,,Passed,Miguel Mota,5/23/2023 3:48 AM,Events,1.0.2.4
+T29586052,Playback for endcard videos,Miguel Mota,C2699961,"Comcast xi6
+PROD
+Build nr 1.0.2.4",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Comcast,R109735,Playback Schema,0,,Passed,Miguel Mota,5/23/2023 4:01 AM,Events,1.0.2.4
+T29586053,"Playback - Pause, resume",Miguel Mota,C2699963,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,Comcast,R109735,Playback Schema,0,,Passed,Miguel Mota,5/23/2023 3:30 AM,Events,
+T29586054,"Playback - bufferstart,bufferstop,resume",Miguel Mota,C2699964,GCX-23395 - [Analytics] No playback.bufferStart and playback.bufferStop events,GCX-23395,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Comcast,R109735,Playback Schema,0,,Failed,Miguel Mota,5/23/2023 2:39 AM,Events,
+T29586050,Videoplayer - userinitiated,Miguel Mota,C2699959,GCX-24941 - [Comcast/Web/CDEV][Analytics] No videoplayer.exitbeforestart event when exiting the player before start playing,GCX-24941,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,Comcast,R109735,Video Player schema,0,,Failed,Miguel Mota,5/23/2023 2:42 AM,Events,
+T29586047,session.action - First start,Miguel Mota,C2699954,GCX-21135 - [Analytics] No session.stop event when exiting the app,GCX-21135,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Comcast,R109735,Session Schema,0,,Failed,Miguel Mota,5/23/2023 2:10 AM,Events,
+T29586048,session.action - Cold start,Miguel Mota,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Comcast,R109735,Session Schema,0,,Passed,Miguel Mota,5/23/2023 2:07 AM,Events,
+T29586049,session..action - Resume start,Miguel Mota,C2699956,App can't be foregrounded on Comcast,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Comcast,R109735,Session Schema,0,,Remove from Run,Miguel Mota,5/23/2023 4:29 AM,Events,
+T29586044,purchaseInitiate,Luke Sanderson,C2699948,"All IAP is done externally through web or the Comcast OS, instead of the app itself. Marking as remove from run.",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Comcast,R109735,Purchase Schema,0,,Remove from Run,Luke Sanderson,5/23/2023 4:36 AM,Events,
+T29586045,purchaseReceipt,Luke Sanderson,C2699949,"All IAP is done externally through web or the Comcast OS, instead of the app itself. Marking as remove from run.",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+HWA
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Comcast,R109735,Purchase Schema,0,,Remove from Run,Luke Sanderson,5/23/2023 4:36 AM,Events,
+T29586046,purchaseRestore,Luke Sanderson,C2699953,"All IAP is done externally through web or the Comcast OS, instead of the app itself. Marking as remove from run.",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Comcast,R109735,Purchase Schema,0,,Remove from Run,Luke Sanderson,5/23/2023 4:36 AM,Events,
+T29586055,AdBreak.Start,Miguel Mota,C2699965,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Comcast,R109735,AdBreak Schema,0,,Passed,Miguel Mota,5/23/2023 3:00 AM,Events,
+T29586056,AdBreak.Complete,Miguel Mota,C2699966,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Comcast,R109735,AdBreak Schema,0,,Passed,Miguel Mota,5/23/2023 3:26 AM,Events,
+T29586062,Ad - start,Miguel Mota,C2699977,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Comcast,R109735,AD schema,0,,Passed,Miguel Mota,5/23/2023 3:07 AM,Events,
+T29586063,"Ad - pausestart,pausestop,resume",Miguel Mota,C2699979,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Comcast,R109735,AD schema,0,,Passed,Miguel Mota,5/23/2023 3:12 AM,Events,
+T29586064,"Ad - bufferstart,bufferstop,resume",Miguel Mota,C2699980,GCX-25135 - [Analytics] No ad.bufferStart and ad.bufferStop events,GCX-25135,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Comcast,R109735,AD schema,0,,Failed,Miguel Mota,5/23/2023 2:46 AM,Events,
+T29586065,Ad - stop,Miguel Mota,C2699981,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Comcast,R109735,AD schema,0,,Passed,Miguel Mota,5/23/2023 2:54 AM,Events,
+T29586066,Ad - complete,Miguel Mota,C2699982,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Comcast,R109735,AD schema,0,,Passed,Miguel Mota,5/23/2023 3:20 AM,Events,
+T29586057,Account. register,Luke Sanderson,C2699968,"All IAP is done externally through web or the Comcast OS, instead of the app itself. Marking as remove from run.",,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Comcast,R109735,Account Schema,0,,Remove from Run,Luke Sanderson,5/23/2023 4:36 AM,Events,
+T29586058,Account.create.profile,Miguel Mota,C2699970,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Comcast,R109735,Account Schema,0,,Passed,Miguel Mota,5/23/2023 2:37 AM,Events,
+T29586059,Authentication - Login,Miguel Mota,C2699972,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Comcast,R109735,Authentication.action,0,,Passed,Miguel Mota,5/23/2023 2:19 AM,Events,
+T29586060,Authentication - Logout,Miguel Mota,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Comcast,R109735,Authentication.action,0,,Passed,Miguel Mota,5/23/2023 2:28 AM,Events,
+T29586061,Authentication-LoginStart,Miguel Mota,C2699976,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Comcast,R109735,Authentication.action,0,,Passed,Miguel Mota,5/23/2023 2:24 AM,Events,
+T29586067,Verify analytics for Connect Your Provider flow - Select provider from list,Miguel Mota,C2699989,"Comcast xi6
+PROD
+Build nr 1.0.2.4",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2229,Analytics (DQI) - P0s,Comcast,R109735,Analytics-new - sign in,0,,Passed,Miguel Mota,5/23/2023 4:05 AM,Events,1.0.2.4
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586082,Playback for user initiated videos,Murugan S,C2699960,Tested on Fire Tab ,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,Fire Tab,R109736,Playback Schema,0,,Passed,Murugan S,5/23/2023 6:32 AM,Events,1.0.0.102
+T29586083,Playback for endcard videos,Murugan S,C2699961,Tested on Fire Tab ,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Fire Tab,R109736,Playback Schema,0,,Passed,Murugan S,5/23/2023 6:32 AM,Events,1.0.0.102
+T29586084,"Playback - Pause, resume",Murugan S,C2699963,Tested on Fire Tab ,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,Fire Tab,R109736,Playback Schema,0,,Passed,Murugan S,5/23/2023 6:32 AM,Events,1.0.0.102
+T29586085,"Playback - bufferstart,bufferstop,resume",Murugan S,C2699964,Tested on Fire Tab ,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Fire Tab,R109736,Playback Schema,0,,Passed,Murugan S,5/23/2023 6:32 AM,Events,1.0.0.102
+T29586081,Videoplayer - userinitiated,Murugan S,C2699959,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,Fire Tab,R109736,Video Player schema,0,,Passed,Murugan S,5/23/2023 7:35 AM,Events,1.0.0.102
+T29586078,session.action - First start,Murugan S,C2699954,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Fire Tab,R109736,Session Schema,0,,Passed,Murugan S,5/23/2023 12:26 PM,Events,1.0.0.102
+T29586079,session.action - Cold start,Murugan S,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Fire Tab,R109736,Session Schema,0,,Passed,Murugan S,5/23/2023 12:26 PM,Events,1.0.0.102
+T29586080,session..action - Resume start,Murugan S,C2699956,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Fire Tab,R109736,Session Schema,0,,Passed,Murugan S,5/23/2023 12:26 PM,Events,1.0.0.102
+T29586075,purchaseInitiate,Murugan S,C2699948,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Fire Tab,R109736,Purchase Schema,0,,Passed,Murugan S,5/23/2023 8:23 AM,Events,1.0.0.102
+T29586076,purchaseReceipt,Murugan S,C2699949,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+HWA
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Fire Tab,R109736,Purchase Schema,0,,Passed,Murugan S,5/23/2023 8:23 AM,Events,1.0.0.102
+T29586077,purchaseRestore,Murugan S,C2699953,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Fire Tab,R109736,Purchase Schema,0,,Remove from Run,Murugan S,5/23/2023 8:24 AM,Events,1.0.0.102
+T29586086,AdBreak.Start,Murugan S,C2699965,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire Tab,R109736,AdBreak Schema,0,,Passed,Lakshmi Chokkalingam,5/30/2023 6:46 AM,Events,
+T29586087,AdBreak.Complete,Murugan S,C2699966,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire Tab,R109736,AdBreak Schema,0,,Passed,Lakshmi Chokkalingam,5/30/2023 6:46 AM,Events,
+T29586093,Ad - start,Murugan S,C2699977,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire Tab,R109736,AD schema,0,,Passed,Lakshmi Chokkalingam,5/30/2023 6:46 AM,Events,
+T29586094,"Ad - pausestart,pausestop,resume",Murugan S,C2699979,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire Tab,R109736,AD schema,0,,Passed,Lakshmi Chokkalingam,5/30/2023 6:46 AM,Events,
+T29586095,"Ad - bufferstart,bufferstop,resume",Murugan S,C2699980,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire Tab,R109736,AD schema,0,,Passed,Lakshmi Chokkalingam,5/30/2023 6:46 AM,Events,
+T29586096,Ad - stop,Murugan S,C2699981,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire Tab,R109736,AD schema,0,,Passed,Lakshmi Chokkalingam,5/30/2023 6:46 AM,Events,
+T29586097,Ad - complete,Murugan S,C2699982,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire Tab,R109736,AD schema,0,,Passed,Lakshmi Chokkalingam,5/30/2023 6:46 AM,Events,
+T29586088,Account. register,Murugan S,C2699968,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Fire Tab,R109736,Account Schema,0,,Passed,Murugan S,5/23/2023 8:26 AM,Events,1.0.0.102
+T29586089,Account.create.profile,Murugan S,C2699970,Tested on Fire Tab ,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Fire Tab,R109736,Account Schema,0,,Passed,Murugan S,5/23/2023 5:51 AM,Events,1.0.0.102
+T29586090,Authentication - Login,Murugan S,C2699972,Tested on Fire Tab ,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Fire Tab,R109736,Authentication.action,0,,Passed,Murugan S,5/23/2023 5:42 AM,Events,1.0.0.102
+T29586091,Authentication - Logout,Murugan S,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Fire Tab,R109736,Authentication.action,0,,Passed,Lakshmi Chokkalingam,5/30/2023 6:46 AM,Events,
+T29586092,Authentication-LoginStart,Murugan S,C2699976,Tested on Fire Tab ,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Fire Tab,R109736,Authentication.action,0,,Passed,Murugan S,5/23/2023 5:42 AM,Events,1.0.0.102
+T29586098,Download-Online viewing for downloaded content - videoPlayer,Murugan S,C2699988,,,,,,Analytics - DQI - P0s,R109732,"Android
+Fire Tab
+iPad
+iPhone",P0,"GCX-8242, GQA-2873",Analytics (DQI) - P0s,Fire Tab,R109736,Download -Online,0,,Passed,Murugan S,5/23/2023 12:28 PM,Events,1.0.0.102
+T29586099,Verify analytics for Connect Your Provider flow - Select provider from list,Murugan S,C2699989, MVPD test case are not executed on release build,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2229,Analytics (DQI) - P0s,Fire Tab,R109736,Analytics-new - sign in,0,,Skipped,Murugan S,5/23/2023 11:45 AM,Events,1.0.0.102
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586113,Playback for user initiated videos,,C2699960,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,Fire TV,R109737,Playback Schema,0,,Passed,Miguel Mota,5/23/2023 10:53 AM,Events,1.0.0.84
+T29586114,Playback for endcard videos,,C2699961,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Fire TV,R109737,Playback Schema,0,,Passed,Miguel Mota,5/23/2023 10:53 AM,Events,1.0.0.84
+T29586115,"Playback - Pause, resume",,C2699963,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,Fire TV,R109737,Playback Schema,0,,Passed,Miguel Mota,5/23/2023 10:54 AM,Events,1.0.0.84
+T29586116,"Playback - bufferstart,bufferstop,resume",,C2699964,GCX-23395 - [Analytics] No playback.bufferStart and playback.bufferStop events,GCX-23395,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Fire TV,R109737,Playback Schema,0,,Failed,Miguel Mota,5/23/2023 10:54 AM,Events,
+T29586112,Videoplayer - userinitiated,,C2699959,GCX-24941 - [Comcast/Web/CDEV][Analytics] No videoplayer.exitbeforestart event when exiting the player before start playing,GCX-24941,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,Fire TV,R109737,Video Player schema,0,,Failed,Miguel Mota,5/23/2023 10:55 AM,Events,
+T29586109,session.action - First start,,C2699954,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Fire TV,R109737,Session Schema,0,,Passed,Miguel Mota,5/23/2023 10:56 AM,Events,1.0.0.84
+T29586110,session.action - Cold start,,C2699955,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Fire TV,R109737,Session Schema,0,,Passed,Miguel Mota,5/23/2023 10:56 AM,Events,1.0.0.84
+T29586111,session..action - Resume start,,C2699956,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Fire TV,R109737,Session Schema,0,,Passed,Miguel Mota,5/23/2023 10:56 AM,Events,1.0.0.84
+T29586106,purchaseInitiate,,C2699948,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Fire TV,R109737,Purchase Schema,0,,Passed,Miguel Mota,5/23/2023 10:57 AM,Events,1.0.0.84
+T29586107,purchaseReceipt,,C2699949,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+HWA
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Fire TV,R109737,Purchase Schema,0,,Passed,Miguel Mota,5/23/2023 10:57 AM,Events,1.0.0.84
+T29586108,purchaseRestore,,C2699953,No Restart/Restore button on Settings/Account.,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Fire TV,R109737,Purchase Schema,0,,Remove from Run,Miguel Mota,5/23/2023 10:58 AM,Events,
+T29586117,AdBreak.Start,,C2699965,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire TV,R109737,AdBreak Schema,0,,Passed,Miguel Mota,5/23/2023 10:59 AM,Events,1.0.0.84
+T29586118,AdBreak.Complete,,C2699966,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire TV,R109737,AdBreak Schema,0,,Passed,Miguel Mota,5/23/2023 10:59 AM,Events,1.0.0.84
+T29586124,Ad - start,,C2699977,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire TV,R109737,AD schema,0,,Passed,Miguel Mota,5/23/2023 11:01 AM,Events,1.0.0.84
+T29586125,"Ad - pausestart,pausestop,resume",,C2699979,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire TV,R109737,AD schema,0,,Passed,Miguel Mota,5/23/2023 11:01 AM,Events,1.0.0.84
+T29586126,"Ad - bufferstart,bufferstop,resume",,C2699980,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire TV,R109737,AD schema,0,,Passed,Miguel Mota,5/23/2023 11:02 AM,Events,1.0.0.84
+T29586127,Ad - stop,,C2699981,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire TV,R109737,AD schema,0,,Passed,Miguel Mota,5/23/2023 11:08 AM,Events,1.0.0.84
+T29586128,Ad - complete,,C2699982,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Fire TV,R109737,AD schema,0,,Passed,Miguel Mota,5/23/2023 11:08 AM,Events,1.0.0.84
+T29586119,Account. register,,C2699968,GCX-25948 - [Analytics] Account.register event missing key values,GCX-25948,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Fire TV,R109737,Account Schema,0,,Failed,Miguel Mota,5/23/2023 11:09 AM,Events,
+T29586120,Account.create.profile,,C2699970,"GCX-25941 - [Analytics] Issue with lastLoginTime and migrationStatus keys in """"create"""" action of category """"profile""""",GCX-25941,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Fire TV,R109737,Account Schema,0,,Failed,Miguel Mota,5/23/2023 11:10 AM,Events,
+T29586121,Authentication - Login,,C2699972,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Fire TV,R109737,Authentication.action,0,,Passed,Miguel Mota,5/23/2023 11:11 AM,Events,1.0.0.84
+T29586122,Authentication - Logout,,C2699973,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Fire TV,R109737,Authentication.action,0,,Passed,Miguel Mota,5/23/2023 11:11 AM,Events,1.0.0.84
+T29586123,Authentication-LoginStart,,C2699976,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Fire TV,R109737,Authentication.action,0,,Passed,Miguel Mota,5/23/2023 11:12 AM,Events,1.0.0.84
+T29586129,Verify analytics for Connect Your Provider flow - Select provider from list,,C2699989,"Google Chromecast Sabrina
+PROD
+Build nr 1.0.0.84",,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2229,Analytics (DQI) - P0s,Fire TV,R109737,Analytics-new - sign in,0,,Passed,Miguel Mota,5/23/2023 11:14 AM,Events,1.0.0.84
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586143,Cast Session Successful Event is Fired,,C2699957,,,,,,Analytics - DQI - P0s,R109732,"Android
+Web
+iPad
+iPhone",P0,GQA-2332,Analytics (DQI) - P0s,iPad,R109738,Casting Session Analytics,0,,Untested,,,Events,
+T29586144,Cast Session Start Failure Event is Fired,,C2699958,,,,,,Analytics - DQI - P0s,R109732,"Android
+Web
+iPad
+iPhone",P0,GQA-2332,Analytics (DQI) - P0s,iPad,R109738,Casting Session Analytics,0,,Untested,,,Events,
+T29586146,Playback for user initiated videos,,C2699960,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,iPad,R109738,Playback Schema,0,,Untested,,,Events,
+T29586147,Playback for endcard videos,,C2699961,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,iPad,R109738,Playback Schema,0,,Untested,,,Events,
+T29586148,"Playback - Pause, resume",,C2699963,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,iPad,R109738,Playback Schema,0,,Untested,,,Events,
+T29586149,"Playback - bufferstart,bufferstop,resume",,C2699964,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,iPad,R109738,Playback Schema,0,,Untested,,,Events,
+T29586145,Videoplayer - userinitiated,,C2699959,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,iPad,R109738,Video Player schema,0,,Untested,,,Events,
+T29586140,session.action - First start,,C2699954,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,iPad,R109738,Session Schema,0,,Untested,,,Events,
+T29586141,session.action - Cold start,,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,iPad,R109738,Session Schema,0,,Untested,,,Events,
+T29586142,session..action - Resume start,,C2699956,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,iPad,R109738,Session Schema,0,,Untested,,,Events,
+T29586137,purchaseInitiate,,C2699948,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,iPad,R109738,Purchase Schema,0,,Untested,,,Events,
+T29586138,purchaseReceipt,,C2699949,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+HWA
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,iPad,R109738,Purchase Schema,0,,Untested,,,Events,
+T29586139,purchaseRestore,,C2699953,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,iPad,R109738,Purchase Schema,0,,Untested,,,Events,
+T29586150,AdBreak.Start,,C2699965,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPad,R109738,AdBreak Schema,0,,Untested,,,Events,
+T29586151,AdBreak.Complete,,C2699966,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPad,R109738,AdBreak Schema,0,,Untested,,,Events,
+T29586157,Ad - start,,C2699977,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPad,R109738,AD schema,0,,Untested,,,Events,
+T29586158,"Ad - pausestart,pausestop,resume",,C2699979,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPad,R109738,AD schema,0,,Untested,,,Events,
+T29586159,"Ad - bufferstart,bufferstop,resume",,C2699980,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPad,R109738,AD schema,0,,Untested,,,Events,
+T29586160,Ad - stop,,C2699981,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPad,R109738,AD schema,0,,Untested,,,Events,
+T29586161,Ad - complete,,C2699982,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPad,R109738,AD schema,0,,Untested,,,Events,
+T29586152,Account. register,,C2699968,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,iPad,R109738,Account Schema,0,,Untested,,,Events,
+T29586153,Account.create.profile,,C2699970,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,iPad,R109738,Account Schema,0,,Untested,,,Events,
+T29586154,Authentication - Login,,C2699972,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,iPad,R109738,Authentication.action,0,,Untested,,,Events,
+T29586155,Authentication - Logout,,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,iPad,R109738,Authentication.action,0,,Untested,,,Events,
+T29586156,Authentication-LoginStart,,C2699976,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,iPad,R109738,Authentication.action,0,,Untested,,,Events,
+T29586162,Download-Online viewing for downloaded content - videoPlayer,,C2699988,,,,,,Analytics - DQI - P0s,R109732,"Android
+Fire Tab
+iPad
+iPhone",P0,"GCX-8242, GQA-2873",Analytics (DQI) - P0s,iPad,R109738,Download -Online,0,,Untested,,,Events,
+T29586163,Verify analytics for Connect Your Provider flow - Select provider from list,,C2699989,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2229,Analytics (DQI) - P0s,iPad,R109738,Analytics-new - sign in,0,,Untested,,,Events,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586174,Cast Session Successful Event is Fired,,C2699957,,GCX-26649,,,,Analytics - DQI - P0s,R109732,"Android
+Web
+iPad
+iPhone",P0,GQA-2332,Analytics (DQI) - P0s,iPhone,R109739,Casting Session Analytics,0,,Failed,Bora Reddy,5/23/2023 10:09 AM,Events,
+T29586175,Cast Session Start Failure Event is Fired,,C2699958,,GCX-26649,,,,Analytics - DQI - P0s,R109732,"Android
+Web
+iPad
+iPhone",P0,GQA-2332,Analytics (DQI) - P0s,iPhone,R109739,Casting Session Analytics,0,,Failed,Bora Reddy,5/23/2023 10:09 AM,Events,
+T29586177,Playback for user initiated videos,,C2699960,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,iPhone,R109739,Playback Schema,0,,Passed,Bora Reddy,5/23/2023 1:08 AM,Events,
+T29586178,Playback for endcard videos,,C2699961,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,iPhone,R109739,Playback Schema,0,,Passed,Bora Reddy,5/23/2023 1:18 AM,Events,
+T29586179,"Playback - Pause, resume",,C2699963,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,iPhone,R109739,Playback Schema,0,,Passed,Bora Reddy,5/23/2023 1:08 AM,Events,
+T29586180,"Playback - bufferstart,bufferstop,resume",,C2699964,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,iPhone,R109739,Playback Schema,0,,Passed,Bora Reddy,5/23/2023 1:12 AM,Events,
+T29586176,Videoplayer - userinitiated,,C2699959,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,iPhone,R109739,Video Player schema,0,,Passed,Bora Reddy,5/23/2023 3:16 AM,Events,
+T29586171,session.action - First start,,C2699954,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,iPhone,R109739,Session Schema,0,,Passed,Bora Reddy,5/23/2023 12:54 AM,Events,
+T29586172,session.action - Cold start,,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,iPhone,R109739,Session Schema,0,,Passed,Bora Reddy,5/23/2023 12:52 AM,Events,
+T29586173,session..action - Resume start,,C2699956,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,iPhone,R109739,Session Schema,0,,Passed,Bora Reddy,5/23/2023 12:46 AM,Events,
+T29586168,purchaseInitiate,,C2699948,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,iPhone,R109739,Purchase Schema,0,,Passed,Bora Reddy,5/24/2023 1:29 AM,Events,
+T29586169,purchaseReceipt,,C2699949,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+HWA
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,iPhone,R109739,Purchase Schema,0,,Passed,Bora Reddy,5/24/2023 1:29 AM,Events,
+T29586170,purchaseRestore,,C2699953,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,iPhone,R109739,Purchase Schema,0,,Passed,Bora Reddy,5/23/2023 3:23 AM,Events,
+T29586181,AdBreak.Start,,C2699965,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPhone,R109739,AdBreak Schema,0,,Passed,Bora Reddy,5/23/2023 1:37 AM,Events,
+T29586182,AdBreak.Complete,,C2699966,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPhone,R109739,AdBreak Schema,0,,Passed,Bora Reddy,5/23/2023 1:44 AM,Events,
+T29586188,Ad - start,,C2699977,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPhone,R109739,AD schema,0,,Passed,Bora Reddy,5/23/2023 1:37 AM,Events,
+T29586189,"Ad - pausestart,pausestop,resume",,C2699979,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPhone,R109739,AD schema,0,,Passed,Bora Reddy,5/23/2023 1:55 AM,Events,
+T29586190,"Ad - bufferstart,bufferstop,resume",,C2699980,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPhone,R109739,AD schema,0,,Passed,Bora Reddy,5/23/2023 1:55 AM,Events,
+T29586191,Ad - stop,,C2699981,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPhone,R109739,AD schema,0,,Passed,Bora Reddy,5/23/2023 1:37 AM,Events,
+T29586192,Ad - complete,,C2699982,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,iPhone,R109739,AD schema,0,,Passed,Bora Reddy,5/23/2023 1:44 AM,Events,
+T29586183,Account. register,,C2699968,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,iPhone,R109739,Account Schema,0,,Passed,Bora Reddy,5/23/2023 3:37 AM,Events,
+T29586184,Account.create.profile,,C2699970,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,iPhone,R109739,Account Schema,0,,Passed,Bora Reddy,5/23/2023 3:43 AM,Events,
+T29586185,Authentication - Login,,C2699972,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,iPhone,R109739,Authentication.action,0,,Passed,Bora Reddy,5/23/2023 12:44 AM,Events,
+T29586186,Authentication - Logout,,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,iPhone,R109739,Authentication.action,0,,Passed,Bora Reddy,5/23/2023 12:42 AM,Events,
+T29586187,Authentication-LoginStart,,C2699976,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,iPhone,R109739,Authentication.action,0,,Passed,Bora Reddy,5/23/2023 12:44 AM,Events,
+T29586193,Download-Online viewing for downloaded content - videoPlayer,,C2699988,,,,,,Analytics - DQI - P0s,R109732,"Android
+Fire Tab
+iPad
+iPhone",P0,"GCX-8242, GQA-2873",Analytics (DQI) - P0s,iPhone,R109739,Download -Online,0,,Passed,Bora Reddy,5/23/2023 3:59 AM,Events,
+T29586194,Verify analytics for Connect Your Provider flow - Select provider from list,,C2699989,,CONS-8034,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2229,Analytics (DQI) - P0s,iPhone,R109739,Analytics-new - sign in,0,,Failed,Bora Reddy,5/23/2023 5:07 AM,Events,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586206,Playback for user initiated videos,,C2699960,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 7:57 AM,Events,
+T29586207,Playback for endcard videos,,C2699961,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 7:57 AM,Events,
+T29586208,"Playback - Pause, resume",,C2699963,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 7:57 AM,Events,
+T29586209,"Playback - bufferstart,bufferstop,resume",,C2699964,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 7:57 AM,Events,
+T29586205,Videoplayer - userinitiated,,C2699959,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,Video Player schema,0,,Passed,Praveen Kumar,5/23/2023 8:49 AM,Events,
+T29586202,session.action - First start,,C2699954,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,Session Schema,0,,Passed,Praveen Kumar,5/23/2023 8:49 AM,Events,
+T29586203,session.action - Cold start,,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,Session Schema,0,,Passed,Praveen Kumar,5/23/2023 8:49 AM,Events,
+T29586204,session..action - Resume start,,C2699956,Not implemented yet,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,Session Schema,0,,Skipped,Praveen Kumar,5/23/2023 8:49 AM,Events,
+T29586210,AdBreak.Start,,C2699965,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,AdBreak Schema,0,,Passed,Praveen Kumar,5/23/2023 6:58 AM,Events,
+T29586211,AdBreak.Complete,,C2699966,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,AdBreak Schema,0,,Passed,Praveen Kumar,5/23/2023 6:58 AM,Events,
+T29586217,Ad - start,,C2699977,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,AD schema,0,,Passed,Praveen Kumar,5/23/2023 6:58 AM,Events,
+T29586218,"Ad - pausestart,pausestop,resume",,C2699979,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,AD schema,0,,Passed,Praveen Kumar,5/23/2023 8:48 AM,Events,
+T29586219,"Ad - bufferstart,bufferstop,resume",,C2699980,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,AD schema,0,,Passed,Praveen Kumar,5/23/2023 8:48 AM,Events,
+T29586220,Ad - stop,,C2699981,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,AD schema,0,,Passed,Praveen Kumar,5/23/2023 8:48 AM,Events,
+T29586221,Ad - complete,,C2699982,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,AD schema,0,,Passed,Praveen Kumar,5/23/2023 6:58 AM,Events,
+T29586213,Account.create.profile,,C2699970,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,Account Schema,0,,Passed,Praveen Kumar,5/23/2023 11:41 AM,Events,
+T29586214,Authentication - Login,,C2699972,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 8:49 AM,Events,
+T29586215,Authentication - Logout,,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 8:49 AM,Events,
+T29586216,Authentication-LoginStart,,C2699976,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,LG WebOS >= 3.5,R109740,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 8:49 AM,Events,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586237,Playback for user initiated videos,,C2699960,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,PS4,R109741,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 12:37 PM,Events,
+T29586238,Playback for endcard videos,,C2699961,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,PS4,R109741,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 12:37 PM,Events,
+T29586239,"Playback - Pause, resume",,C2699963,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,PS4,R109741,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 12:37 PM,Events,
+T29586240,"Playback - bufferstart,bufferstop,resume",,C2699964,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,PS4,R109741,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 1:53 PM,Events,
+T29586236,Videoplayer - userinitiated,,C2699959,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,PS4,R109741,Video Player schema,0,,Passed,Praveen Kumar,5/23/2023 12:37 PM,Events,
+T29586233,session.action - First start,,C2699954,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,PS4,R109741,Session Schema,0,,Passed,Praveen Kumar,5/23/2023 1:37 PM,Events,
+T29586234,session.action - Cold start,,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,PS4,R109741,Session Schema,0,,Passed,Praveen Kumar,5/23/2023 3:33 PM,Events,
+T29586235,session..action - Resume start,,C2699956,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,PS4,R109741,Session Schema,0,,Skipped,Praveen Kumar,5/23/2023 1:53 PM,Events,
+T29586241,AdBreak.Start,,C2699965,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,PS4,R109741,AdBreak Schema,0,,Passed,Praveen Kumar,5/23/2023 1:37 PM,Events,
+T29586242,AdBreak.Complete,,C2699966,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,PS4,R109741,AdBreak Schema,0,,Passed,Praveen Kumar,5/23/2023 1:37 PM,Events,
+T29586248,Ad - start,,C2699977,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,PS4,R109741,AD schema,0,,Passed,Praveen Kumar,5/23/2023 1:37 PM,Events,
+T29586249,"Ad - pausestart,pausestop,resume",,C2699979,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,PS4,R109741,AD schema,0,,Passed,Praveen Kumar,5/23/2023 1:37 PM,Events,
+T29586250,"Ad - bufferstart,bufferstop,resume",,C2699980,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,PS4,R109741,AD schema,0,,Passed,Praveen Kumar,5/23/2023 1:53 PM,Events,
+T29586251,Ad - stop,,C2699981,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,PS4,R109741,AD schema,0,,Passed,Praveen Kumar,5/23/2023 1:37 PM,Events,
+T29586252,Ad - complete,,C2699982,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,PS4,R109741,AD schema,0,,Passed,Praveen Kumar,5/23/2023 1:37 PM,Events,
+T29586244,Account.create.profile,,C2699970,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,PS4,R109741,Account Schema,0,,Passed,Praveen Kumar,5/23/2023 1:53 PM,Events,
+T29586245,Authentication - Login,,C2699972,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,PS4,R109741,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 3:11 PM,Events,
+T29586246,Authentication - Logout,,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,PS4,R109741,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 3:33 PM,Events,
+T29586247,Authentication-LoginStart,,C2699976,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,PS4,R109741,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 3:11 PM,Events,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586268,Playback for user initiated videos,,C2699960,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,Roku 4K TV,R109742,Playback Schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586269,Playback for endcard videos,,C2699961,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Roku 4K TV,R109742,Playback Schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586270,"Playback - Pause, resume",,C2699963,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,Roku 4K TV,R109742,Playback Schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586271,"Playback - bufferstart,bufferstop,resume",,C2699964,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Roku 4K TV,R109742,Playback Schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586267,Videoplayer - userinitiated,,C2699959,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,Roku 4K TV,R109742,Video Player schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586264,session.action - First start,,C2699954,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Roku 4K TV,R109742,Session Schema,0,,Passed,Lakshmi,5/23/2023 4:51 AM,Events,
+T29586265,session.action - Cold start,,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Roku 4K TV,R109742,Session Schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586266,session..action - Resume start,,C2699956,,GCX-14983,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Roku 4K TV,R109742,Session Schema,0,,Failed,Lakshmi,5/23/2023 4:52 AM,Events,
+T29586261,purchaseInitiate,,C2699948,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Roku 4K TV,R109742,Purchase Schema,0,,Passed,Lakshmi,5/23/2023 4:21 AM,Events,
+T29586262,purchaseReceipt,,C2699949,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+HWA
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Roku 4K TV,R109742,Purchase Schema,0,,Passed,Lakshmi,5/23/2023 4:21 AM,Events,
+T29586263,purchaseRestore,,C2699953,Restore is only applicable to mobiles as per client schema document. But we are seeing this for roku too hence passing ,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Roku 4K TV,R109742,Purchase Schema,0,,Passed,Lakshmi,5/23/2023 4:21 AM,Events,
+T29586272,AdBreak.Start,,C2699965,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Roku 4K TV,R109742,AdBreak Schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586273,AdBreak.Complete,,C2699966,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Roku 4K TV,R109742,AdBreak Schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586279,Ad - start,,C2699977,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Roku 4K TV,R109742,AD schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586280,"Ad - pausestart,pausestop,resume",,C2699979,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Roku 4K TV,R109742,AD schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586281,"Ad - bufferstart,bufferstop,resume",,C2699980,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Roku 4K TV,R109742,AD schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586282,Ad - stop,,C2699981,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Roku 4K TV,R109742,AD schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586283,Ad - complete,,C2699982,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Roku 4K TV,R109742,AD schema,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586274,Account. register,,C2699968,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Roku 4K TV,R109742,Account Schema,0,,Passed,Lakshmi,5/23/2023 4:21 AM,Events,
+T29586275,Account.create.profile,,C2699970,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Roku 4K TV,R109742,Account Schema,0,,Passed,Lakshmi,5/23/2023 4:21 AM,Events,
+T29586276,Authentication - Login,,C2699972,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Roku 4K TV,R109742,Authentication.action,0,,Passed,Lakshmi,5/23/2023 4:53 AM,Events,
+T29586277,Authentication - Logout,,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Roku 4K TV,R109742,Authentication.action,0,,Passed,Lakshmi,5/23/2023 4:38 AM,Events,
+T29586278,Authentication-LoginStart,,C2699976,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Roku 4K TV,R109742,Authentication.action,0,,Passed,Lakshmi,5/23/2023 4:53 AM,Events,
+T29586284,Verify analytics for Connect Your Provider flow - Select provider from list,,C2699989,Can be validated on web - second screen.,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2229,Analytics (DQI) - P0s,Roku 4K TV,R109742,Analytics-new - sign in,0,,Remove from Run,Lakshmi,5/23/2023 4:53 AM,Events,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586299,Playback for user initiated videos,,C2699960,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 5:42 AM,Events,
+T29586300,Playback for endcard videos,,C2699961,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 5:42 AM,Events,
+T29586301,"Playback - Pause, resume",,C2699963,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 5:42 AM,Events,
+T29586302,"Playback - bufferstart,bufferstop,resume",,C2699964,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 5:42 AM,Events,
+T29586298,Videoplayer - userinitiated,,C2699959,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Video Player schema,0,,Passed,Praveen Kumar,5/23/2023 5:42 AM,Events,
+T29586295,session.action - First start,,C2699954,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Session Schema,0,,Passed,Praveen Kumar,5/23/2023 5:35 AM,Events,
+T29586296,session.action - Cold start,,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Session Schema,0,,Passed,Praveen Kumar,5/23/2023 1:52 PM,Events,
+T29586297,session..action - Resume start,,C2699956,Feature not implemented,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Session Schema,0,,Skipped,Praveen Kumar,5/23/2023 5:34 AM,Events,
+T29586292,purchaseInitiate,,C2699948,,GCX-26612,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Purchase Schema,0,,Failed,Praveen Kumar,5/23/2023 2:03 PM,Events,
+T29586293,purchaseReceipt,,C2699949,,GCX-26612,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+HWA
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Purchase Schema,0,,Failed,Praveen Kumar,5/23/2023 2:03 PM,Events,
+T29586303,AdBreak.Start,,C2699965,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,AdBreak Schema,0,,Passed,Praveen Kumar,5/23/2023 5:35 AM,Events,
+T29586304,AdBreak.Complete,,C2699966,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,AdBreak Schema,0,,Passed,Praveen Kumar,5/23/2023 5:35 AM,Events,
+T29586310,Ad - start,,C2699977,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,AD schema,0,,Passed,Praveen Kumar,5/23/2023 5:35 AM,Events,
+T29586311,"Ad - pausestart,pausestop,resume",,C2699979,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,AD schema,0,,Passed,Praveen Kumar,5/23/2023 5:35 AM,Events,
+T29586312,"Ad - bufferstart,bufferstop,resume",,C2699980,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,AD schema,0,,Passed,Praveen Kumar,5/23/2023 1:45 PM,Events,
+T29586313,Ad - stop,,C2699981,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,AD schema,0,,Passed,Praveen Kumar,5/23/2023 5:35 AM,Events,
+T29586314,Ad - complete,,C2699982,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,AD schema,0,,Passed,Praveen Kumar,5/23/2023 5:35 AM,Events,
+T29586305,Account. register,,C2699968,,GCX-26612,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Account Schema,0,,Failed,Praveen Kumar,5/23/2023 2:05 PM,Events,
+T29586306,Account.create.profile,,C2699970,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Account Schema,0,,Passed,Praveen Kumar,5/23/2023 5:43 AM,Events,
+T29586307,Authentication - Login,,C2699972,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 5:36 AM,Events,
+T29586308,Authentication - Logout,,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 5:36 AM,Events,
+T29586309,Authentication-LoginStart,,C2699976,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Samsung Tizen >=2016,R109743,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 5:36 AM,Events,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586330,Playback for user initiated videos,,C2699960,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,tvOS,R109744,Playback Schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586331,Playback for endcard videos,,C2699961,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,tvOS,R109744,Playback Schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586332,"Playback - Pause, resume",,C2699963,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,tvOS,R109744,Playback Schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586333,"Playback - bufferstart,bufferstop,resume",,C2699964,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,tvOS,R109744,Playback Schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586329,Videoplayer - userinitiated,,C2699959,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,tvOS,R109744,Video Player schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586326,session.action - First start,,C2699954,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,tvOS,R109744,Session Schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586327,session.action - Cold start,,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,tvOS,R109744,Session Schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586328,session..action - Resume start,,C2699956,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,tvOS,R109744,Session Schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586323,purchaseInitiate,,C2699948,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,tvOS,R109744,Purchase Schema,0,,Passed,Kiran Banappa,5/23/2023 10:38 AM,Events,
+T29586324,purchaseReceipt,,C2699949,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+HWA
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,tvOS,R109744,Purchase Schema,0,,Passed,Kiran Banappa,5/23/2023 10:38 AM,Events,
+T29586325,purchaseRestore,,C2699953,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,tvOS,R109744,Purchase Schema,0,,Passed,Kiran Banappa,5/23/2023 10:00 AM,Events,
+T29586334,AdBreak.Start,,C2699965,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,tvOS,R109744,AdBreak Schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586335,AdBreak.Complete,,C2699966,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,tvOS,R109744,AdBreak Schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586341,Ad - start,,C2699977,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,tvOS,R109744,AD schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586342,"Ad - pausestart,pausestop,resume",,C2699979,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,tvOS,R109744,AD schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586343,"Ad - bufferstart,bufferstop,resume",,C2699980,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,tvOS,R109744,AD schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586344,Ad - stop,,C2699981,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,tvOS,R109744,AD schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586345,Ad - complete,,C2699982,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,tvOS,R109744,AD schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586336,Account. register,,C2699968,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,tvOS,R109744,Account Schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586337,Account.create.profile,,C2699970,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,tvOS,R109744,Account Schema,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586338,Authentication - Login,,C2699972,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,tvOS,R109744,Authentication.action,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586339,Authentication - Logout,,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,tvOS,R109744,Authentication.action,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586340,Authentication-LoginStart,,C2699976,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,tvOS,R109744,Authentication.action,0,,Passed,Kiran Banappa,5/23/2023 4:10 AM,Events,
+T29586346,Verify analytics for Connect Your Provider flow - Select provider from list,,C2699989,Descoped for the launch,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2229,Analytics (DQI) - P0s,tvOS,R109744,Analytics-new - sign in,0,,Remove from Run,Kiran Banappa,5/23/2023 9:08 AM,Events,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586361,Playback for user initiated videos,,C2699960,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 5:58 AM,Events,
+T29586362,Playback for endcard videos,,C2699961,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 5:58 AM,Events,
+T29586363,"Playback - Pause, resume",,C2699963,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 5:58 AM,Events,
+T29586364,"Playback - bufferstart,bufferstop,resume",,C2699964,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 5:58 AM,Events,
+T29586360,Videoplayer - userinitiated,,C2699959,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,Video Player schema,0,,Passed,Praveen Kumar,5/23/2023 6:20 AM,Events,
+T29586357,session.action - First start,,C2699954,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,Session Schema,0,,Passed,Praveen Kumar,5/23/2023 5:59 AM,Events,
+T29586358,session.action - Cold start,,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,Session Schema,0,,Passed,Praveen Kumar,5/23/2023 6:08 AM,Events,
+T29586359,session..action - Resume start,,C2699956,Not implemented yet,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,Session Schema,0,,Skipped,Praveen Kumar,5/23/2023 6:08 AM,Events,
+T29586365,AdBreak.Start,,C2699965,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,AdBreak Schema,0,,Passed,Praveen Kumar,5/23/2023 6:08 AM,Events,
+T29586366,AdBreak.Complete,,C2699966,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,AdBreak Schema,0,,Passed,Praveen Kumar,5/23/2023 6:08 AM,Events,
+T29586372,Ad - start,,C2699977,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,AD schema,0,,Passed,Praveen Kumar,5/23/2023 5:56 AM,Events,
+T29586373,"Ad - pausestart,pausestop,resume",,C2699979,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,AD schema,0,,Passed,Praveen Kumar,5/23/2023 5:56 AM,Events,
+T29586374,"Ad - bufferstart,bufferstop,resume",,C2699980,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,AD schema,0,,Passed,Praveen Kumar,5/23/2023 5:56 AM,Events,
+T29586375,Ad - stop,,C2699981,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,AD schema,0,,Passed,Praveen Kumar,5/23/2023 5:56 AM,Events,
+T29586376,Ad - complete,,C2699982,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,AD schema,0,,Passed,Praveen Kumar,5/23/2023 5:56 AM,Events,
+T29586368,Account.create.profile,,C2699970,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,Account Schema,0,,Passed,Praveen Kumar,5/23/2023 12:07 PM,Events,
+T29586369,Authentication - Login,,C2699972,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 6:20 AM,Events,
+T29586370,Authentication - Logout,,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 6:20 AM,Events,
+T29586371,Authentication-LoginStart,,C2699976,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,"Vizio D,M,P",R109745,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 2:33 PM,Events,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586390,Cast Session Successful Event is Fired,,C2699957,,,,,,Analytics - DQI - P0s,R109732,"Android
+Web
+iPad
+iPhone",P0,GQA-2332,Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Casting Session Analytics,0,,Remove from Run,Pratyusha Meduri,5/22/2023 2:20 AM,Events,
+T29586391,Cast Session Start Failure Event is Fired,,C2699958,,,,,,Analytics - DQI - P0s,R109732,"Android
+Web
+iPad
+iPhone",P0,GQA-2332,Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Casting Session Analytics,0,,Remove from Run,Pratyusha Meduri,5/22/2023 2:20 AM,Events,
+T29586393,Playback for user initiated videos,,C2699960,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Playback Schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:54 AM,Events,
+T29586394,Playback for endcard videos,,C2699961,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Playback Schema,0,,Passed,Pratyusha Meduri,5/23/2023 2:08 AM,Events,
+T29586395,"Playback - Pause, resume",,C2699963,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Playback Schema,0,,Passed,Pratyusha Meduri,5/23/2023 2:03 AM,Events,
+T29586396,"Playback - bufferstart,bufferstop,resume",,C2699964,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Playback Schema,0,,Passed,Pratyusha Meduri,5/23/2023 2:08 AM,Events,
+T29586392,Videoplayer - userinitiated,,C2699959,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Video Player schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:54 AM,Events,
+T29586388,session.action - Cold start,,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Session Schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:33 AM,Events,
+T29586389,session..action - Resume start,,C2699956,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Session Schema,0,,Passed,Pratyusha Meduri,5/23/2023 2:57 AM,Events,
+T29586385,purchaseInitiate,,C2699948,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Purchase Schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:33 AM,Events,
+T29586386,purchaseReceipt,,C2699949,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+HWA
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Purchase Schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:33 AM,Events,
+T29586387,purchaseRestore,,C2699953,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8489, GQA-3547",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Purchase Schema,0,,Passed,Pratyusha Meduri,5/23/2023 2:55 AM,Events,
+T29586397,AdBreak.Start,,C2699965,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,AdBreak Schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:54 AM,Events,
+T29586398,AdBreak.Complete,,C2699966,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,AdBreak Schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:54 AM,Events,
+T29586404,Ad - start,,C2699977,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,AD schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:54 AM,Events,
+T29586405,"Ad - pausestart,pausestop,resume",,C2699979,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,AD schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:58 AM,Events,
+T29586406,"Ad - bufferstart,bufferstop,resume",,C2699980,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,AD schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:58 AM,Events,
+T29586407,Ad - stop,,C2699981,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,AD schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:58 AM,Events,
+T29586408,Ad - complete,,C2699982,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,AD schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:54 AM,Events,
+T29586399,Account. register,,C2699968,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Account Schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:33 AM,Events,
+T29586400,Account.create.profile,,C2699970,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Account Schema,0,,Passed,Pratyusha Meduri,5/23/2023 1:42 AM,Events,
+T29586401,Authentication - Login,,C2699972,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Authentication.action,0,,Passed,Pratyusha Meduri,5/23/2023 1:39 AM,Events,
+T29586402,Authentication - Logout,,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Authentication.action,0,,Remove from Run,Pratyusha Meduri,5/23/2023 3:01 AM,Events,
+T29586403,Authentication-LoginStart,,C2699976,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Authentication.action,0,,Passed,Pratyusha Meduri,5/23/2023 2:25 AM,Events,
+T29586409,Verify analytics for Connect Your Provider flow - Select provider from list,,C2699989,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2229,Analytics (DQI) - P0s,Web_Windows_Chrome,R109746,Analytics-new - sign in,0,,Passed,Pratyusha Meduri,5/23/2023 2:27 AM,Events,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+T29586423,Playback for user initiated videos,,C2699960,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-2107",Analytics (DQI) - P0s,Xbox,R109747,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 11:39 AM,Events,
+T29586424,Playback for endcard videos,,C2699961,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Xbox,R109747,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 11:39 AM,Events,
+T29586425,"Playback - Pause, resume",,C2699963,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55, GQA-1704 GQA-1928",Analytics (DQI) - P0s,Xbox,R109747,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 11:39 AM,Events,
+T29586426,"Playback - bufferstart,bufferstop,resume",,C2699964,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8820, GQA-3581, PLAY-72, PLAY-1973, PLAY-102, PLAY-60, PLAY-55",Analytics (DQI) - P0s,Xbox,R109747,Playback Schema,0,,Passed,Praveen Kumar,5/23/2023 11:39 AM,Events,
+T29586422,Videoplayer - userinitiated,,C2699959,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"PLAY-32, PLAY-72, PLAY-1973, PLAY-102",Analytics (DQI) - P0s,Xbox,R109747,Video Player schema,0,,Passed,Praveen Kumar,5/23/2023 11:39 AM,Events,
+T29586419,session.action - First start,,C2699954,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Xbox,R109747,Session Schema,0,,Passed,Praveen Kumar,5/23/2023 9:03 AM,Events,
+T29586420,session.action - Cold start,,C2699955,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Xbox,R109747,Session Schema,0,,Passed,Praveen Kumar,5/23/2023 3:50 PM,Events,
+T29586421,session..action - Resume start,,C2699956,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8182, GQA-2685",Analytics (DQI) - P0s,Xbox,R109747,Session Schema,0,,Skipped,Praveen Kumar,5/23/2023 11:39 AM,Events,
+T29586427,AdBreak.Start,,C2699965,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Xbox,R109747,AdBreak Schema,0,,Passed,Praveen Kumar,5/23/2023 9:03 AM,Events,
+T29586428,AdBreak.Complete,,C2699966,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0," GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Xbox,R109747,AdBreak Schema,0,,Passed,Praveen Kumar,5/23/2023 9:03 AM,Events,
+T29586434,Ad - start,,C2699977,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Xbox,R109747,AD schema,0,,Passed,Praveen Kumar,5/23/2023 9:03 AM,Events,
+T29586435,"Ad - pausestart,pausestop,resume",,C2699979,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Xbox,R109747,AD schema,0,,Passed,Praveen Kumar,5/23/2023 3:50 PM,Events,
+T29586436,"Ad - bufferstart,bufferstop,resume",,C2699980,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Xbox,R109747,AD schema,0,,Passed,Praveen Kumar,5/23/2023 3:50 PM,Events,
+T29586437,Ad - stop,,C2699981,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Xbox,R109747,AD schema,0,,Passed,Praveen Kumar,5/23/2023 3:50 PM,Events,
+T29586438,Ad - complete,,C2699982,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8488, GQA-3530, PLAY-1973",Analytics (DQI) - P0s,Xbox,R109747,AD schema,0,,Passed,Praveen Kumar,5/23/2023 9:03 AM,Events,
+T29586430,Account.create.profile,,C2699970,,,,,,Analytics - DQI - P0s,R109732,All Platforms,P0,"GCX-8256, GQA-2890, IAPA-265, IAPA-137",Analytics (DQI) - P0s,Xbox,R109747,Account Schema,0,,Passed,Praveen Kumar,5/23/2023 11:39 AM,Events,
+T29586431,Authentication - Login,,C2699972,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Xbox,R109747,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 9:03 AM,Events,
+T29586432,Authentication - Logout,,C2699973,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Xbox,R109747,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 9:03 AM,Events,
+T29586433,Authentication-LoginStart,,C2699976,,,,,,Analytics - DQI - P0s,R109732,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-8153, GQA-2673, IAPA-342, IAPA-303, IAPA-67",Analytics (DQI) - P0s,Xbox,R109747,Authentication.action,0,,Passed,Praveen Kumar,5/23/2023 3:50 PM,Events,

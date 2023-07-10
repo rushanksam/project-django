@@ -1,0 +1,3058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+	<id>R111971</id>
+	<name>Roku</name>
+	<description></description>
+	<config>Roku 4k TV</config>
+	<createdon>2023-06-01T11:39:18Z</createdon>
+		<completed>false</completed>
+		<milestone>GQA_E2E_May30_Jun6</milestone>
+	<stats>
+										<passed>
+			<percent>100</percent>
+			<count>8</count>
+		</passed>
+											<failed>
+			<percent>0</percent>
+			<count>0</count>
+		</failed>
+											<blocked>
+			<percent>0</percent>
+			<count>0</count>
+		</blocked>
+											<untested>
+			<percent>0</percent>
+			<count>0</count>
+		</untested>
+											<retest>
+			<percent>0</percent>
+			<count>0</count>
+		</retest>
+											<custom_status1>
+			<percent>0</percent>
+			<count>0</count>
+		</custom_status1>
+											<custom_status2>
+			<percent>0</percent>
+			<count>0</count>
+		</custom_status2>
+											<automated>
+			<percent>0</percent>
+			<count>0</count>
+		</automated>
+											<notapplicable>
+			<percent>0</percent>
+			<count>0</count>
+		</notapplicable>
+											<exceptions>
+			<percent>0</percent>
+			<count>0</count>
+		</exceptions>
+											<custom_status6>
+			<percent>0</percent>
+			<count>0</count>
+		</custom_status6>
+											<awaitingclarifications>
+			<percent>0</percent>
+			<count>0</count>
+		</awaitingclarifications>
+			</stats>	<sections>
+		<section>
+		<name>User Profiles</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Default Kids Profile</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Parental Controls</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Profile Analytics</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Global Navigation</name>
+		<description>Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160</description>
+										<sections>
+		<section>
+		<name>Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Out of Scope</name>
+		<description>Out of Scope for initial Beam launch.  Initial launch is US only and there will be no limited free experience browsing of the app for initial launch</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Home page</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Out Of Scope</name>
+		<description>For now these test cases are out of scope for Beam initial launch.
+
+There are already test cases for My List.  As for Genres, it is not yet known how Beam will be curated and what Genres will be available where.</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>My Stuff</name>
+		<description>My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132</description>
+										<sections>
+		<section>
+		<name>Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Out of Scope</name>
+		<description>These were de-prioritized for initial Beam launch and will come later
+
+These CUJs were initially created as they were part of the original P0 capabilities. The sorting and Edit features were later changed to P1, removed from original capabilities and put into these new P1 capabilities.
+
+https://wbdstreaming.atlassian.net/browse/CD-3249
+https://wbdstreaming.atlassian.net/browse/CD-2912
+https://wbdstreaming.atlassian.net/browse/CD-2882</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>My List</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Analytics</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Continue Watching</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>For Later Use / Not in Scope</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Continue Watching - Analytics</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Welcome Screen</name>
+		<description></description>
+									</section>
+		<section>
+		<name>JIP</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Account Page</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Out Of Scope</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>EPG-TV Guide</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Onboarding, Registration and Sign in</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>MVPD</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Identity</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Analytics</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Analytics-new - sign in</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Partner Activation</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>WEB</name>
+		<description></description>
+									</section>
+		<section>
+		<name>STB</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>sign in genric flow</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>WiFi SignIn</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>Network Landing Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>BT Sports</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>For You Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>LIVE</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>OneTrust CMP</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Payment Flow</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Payment Failure Notifications</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Google Frictionless Subscription</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Roku Instant Sign Up</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Roku Pay Passive on Hold</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Roku Automatic Account Link</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Google Pause Subscription</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Subscribe via IAP</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Subscribe Via IAP: Analytics</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Re-subscribe after lapsed subscription</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Subscribe via Non IAP</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Re-Subscribe Via Non IAP after Lapsed Subscription</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Web Purchase Flow</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Customer Claim Vouchers</name>
+		<description>The Customer Claim Vouchers is split into the following sections:
+
+1. New User
+
+2. User with a Beam Account
+ a. Unentitled User (Abandoned or Lapsed)
+ b. Entitled User (Offer Stacking)</description>
+										<sections>
+		<section>
+		<name>New User (Account Creation)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>User has a BEAM Account</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Unentitled User (Abandoned / Lapsed)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Existing User (Entitled User is Offer Stacking)</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>Delete this Section Header</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Change Plan for IAP</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Restore Purchase</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Update Payment Method</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Apple Introductory Offers</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Purchase Flow</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Out Of Scope or Duplicate</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Content Detail Page</name>
+		<description>Content Detail Page Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/186551056/
+
+Content Detail Page Feature:
+https://wbdstreaming.atlassian.net/browse/CD-74</description>
+										<sections>
+		<section>
+		<name>Series Detail Page</name>
+		<description>Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0</description>
+									</section>
+		<section>
+		<name>Movie Detail Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Sports Detail Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Info panel</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Event Detail Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Out Of Scope</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Notification Settings</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>Browse Page</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Out of Scope</name>
+		<description>There are no capabilities for Beam that speak to a Browse Shows CTA on empty My List.  The My Stuff CUJs have already been created to cover new Beam requirements.</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Site Selection &amp; EEA Portability</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Site Selection &amp; EEA Portability</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Sports Pages</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Sports Category Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Sports Home Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Sports Schedule</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Age Rating &amp; Content Descriptors</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Watch and Playback experience</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Core playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Live Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Simulcast  Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Ads Playback</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Brightline Ads</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Dynamic Ad-Insertion (This GQA ticket was Cancelled)</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Playback Service Integration</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Ad-Stitching and Manifest Manipulation</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Kids Ads Experience</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Pause Ads</name>
+		<description>The feature has been set to post-launch
+
+AD-327</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>BEAM Pre- and Post-Roll Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Inline Video Playback in the Hero Component</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Content Formats &amp; AV Components</name>
+		<description>https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/162857401/PLAY-28+Content+Formats+AV+Components+Test+Plan</description>
+									</section>
+		<section>
+		<name>End of Asset Experience</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Up Next</name>
+		<description></description>
+									</section>
+		<section>
+		<name>UpNext - Apple TV App Support</name>
+		<description></description>
+									</section>
+		<section>
+		<name>End Card for Movies &amp; Terminal Episodes</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Video/Player Fit- Aspect Ratio Support</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Text Display &amp; Formating (Subtitles, CC)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Playback Error Messaging</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Fallback and Fail Opens</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Videostart Restricted</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Parental Controls</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Error messaging</name>
+		<description>Video Start Restricted - Error Messaging - Concurrent stream limit, Geo-Restriction, Parental Controls, Live Blackouts</description>
+										<sections>
+		<section>
+		<name>Error Messaging Accessibility</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>Video Settings</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Playback Settings</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Player Controls &amp; Metadata</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>VOD Timeline, Playback Controls &amp; Transport Controls</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Metadata</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Audio and text menu</name>
+		<description></description>
+									</section>
+		<section>
+		<name>More Episodes</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Skip button</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Not Skippable Pre-Rolls</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Ratings &amp; Advisories Overlay</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Preview Thumbnail (fka &quot;trickplay&quot;)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Exiting playback</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>PIP</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Ads in PIP</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Quality of Experience Measurement</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Non-Playback Feature Analytics on Player (UserInteraction)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Casting Session Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Asset Downloads Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Playback Feature Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Online Video Delivery Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Off-line Video Delivery Analytics</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Downloads</name>
+		<description>Downloads Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/128680320/PLAY-24+Downloads+test+plan</description>
+										<sections>
+		<section>
+		<name>Downloads Page</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Offline Downloads Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Edit the Downloads List</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Downloads page access and view</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Download Action Drawer</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Download Error Handling</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Downloads Settings</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Download Business Rules</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Downloads Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Downloading an Asset</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Create New Profile</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Downloads Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Downloads Post-MVP</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Airplay</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Chromecast</name>
+		<description></description>
+									</section>
+		<section>
+		<name>US Domestic :: Language Cold Start, Persistence and Fallbacks</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Protect Premium Content from Piracy (DRM)</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Deep Link &amp; Universal Link - Out of Scope (Delete?))</name>
+		<description>Note &amp;gt; these are old D+ CUJs that were ported in and no longer valid.  They may need to be deleted.  
+
+New BEAM deeplink CUJs have been written and exist here:
+https://discovery.testrail.io/index.php?/suites/view/23470&amp;group_by=cases:section_id&amp;group_id=266859&amp;group_order=asc&amp;display_deleted_cases=0
+
+
+Screens Enabled for Deeplinking 
+
+
+https://docs.google.com/spreadsheets/d/1fVHCoh3jMauUazMT454iucTNMCeqwJsJLekhxv_swMg/edit#gid=619166504
+
+
+Thunder CRM Links
+https://docs.google.com/spreadsheets/d/1fsFPG2B4HOVS_A54i-U7-Muej4wyPUc_PqEqCswb7uw/edit#gid=1943338814</description>
+									</section>
+		<section>
+		<name>Accessibility Critical User Journeys</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>High Level Testing</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>New User - Sign In/ Sign Out</name>
+		<description></description>
+									</section>
+		<section>
+		<name>New User Purchase Plan</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Video</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Video with Ads</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Search</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Create New Profile</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Edit Profile</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Verify My list functionality</name>
+		<description></description>
+									</section>
+		<section>
+		<name>General</name>
+		<description>Generic test cases that can be used to test all features</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Account Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Compliance &amp; Family</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Content Discovery and Browse</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Global Navigation</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Search</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Continue Watching/My List</name>
+		<description></description>
+									</section>
+		<section>
+		<name>My Stuff Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Rail &amp; Tile Components</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Content Detail Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Reminders</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Show Landing Page (Work in progress)</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>WIP - Format2</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>User Profiles</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Player</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Up Next</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Skip</name>
+		<description></description>
+									</section>
+		<section>
+		<name>MLP</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Chromecast</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Airplay (iOS Only)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Live</name>
+		<description></description>
+									</section>
+		<section>
+		<name>AVOD</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Delete this</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Advertising &amp; Ad Supported Products</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Front End General UX</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Brightline Interactive Ad Product</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Delete this folder</name>
+		<description></description>
+									</section>
+		<section>
+		<name>IAP Flow</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Google Frictionless Subscription (COM-122)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>New User Subscription Subscribe via IAP (for MVP US Launch) (COM-142)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Payment Failure Notifications (for COM-826)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Proactive Restore Purchase (COM-123)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>DTC Web</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Roku Pay Passive on Hold</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Roku Automatic Account Link</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Change Plan</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Google Pause Subscription</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Membership Experience</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Cancellation Experience</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Error  Handling</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Member Feed (scheduled now for Post Launch)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>N/A</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Settings &amp; Account</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Account Info</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Account Creation</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Device Management</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Downloads</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Downloading Video</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Download Discovery</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Download Action Drawer</name>
+		<description>https://wbdstreaming.atlassian.net/browse/PLAY-103</description>
+									</section>
+		<section>
+		<name>Downloads Settings</name>
+		<description>https://wbdstreaming.atlassian.net/browse/PLAY-87</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Video Settings</name>
+		<description>Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/150208690/PLAY-26+Video+Settings+Test+Plan</description>
+									</section>
+		<section>
+		<name>Welcome Screen</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Accessibility (copy)</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>A11y - High Level Testing</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>New User - Sign In/ Sign Out</name>
+		<description></description>
+									</section>
+		<section>
+		<name>New User Purchase Plan</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Video</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Video with Ads</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Search</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Create New Profile</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Edit Profile</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authenticated - Verify My list functionality</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Account Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Compliance &amp; Family</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Content Discovery and Browse</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Global Navigation</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Search</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Continue Watching/My List</name>
+		<description></description>
+									</section>
+		<section>
+		<name>My Stuff Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Rail &amp; Tile Components</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Content Detail Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Reminders</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Show Landing Page (Work in progress)</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>WIP - Format2</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>User Profiles</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Player</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Up Next</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Skip</name>
+		<description></description>
+									</section>
+		<section>
+		<name>MLP</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Chromecast</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Airplay (iOS Only)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Live</name>
+		<description></description>
+									</section>
+		<section>
+		<name>AVOD</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Delete this</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Advertising &amp; Ad Supported Products</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Front End General UX</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Brightline Interactive Ad Product</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>IAP Flow</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Google Frictionless Subscription (COM-122)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>New User Subscription Subscribe via IAP (for MVP US Launch) (COM-142)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Payment Failure Notifications (for COM-826)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Proactive Restore Purchase (COM-123)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>DTC Web</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Roku Pay Passive on Hold</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Roku Automatic Account Link</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Change Plan</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Google Pause Subscription</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Membership Experience</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Cancellation Experience</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Error  Handling</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Member Feed (scheduled now for Post Launch)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>N/A</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Settings &amp; Account</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Account Info</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Account Creation</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Device Management</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Downloads</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Downloading Video</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Download Discovery</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Download Action Drawer</name>
+		<description>https://wbdstreaming.atlassian.net/browse/PLAY-103</description>
+									</section>
+		<section>
+		<name>Downloads Settings</name>
+		<description>https://wbdstreaming.atlassian.net/browse/PLAY-87</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Video Settings</name>
+		<description>Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/150208690/PLAY-26+Video+Settings+Test+Plan</description>
+									</section>
+		<section>
+		<name>Welcome Screen</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>Chatbot/ Chat Widget</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Chatbot - Accessibility</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Chatbot - Error messages</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Chatbot - Appearance</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Membership Experience</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Member Feed</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Member Feed Out of scope for Apr launch</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Cancellation Experience</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Save Offer Eligibility</name>
+		<description>No changes from current d+ behavior</description>
+									</section>
+		<section>
+		<name>Service Error Handling</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Subscription Management</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Save Offer Payment Method Entry</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Save Offer Error Handling</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Analytics - Cancellation Experience</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Membership Onboarding Per Profile</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Apple Account Deletion</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Force Upgrade</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Remote Control Mapping</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Keyboards</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Custom keyboard</name>
+		<description>GCX-876 Custom International Keyboard Input STB / CTVs
+
+Testplan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/137265640/GCX-875+-+Keyboards</description>
+									</section>
+		<section>
+		<name>Native keyboard</name>
+		<description>GCX-804 Enable Native Keyboard Functionality - capability ticket cancelled as it&apos;s being tracked within other capabilities 
+
+Testplan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/137265640/GCX-875+-+Keyboards</description>
+									</section>
+		<section>
+		<name>Keyboard Browse Navigation</name>
+		<description>https://wbdstreaming.atlassian.net/browse/GCX-880 Keyboard Browse Navigation
+
+Testplan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/137265640/GCX-875+-+Keyboards</description>
+									</section>
+		<section>
+		<name>Keyboard Shortcuts</name>
+		<description>https://wbdstreaming.atlassian.net/browse/GCX-904 Keyboard shortcuts
+
+testplan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/137265640/GCX-875+-+Keyboards</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Unified Error Messaging</name>
+		<description></description>
+									</section>
+		<section>
+		<name>In App Ratings Prompt | Apptentive</name>
+		<description>This feature prompts users to provide feedback in the form of reviews, ratings, and survey responses on the app.</description>
+									</section>
+		<section>
+		<name>Search</name>
+		<description>https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/133464614/CD-2877+-+Search+-+Test+Plan</description>
+										<sections>
+		<section>
+		<name>Search Core</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Search API</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Search Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Personalized Search</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>In App Voice Control</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Voice Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Voice Search/Discoverability</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Deep linking</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>TV Remote Partner Buttons</name>
+		<description></description>
+									</section>
+		<section>
+		<name>In App Ratings Prompt - Apptentive</name>
+		<description>This feature prompts users to provide feedback in the form of reviews, ratings and survey responses to the app.</description>
+										<sections>
+		<section>
+		<name>Love Dialog</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Prompts should not be visible</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Apptentive data</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Components</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Rail and Tile Components</name>
+		<description>Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301</description>
+										<sections>
+		<section>
+		<name>Analytics</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Hero Components</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Analytics Hero Component</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Badging</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>For Later use / Not in Q1 launch</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Analytics</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Foundational Components behavior</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Migration</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>U.S. Consent Migration</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Profiles - Migration</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Content Migration - Not in Scope for Max Launch</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Video Settings - Screen reader - Wifi Only Toggle button ON</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Video Settings - Screen reader - Wifi Only Toggle button ON</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Out Of App Promotional Rails</name>
+		<description>The new beam product will feature out of app promotional rails where we will be passing content rails from the app to the partner.</description>
+										<sections>
+		<section>
+		<name>Android TV</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Samsung CW rail</name>
+		<description>The purpose for this task is to integrate Discovery+ content in to Samsung Universal Guide Continue Watching Feature. Our intention is to allow Samsung the ability to display Discovery+ content within the aggregated “Continue Watching”  feature from outside of our App.</description>
+									</section>
+		<section>
+		<name>Samsung Smart Hub Preview</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Roku CW Rail</name>
+		<description></description>
+									</section>
+		<section>
+		<name>LG Preview Row</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Amazon Partner Managed Row</name>
+		<description>Your app can send recommendations to users about the content (movies, shows, music, games) that you want them to watch. For most developers, your recommendations will appear on a shared Recommended By Your Apps row on the Amazon Fire TV home screen. For information about the shared recommendations row, see Recommendations.</description>
+									</section>
+		<section>
+		<name>Android Watch Next channel (LRAP)</name>
+		<description>As a user, I should be able to watch the recently played/ watched show in ‘Play next’ rail shown on AndroidTV Home screen so that the show would be easily accessible.</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Backstack Scenarios</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Backstack Analytics</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>A/B Testing</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Audio Description</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Spotlight Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Within Navigation</name>
+		<description></description>
+									</section>
+		<section>
+		<name>In Web Footer</name>
+		<description></description>
+									</section>
+		<section>
+		<name>In Search</name>
+		<description></description>
+									</section>
+		<section>
+		<name>In Player</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>[Partner Activation] Customer Help Access</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Personalization Beam Day 1</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Recommended For You</name>
+		<description></description>
+									</section>
+		<section>
+		<name>You may also like</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Human / Machine : ML for End Card</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Title Relevance &amp; Exploration : Watched Content Suppression: Rail level</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Horizontal re-rank of titles</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Human / Machine : Promotion in immersive Hero</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Because You Watched (BYW)</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>[Partner Activation] Web/STB Partner Linking Flows - Errors on Redirect</name>
+		<description>As a user I want to be messaged if I don&apos;t have an entitlement for Beam or if something goes wrong during the linking flow.</description>
+									</section>
+		<section>
+		<name>[Partner Activation] Web Partner Linking Flows - watching</name>
+		<description>As a user I want to be able to start streaming content after finishing the &apos;profile&apos; step.</description>
+									</section>
+		<section>
+		<name>Marketing &amp; Acquisition</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Deep Links</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Marketing Notifications</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Transaction Notifications</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Privacy &amp; Terms</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Communication Preference Center</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Content Reminders (Bifrost Automations)</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Settings</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Notifications</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Info</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>[Partner Activation]  STB Sign In - Ready to watch</name>
+		<description></description>
+									</section>
+		<section>
+		<name>[Partner Activation] STB Content Management - Configurable flows / Partner Contracts</name>
+		<description></description>
+									</section>
+		<section>
+		<name>[Partner Activation] STB Partner Linking Flows - New Customers</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Out of Scope Tests</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Green Light</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Content Exclusions</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>[Partner Activation]  Web/STB Error Messaging Consistency</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Ad server configuration</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Sign in / Sign up frontend</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Backgrounding the App</name>
+		<description>As part of feature parity, we need to support platforms that offer backgrounding of our app across devices. This allows the user to warm start the app when there is enough memory to keep our apps active in the background. When the user hits the home button on the remote and exit to the partner OS, upon returning to the app, they should be on the last screen where they left off.</description>
+										<sections>
+		<section>
+		<name>Samsung Multitasking Row</name>
+		<description>Samsung has launched a new feature part of the OS called Multitasking which allows you to save the application state when the user launches another application or TV channel, and to restore it when the application is resumed. You can also monitor for changes in the visibility of your application.</description>
+									</section>
+		<section>
+		<name>Amazon Background app</name>
+		<description>Amazon allows the app to be background simply by pressing the home button on the remote</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Event Streams Analytics</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Player Event Stream Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Ad beacons</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Front End Consent</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>General Requirements</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Web Unauth/Auth Footer</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Platform Consents</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Buy Flow</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Settings</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Kids Front End Consent</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>US Notices, Disclosures and Policies</name>
+		<description></description>
+									</section>
+		<section>
+		<name>User Walls / Errors</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Brand Block Original</name>
+		<description></description>
+									</section>
+		<section>
+		<name>P0</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Analytics (final)</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>AdBreak Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>AD schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Chapter Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Error Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Playback Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Player schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Account Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Client Attributes</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Session Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>UserProfile Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Form Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Consent schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Authentication.action</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Interaction.click schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Interaction.impression Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Browse</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Search Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Downloads Analytics</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Offline Downloading</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Download -Online</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>General</name>
+		<description>Got confirmation from Dick that below attributes are not required to be seen on the client side. These are fields being managed by Data Platform for their table:
+
+subtype	
+typeprefix		
+receivedtimestamp
+trackingcode	
+experiment</description>
+										<sections>
+		<section>
+		<name>Page Performance</name>
+		<description>Client apps need to send Performance Mark and Measures events using the Instrumentation SDK API so that page performance metrics are emitted correctly.</description>
+									</section>
+		<section>
+		<name>Boot Performance</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Product Attributes</name>
+		<description></description>
+									</section>
+		<section>
+		<name>PIP mobile</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Promo Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Purchase Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Beacon Action - VOD</name>
+		<description></description>
+									</section>
+		<section>
+		<name>MY LIST</name>
+		<description></description>
+									</section>
+		<section>
+		<name>COM Analytics cases</name>
+		<description>Features 
+
+COM-35	Post-purchase confirmation screen
+COM-36	Offer Redemption (New User)
+COM-37	Change Plan
+COM-38	Lapsed customers subscribe to BEAM
+COM-131	Choose plan screen
+COM-142	Subscribe via IAP for MVP US Launch</description>
+										<sections>
+		<section>
+		<name>Delete</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Profile Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Heartbeat &amp; Network Measure events</name>
+		<description></description>
+									</section>
+		<section>
+		<name>[Partner Activation] MVPD Re-authentication (ReAuthN)</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Mystuff Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Continue Watching - Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Badging Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Content Detail Page Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Global Navigation Analytics</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Account Schema</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Analytics-new - sign in</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Rail &amp; Tile Components</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>delete</name>
+		<description></description>
+									</section>
+		<section>
+		<name>delete</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>Approved P0</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Global Navigation</name>
+		<description></description>
+									</section>
+		<section>
+		<name>My Stuff</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Continue Watching</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Onboarding, Registration and Sign in</name>
+		<description></description>
+									</section>
+		<section>
+		<name>MVPD</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Partner Activation</name>
+		<description></description>
+									</section>
+		<section>
+		<name>IAP</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Subscribe via Non IAP</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Subscribe via IAP</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Change Plan for IAP</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Restore Purchase</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Web Purchase Flow</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Content Detail Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Movie Detail Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Age Rating &amp; Content Descriptors</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Watch and Playback experience</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Core playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Ads Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>BEAM Pre- and Post-Roll Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Settings</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Playback Settings</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Player Controls &amp; Metadata</name>
+		<description></description>
+									</section>
+		<section>
+		<name>VOD Timeline, Playback Controls &amp; Transport Controls</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Audio and text menu</name>
+		<description></description>
+									</section>
+		<section>
+		<name>More Episodes</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Ratings &amp; Advisories Overlay</name>
+		<description></description>
+									</section>
+		<section>
+		<name>PIP</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Downloads</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Offline Downloads Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Downloads page access and view</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Downloads Settings</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Download Business Rules</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Downloads Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Downloading an Asset</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Airplay</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Site Selection &amp; EEA Portability</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Sports content discovery components</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Membership Experience</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Member Feed</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Cancellation Experience</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Search</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Search Core</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Human / Machine : ML for End Card</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Human / Machine : Promotion in immersive Hero</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Deep Links</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Account Page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>User Profiles</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Video Player</name>
+		<description>Watch Next/Up-Next/Autoplay:</description>
+									</section>
+		<section>
+		<name>Sign in generic flow</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Sign in / Sign up Frontend Development</name>
+		<description></description>
+									</section>
+		<section>
+		<name>OD&amp;BD Build Validation Test</name>
+		<description></description>
+						<tests>
+						            																																																																	<test>
+				<id>T30341720</id>
+				<title>sign-in/sign-out</title>
+												<template>Test Case (Advanced)</template>
+																<type>Sanity</type>
+																<priority>Critical</priority>
+																								<references>NA</references>
+																				<custom>
+															<automatable>false</automatable>
+															<automation_type><id>0</id><value> None</value></automation_type>
+															<cujsignoff>false</cujsignoff>
+															<applicable_platfroms><item>
+<id>11</id><value>All Platforms</value></item>
+</applicable_platfroms>
+															<region><item>
+<id>14</id><value>US</value></item>
+</region>
+															<steps_separated><step>
+<index>1</index><content>+ Launch the web app.Sign in with existing / new user
+
++ Land on home page.
+
++ Sign out of the app.
+
++ Sign back in.</content><expected>
+
+* After successful creation, a registered user logs in and lands on home page.
+
+* User should be able to sign out and then sign back in.New user creates account successfully.
+
+* After successful creation, a registered user logs in and lands on home page.
+
+* User should be able to sign out and then sign back in.</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C2682245</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-06-01T16:47:30Z</createdon>
+																		<createdby>Shuan Wang</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+															<step_results>
+																		<step>
+<content>+ Launch the web app.Sign in with existing / new user
+
++ Land on home page.
+
++ Sign out of the app.
+
++ Sign back in.</content><expected>
+
+* After successful creation, a registered user logs in and lands on home page.
+
+* User should be able to sign out and then sign back in.New user creates account successfully.
+
+* After successful creation, a registered user logs in and lands on home page.
+
+* User should be able to sign out and then sign back in.</expected><actual></actual><status>Untested</status></step>
+								</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+									            																																																																	<test>
+				<id>T30341721</id>
+				<title>New user purchase plan</title>
+												<template>Test Case (Steps)</template>
+																<type>Sanity</type>
+																<priority>Critical</priority>
+																								<references>NA</references>
+																				<custom>
+															<automatable>false</automatable>
+															<automation_type><id>0</id><value> None</value></automation_type>
+															<duplicative_test>false</duplicative_test>
+															<burn_with_fire>false</burn_with_fire>
+															<descoped>false</descoped>
+															<cujsignoff>false</cujsignoff>
+															<applicable_platfroms><item>
+<id>11</id><value>All Platforms</value></item>
+</applicable_platfroms>
+															<region><item>
+<id>14</id><value>US</value></item>
+</region>
+															<steps_separated><step>
+<index>1</index><content>* Select the purchase plan and purchase.</content><expected>* Registered user purchases plan successfully.
+
+* After successful plan purchase, a registered user logs in and lands on home page.
+
+* User should be able to sign out and then sign back in.</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C2682246</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-06-01T17:47:21Z</createdon>
+																		<createdby>Stephanie Kart</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+															<step_results>
+																		<step>
+<content>* Select the purchase plan and purchase.</content><expected>* Registered user purchases plan successfully.
+
+* After successful plan purchase, a registered user logs in and lands on home page.
+
+* User should be able to sign out and then sign back in.</expected><actual></actual><status>Untested</status></step>
+								</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+									            																																																																	<test>
+				<id>T30341722</id>
+				<title>Authenticated user plays video.</title>
+												<template>Test Case (Steps)</template>
+																<type>Sanity</type>
+																<priority>Critical</priority>
+																								<references>NA</references>
+																				<custom>
+															<automatable>false</automatable>
+															<automation_type><id>0</id><value> None</value></automation_type>
+															<duplicative_test>false</duplicative_test>
+															<burn_with_fire>false</burn_with_fire>
+															<descoped>false</descoped>
+															<cujsignoff>false</cujsignoff>
+															<applicable_platfroms><item>
+<id>11</id><value>All Platforms</value></item>
+</applicable_platfroms>
+															<region><item>
+<id>14</id><value>US</value></item>
+</region>
+															<steps_separated><step>
+<index>1</index><content>+ Sign in with the test creds.
+
++ Go to the test asset, play video.
+
++ Pause the video, then play.
+
++ FF, RWD the video , then play.</content><expected>+ Authenticated users should be able to play any video.
+
++ User should be able to pause, skip forward, and skip backward on video.</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C2682247</caseid>
+																			<casestatus></casestatus>
+																													<caseassignedto>Raghavi Ramamoorthy</caseassignedto>
+																							<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-06-01T16:44:55Z</createdon>
+																		<createdby>Shuan Wang</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+															<step_results>
+																		<step>
+<content>+ Sign in with the test creds.
+
++ Go to the test asset, play video.
+
++ Pause the video, then play.
+
++ FF, RWD the video , then play.</content><expected>+ Authenticated users should be able to play any video.
+
++ User should be able to pause, skip forward, and skip backward on video.</expected><actual></actual><status>Untested</status></step>
+								</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+									            																																																																	<test>
+				<id>T30341723</id>
+				<title>Authenticated user plays video with ad</title>
+												<template>Test Case (Steps)</template>
+																<type>Sanity</type>
+																<priority>Critical</priority>
+																								<references>NA</references>
+																				<custom>
+															<automatable>false</automatable>
+															<automation_type><id>0</id><value> None</value></automation_type>
+															<duplicative_test>false</duplicative_test>
+															<burn_with_fire>false</burn_with_fire>
+															<descoped>false</descoped>
+															<cujsignoff>false</cujsignoff>
+															<applicable_platfroms><item>
+<id>11</id><value>All Platforms</value></item>
+</applicable_platfroms>
+															<region><item>
+<id>14</id><value>US</value></item>
+</region>
+															<steps_separated><step>
+<index>1</index><content>* Sign in with the test creds.
+
+* Go to the test asset, play an asset with ads.
+
+* Pause the video, then play.
+
+* FF, RWD the video, then play.</content><expected>* Ad free users should not be able to see any ad while playing the video.
+
+* Ad lite users should see the ad.</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C2682248</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-06-01T16:45:06Z</createdon>
+																		<createdby>Shuan Wang</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+															<step_results>
+																		<step>
+<content>* Sign in with the test creds.
+
+* Go to the test asset, play an asset with ads.
+
+* Pause the video, then play.
+
+* FF, RWD the video, then play.</content><expected>* Ad free users should not be able to see any ad while playing the video.
+
+* Ad lite users should see the ad.</expected><actual></actual><status>Untested</status></step>
+								</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+									            																																																																	<test>
+				<id>T30341724</id>
+				<title>Authenticated user able to search</title>
+												<template>Test Case (Steps)</template>
+																<type>Sanity</type>
+																<priority>Critical</priority>
+																								<references>NA</references>
+																				<custom>
+															<automatable>false</automatable>
+															<automation_type><id>0</id><value> None</value></automation_type>
+															<duplicative_test>false</duplicative_test>
+															<burn_with_fire>false</burn_with_fire>
+															<descoped>false</descoped>
+															<cujsignoff>false</cujsignoff>
+															<applicable_platfroms><item>
+<id>11</id><value>All Platforms</value></item>
+</applicable_platfroms>
+															<region><item>
+<id>14</id><value>US</value></item>
+</region>
+															<steps_separated><step>
+<index>1</index><content>
+* Sign in with the test creds.
+
+* Click on search, search for an asset.
+
+* Search results should be seen.</content><expected>* User should be able to search content.
+
+
+</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C2682249</caseid>
+																			<casestatus></casestatus>
+																													<caseassignedto>Raghavi Ramamoorthy</caseassignedto>
+																							<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-06-01T16:43:12Z</createdon>
+																		<createdby>Shuan Wang</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+															<step_results>
+																		<step>
+<content>
+* Sign in with the test creds.
+
+* Click on search, search for an asset.
+
+* Search results should be seen.</content><expected>* User should be able to search content.
+
+
+</expected><actual></actual><status>Untested</status></step>
+								</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+									            																																																																	<test>
+				<id>T30341725</id>
+				<title>Authenticated user can create a profile</title>
+												<template>Test Case (Steps)</template>
+																<type>Sanity</type>
+																<priority>Critical</priority>
+																								<references>NA</references>
+																				<custom>
+															<automatable>false</automatable>
+															<automation_type><id>0</id><value> None</value></automation_type>
+															<duplicative_test>false</duplicative_test>
+															<burn_with_fire>false</burn_with_fire>
+															<descoped>false</descoped>
+															<cujsignoff>false</cujsignoff>
+															<applicable_platfroms><item>
+<id>11</id><value>All Platforms</value></item>
+</applicable_platfroms>
+															<region><item>
+<id>14</id><value>US</value></item>
+</region>
+															<steps_separated><step>
+<index>1</index><content>+ sign in, user is on the profile screen.
+
++ Click on &apos;Manage Profiles&apos;, and add new profile.</content><expected>+ Authenticated user should be able to create a profile.</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C2682250</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-06-01T16:39:51Z</createdon>
+																		<createdby>Shuan Wang</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+															<step_results>
+																		<step>
+<content>+ sign in, user is on the profile screen.
+
++ Click on &apos;Manage Profiles&apos;, and add new profile.</content><expected>+ Authenticated user should be able to create a profile.</expected><actual></actual><status>Untested</status></step>
+								</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+									            																																																																	<test>
+				<id>T30341726</id>
+				<title>Authenticated user - Verify My list functionality</title>
+												<template>Test Case (Steps)</template>
+																<type>Sanity</type>
+																<priority>Critical</priority>
+																								<references>NA</references>
+																				<custom>
+															<automatable>false</automatable>
+															<automation_type><id>0</id><value> None</value></automation_type>
+															<duplicative_test>false</duplicative_test>
+															<burn_with_fire>false</burn_with_fire>
+															<descoped>false</descoped>
+															<cujsignoff>false</cujsignoff>
+															<applicable_platfroms><item>
+<id>11</id><value>All Platforms</value></item>
+</applicable_platfroms>
+															<region><item>
+<id>14</id><value>US</value></item>
+</region>
+															<steps_separated><step>
+<index>1</index><content>* sign in with valid user creds.
+
+* Add Shows to MyList from Home / Browse/Search Page.
+
+* Click on &apos;MyList&apos; menu and verify the shows added in previous steps are listed.</content><expected>* Added shows should be listed under &apos;My List&apos;.</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C2682251</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-06-01T16:42:35Z</createdon>
+																		<createdby>Shuan Wang</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+															<step_results>
+																		<step>
+<content>* sign in with valid user creds.
+
+* Add Shows to MyList from Home / Browse/Search Page.
+
+* Click on &apos;MyList&apos; menu and verify the shows added in previous steps are listed.</content><expected>* Added shows should be listed under &apos;My List&apos;.</expected><actual></actual><status>Untested</status></step>
+								</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+									            																																																																										<test>
+				<id>T30341727</id>
+				<title>Authenticated user can edit their profile details</title>
+												<template>Test Case (Steps)</template>
+																<type>Sanity</type>
+																<priority>Critical</priority>
+																								<references>NA</references>
+																				<custom>
+															<automatable>false</automatable>
+															<automation_type><id>0</id><value> None</value></automation_type>
+															<duplicative_test>false</duplicative_test>
+															<burn_with_fire>false</burn_with_fire>
+															<descoped>false</descoped>
+															<cujsignoff>false</cujsignoff>
+															<platformautomated><item>
+<id>5</id><value>Roku</value></item>
+</platformautomated>
+															<applicable_platfroms><item>
+<id>11</id><value>All Platforms</value></item>
+</applicable_platfroms>
+															<region><item>
+<id>14</id><value>US</value></item>
+</region>
+															<steps_separated><step>
+<index>1</index><content>* sign in with authenticated user.
+
+* Click on &apos;Manage Profiles&apos;, and click on edit to edit the profile.</content><expected>* Authenticated user should be able to edit their profile details.</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C2682252</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-06-01T16:41:00Z</createdon>
+																		<createdby>Shuan Wang</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+															<step_results>
+																		<step>
+<content>* sign in with authenticated user.
+
+* Click on &apos;Manage Profiles&apos;, and click on edit to edit the profile.</content><expected>* Authenticated user should be able to edit their profile details.</expected><actual></actual><status>Untested</status></step>
+								</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Duplicates</name>
+		<description></description>
+									</section>
+		<section>
+		<name>P0_Subset</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Video Playback</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Help Center Branding</name>
+		<description>Now that the branding has been released, we swapped the placeholder URLs for the real ones</description>
+									</section>
+		<section>
+		<name>to be deleted</name>
+		<description></description>
+									</section>
+		<section>
+		<name>WiFi SignIn</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Adtech MP4 Impression Beacons</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Adtech MP4 Impression Beacons</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Adtech MP4 Impression Beacons</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Adtech MP4 Impression Beacons</name>
+		<description></description>
+									</section>
+</sections>
+</run>

@@ -1,0 +1,40 @@
+sudo apt install python3-venv
+python -m venv discoveryvenv
+source discoveryvenv/bin/activate
+
+sudo apt update
+sudo apt install python3-django
+python -m pip install django
+pip install django-import-export
+pip install pandas
+
+
+----
+1) Some files conatins multiple config details under config_device example is regression_pos
+2) While calculating testcases details, i can see status like untest, remove from run and retest.
+  -- this will create an issue while cal percent and total. since we are speccifying only for 
+        ---pass, fail, skipped and blocked along with percent. Hence total count of tc's and percentage will not get match
+3) please let me know if u want to ,change any in the dashboard
+4) if u are fine with this, I can start on discovery users list
+-------------
+1, update testcases as summary
+2, testcases as dashboard
+3, in the place milestone add bug id's 
+4, create milestone in the drop down to display all the testcases related to that test cases
+
+'''
+#form = DashBoardForm
+    formfield_overrides = {
+    models.TextField: {'widget': Textarea(
+                       attrs={'rows': 1,
+                              'cols': 40})},    
+    }
+# def formfield_for_dbfield(self, db_field, **kwargs):
+    #     formfield = super().formfield_for_dbfield(db_field, **kwargs)
+    #     if db_field.name == 'bugs':
+    #         formfield.strip = False
+    #         formfield.widget = forms.Textarea(attrs={'rows': 10, 'cols': 80})
+    #     return formfield
+    
+'''
+

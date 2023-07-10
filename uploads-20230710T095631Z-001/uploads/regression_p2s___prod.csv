@@ -1,0 +1,4809 @@
+,ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+0,T30929251,Profile Creation with Inline Errors,,C2623125,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2064,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:02 PM,Regression,
+1,T30929252,Profile Creation - Name Persists on Another Device,,C2623126,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2064,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:02 PM,Regression,
+2,T30928961,Edit User Profile - Name field,,C2479433,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2070,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:02 PM,Regression,
+3,T30928987,Edit User Profile with Special Characters,,C2480323,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2070,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:03 PM,Regression,
+4,T30929196,Edit User Profile - Name Persists on Another Device,,C2622574,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2070,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:05 PM,Regression,
+5,T30928972,Accessing A Deleted Profile From Another  Device,,C2479704,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2062,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:11 PM,Regression,
+6,T30929142,Lock Icon on WiW,,C2621759,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2056,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:15 PM,Regression,
+7,T30929152,View Profiles on WiW,,C2621913,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2745, GQA-2262",Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:15 PM,Regression,
+8,T30929245,View Profiles on Mobile,,C2622966,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2248,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:15 PM,Regression,
+9,T30929246,Profile quick switch on mobile,,C2622968,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2248,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:15 PM,Regression,
+10,T30929154,Edit mode from WiW page,,C2621917,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2262,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:16 PM,Regression,
+11,T30929174,Edit mode until Done selected,,C2622061,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+Cox
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Playstation
+iPhone",P2,GQA-2262,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:16 PM,Regression,
+12,T30929172,Profile Persistence on Mobile/Tablet/Desktop,,C2622056,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,"GQA-1476, GQA-2068",Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:16 PM,Regression,
+13,T30929188,Profiles & Globalization Experience - Forgot PIN - User forgot PIN  and doesn't know account password,,C2622403,,CONS-4789,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2263,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Failed,Thangam Thia,6/15/2023 3:40 PM,Regression,
+14,T30929191,Standard Profile Creation  With 1 to 4 Previous Profiles,,C2622422,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2069,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:16 PM,Regression,
+15,T30929192,Adding another profile to trigger Profile limit exceeded on 1 Device,,C2622424,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2069,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 3:12 PM,Regression,
+16,T30929193,Deletion of the Default User Profile,,C2622426,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2062,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:17 PM,Regression,
+17,T30929247,My Profile Menu - mobile,,C2622970,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2256,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Awaiting Clarifications,Thangam Thia,6/15/2023 2:48 PM,Regression,
+18,T30929306,My Profile Menu - Mobile - successful pin on locked profile,,C2625898,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2248,Regression P2s - Prod,Android Mobile,R114231,User Profiles,0,,Passed,Thangam Thia,6/15/2023 2:48 PM,Regression,
+19,T30929320,Default Kids Profile - First Login,,C2653691,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2607,Regression P2s - Prod,Android Mobile,R114231,Default Kids Profile,1,,Passed,Thangam Thia,6/15/2023 3:12 PM,Regression,
+20,T30929039,Default Kids Profile - Existing user - no Ratings banner,,C2606354,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2607,Regression P2s - Prod,Android Mobile,R114231,Default Kids Profile,1,,Passed,Thangam Thia,6/15/2023 3:12 PM,Regression,
+21,T30929307,Parental Controls - Create/Edit Parent Code when unauthenticated in browser session (mobile only),,C2648056,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2601, GQA-2805, GQA-2532",Regression P2s - Prod,Android Mobile,R114231,Parental Controls,1,,Passed,Thangam Thia,6/15/2023 3:41 PM,Regression,
+22,T30929135,Kids Transactional Emails sent,,C2621647,,DAI-6406,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2776, GQA-2603, GQA-2613",Regression P2s - Prod,Android Mobile,R114231,Parental Controls,1,,Failed,Thangam Thia,6/15/2023 4:46 PM,Regression,
+23,T30929249,Default Kids Profile - Keyboard Navigation,,C2623027,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2607,Regression P2s - Prod,Android Mobile,R114231,Parental Controls,1,,Passed,Thangam Thia,6/15/2023 4:15 PM,Regression,
+24,T30929315,Kids ratings applied to episodic level – episode is within rating span,,C2653447,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2598,Regression P2s - Prod,Android Mobile,R114231,Parental Controls,1,,Passed,Kazi Al Hasan,6/21/2023 12:48 AM,Regression,
+25,T30929316,Kids rating applied to episodic level – a series includes episodes with different ratings,,C2653449,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2598,Regression P2s - Prod,Android Mobile,R114231,Parental Controls,1,,Passed,Kazi Al Hasan,6/21/2023 12:58 AM,Regression,
+26,T30928982,TBD - Using the back navigation terminates the app,,C2480002,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab",P2,GQA-1413,Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Passed,Kazi Al Hasan,6/15/2023 3:46 PM,Regression,
+27,T30928986,Back navigation returns to the expected page,,C2480318,,GCX-28487,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-1413,Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Failed,Kazi Al Hasan,6/15/2023 5:02 PM,Regression,
+28,T30928976,Use current primary navigation while scrolled down,Nathan Sloat,C2479722,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2600, GQA-2644",Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Awaiting Clarifications,Kazi Al Hasan,6/15/2023 5:05 PM,Regression,
+29,T30929002,Content nav adapts for lens group overflow,,C2489152,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2644,Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Passed,Kazi Al Hasan,6/15/2023 5:07 PM,Regression,
+30,T30929006,Top nav Back CTA navigation,,C2489157,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2600, GQA-1876, GQA-1413",Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Passed,Kazi Al Hasan,6/15/2023 5:07 PM,Regression,
+31,T30928989,Selecting app logo in primary navigation travels to the Home lander,,C2481369,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,"GQA-2600, GQA-2644",Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Passed,Kazi Al Hasan,6/15/2023 5:07 PM,Regression,
+32,T30929004,Utility nav bar hide behavior navigating down a page,,C2489155,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2600, GQA-1876",Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Passed,Kazi Al Hasan,6/15/2023 6:30 PM,Regression,
+33,T30929005,Utility nav bar reveal behavior navigating up while hidden,,C2489156,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2600,Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Passed,Kazi Al Hasan,6/15/2023 6:31 PM,Regression,
+34,T30929003,Page titles that are too long are truncated,,C2489153,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+Cox
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2644,Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Not in scope,Kazi Al Hasan,6/15/2023 6:32 PM,Regression,
+35,T30929224,Device Rotation - Lock Orientation OFF,,C2622767,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2600, GQA-1876",Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Passed,Kazi Al Hasan,6/15/2023 6:32 PM,Regression,
+36,T30929225,Device Rotation - Lock Orientation ON,,C2622769,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2600, GQA-1876",Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Passed,Kazi Al Hasan,6/15/2023 6:33 PM,Regression,
+37,T30929313,Activity Indicators - App Launch,Nathan Sloat,C2653445,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-16605,Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Remove from Run,Nathan Sloat,6/16/2023 12:37 PM,Regression,
+38,T30929314,Validate Lost connection experience,,C2653446,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-16646,Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Passed,Kazi Al Hasan,6/15/2023 6:43 PM,Regression,
+39,T30929317,Validate Paginated Content Experience,,C2653450,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-16626,Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Passed,Kazi Al Hasan,6/15/2023 6:47 PM,Regression,
+40,T30929324,Validate Skeleton State for Async Rails,Nathan Sloat,C2743585,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone
+Android Tablet",P2,GCX-23493,Regression P2s - Prod,Android Mobile,R114231,Global Navigation,0,"Global Navigation Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/101842945/CD-160+-+Global+Navigation+Test+Plan
+
+Global Navigation Feature:
+https://wbdstreaming.atlassian.net/browse/CD-160",Awaiting Clarifications,Kazi Al Hasan,6/15/2023 6:48 PM,Regression,
+41,T30928988,Authenticated user selects Start Playing CTA from Hero Carousel and observes expected landing page,Kalpesh Desale,C2480415,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Hospitality LG
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-15063, GQA-14529, GQA-1887, GQA-1861, GQA-1824, GQA-1820, GQA-1584, GQA-1398, GQA-1557, GQA-1975",Regression P2s - Prod,Android Mobile,R114231,Home page,0,,Passed,Kalpesh Desale,6/16/2023 8:35 AM,Regression,1.1.1.1
+42,T30929112,Authenticated User with Child Profile displays appropriate content on For You,,C2621207,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2608,Regression P2s - Prod,Android Mobile,R114231,Home page,0,,Passed,Kazi Al Hasan,6/20/2023 4:26 PM,Regression,
+43,T30929025,My Stuff page default focus is on My List tab,Kalpesh Desale,C2605381,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2755, GQA-2760",Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Passed,Kalpesh Desale,6/16/2023 2:21 AM,Regression,1.1.1.1
+44,T30929026,My Stuff CW and ML - empty list validation,Kalpesh Desale,C2605382,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2755, GQA-2760, GQA-2815",Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Passed,Kalpesh Desale,6/16/2023 3:28 AM,Regression,1.1.1.1
+45,T30929027,My Stuff > My List tab  - metadata validation,Kalpesh Desale,C2605573,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2755, GQA-2760",Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Passed,Kalpesh Desale,6/16/2023 3:30 AM,Regression,1.1.1.1
+46,T30929028,My Stuff > Continue Watching tab - metadata validation,Kalpesh Desale,C2605577,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2755,  GQA-2815",Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Passed,Kalpesh Desale,6/16/2023 6:44 AM,Regression,1.1.1.1
+47,T30928981,Dismiss info modal on the My List page asset tile when moving away,Kalpesh Desale,C2479917,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,"GQA-2755, GQA-2760",Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Passed,Kalpesh Desale,6/16/2023 7:11 AM,Regression,1.1.1.1
+48,T30928959,Authenticated user adds to My List across devices,Kalpesh Desale,C2479424,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2561,Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Passed,Kalpesh Desale,6/16/2023 2:04 AM,Regression,1.1.1.1
+49,T30928964,Add / Remove from My List from Hero,Kalpesh Desale,C2479440,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2561,Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Passed,Kalpesh Desale,6/16/2023 2:25 AM,Regression,1.1.1.1
+50,T30928965,My List CTA image icon toggles as expected on the Content Details Page,Kalpesh Desale,C2479451,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2818,Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Passed,Kalpesh Desale,6/16/2023 7:26 AM,Regression,1.1.1.1
+51,T30928968,Authenticated user is able to see Tile metadata on My List,Kalpesh Desale,C2479622,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2818,Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Passed,Kalpesh Desale,6/16/2023 7:29 AM,Regression,1.1.1.1
+52,T30928991,Add to  My List - API Failure Error,Kalpesh Desale,C2481442,Validate with Android One Plus 6 OS-11,CONS-7379,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2561,Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Failed,Kalpesh Desale,6/16/2023 7:43 AM,Regression,1.1.1.1
+53,T30928992,Authenticated user removes from My List across devices,Kalpesh Desale,C2482534,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2561,Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Passed,Kalpesh Desale,6/16/2023 8:03 AM,Regression,1.1.1.1
+54,T30929086,Validating Remove from My List toast,Kalpesh Desale,C2618648,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2561,Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Passed,Kalpesh Desale,6/16/2023 2:52 AM,Regression,1.1.1.1
+55,T30929088,Validating an asset can be added/removed any number of times,Kalpesh Desale,C2620747,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2561,Regression P2s - Prod,Android Mobile,R114231,My Stuff,0,"My Stuff Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/135725445
+
+My Stuff Feature:
+https://wbdstreaming.atlassian.net/browse/CD-132",Passed,Kalpesh Desale,6/16/2023 7:41 AM,Regression,1.1.1.1
+56,T30928969,My List tray sorting,Kalpesh Desale,C2479677,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2818,Regression P2s - Prod,Android Mobile,R114231,My List,0,,Passed,Kalpesh Desale,6/16/2023 2:36 AM,Regression,1.1.1.1
+57,T30929322,Authenticated user can not add content to My List from Continue Watching Rail AND page,Kalpesh Desale,C2676561,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-18584,Regression P2s - Prod,Android Mobile,R114231,My List,0,,Passed,Kalpesh Desale,6/16/2023 3:00 AM,Regression,1.1.1.1
+58,T30929085,Authenticated User - Validating My List rail on Home Page after removing all content,Kalpesh Desale,C2618647,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2818,Regression P2s - Prod,Android Mobile,R114231,My List,0,,Passed,Kalpesh Desale,6/16/2023 3:14 AM,Regression,1.1.1.1
+59,T30929087,Validate each content piece in the Rail is unique,Kalpesh Desale,C2620745,"Validate with Android One Plus 6 OS-11
+
+
+",,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+LG
+Xbox
+Playstation
+iPhone",P2,GQA-2818,Regression P2s - Prod,Android Mobile,R114231,My List,0,,Passed,Kalpesh Desale,6/16/2023 2:48 AM,Regression,1.1.1.1
+60,T30929041,Selecting asset tiles on My List performs expected action,Kalpesh Desale,C2606962,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+LG
+Xbox
+Playstation
+iPhone",P2,"GQA-2755, GQA-2760, GQA-2815",Regression P2s - Prod,Android Mobile,R114231,My List,0,,Passed,Kalpesh Desale,6/16/2023 3:33 AM,Regression,1.1.1.1
+61,T30928970,Validate: Empty State - No watch history or items in CW rail,Kalpesh Desale,C2479685,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2826,Regression P2s - Prod,Android Mobile,R114231,Continue Watching,0,,Passed,Kalpesh Desale,6/16/2023 7:44 AM,Regression,1.1.1.1
+62,T30929318,Validate: Continue Watching Content Exists,Kalpesh Desale,C2653499,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2826, GQA-2753",Regression P2s - Prod,Android Mobile,R114231,Continue Watching,0,,Passed,Kalpesh Desale,6/16/2023 3:12 AM,Regression,1.1.1.1
+63,T30928977,Trailer does not appear in Continue watching rail,Kalpesh Desale,C2479729,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2826,Regression P2s - Prod,Android Mobile,R114231,Continue Watching,0,,Passed,Kalpesh Desale,6/16/2023 2:21 AM,Regression,1.1.1.1
+64,T30928971,Continue watching rail removes oldest asset when limit is exceeded,,C2479686,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2826,Regression P2s - Prod,Android Mobile,R114231,Continue Watching,0,,Untested,,,Regression,
+65,T30928960,Continue Watching rail content persists across devices,Kalpesh Desale,C2479431,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2826,Regression P2s - Prod,Android Mobile,R114231,Continue Watching,0,,Passed,Kalpesh Desale,6/16/2023 8:10 AM,Regression,1.1.1.1
+66,T30928983,Authenticated user can navigate to Asset detail page through Continue Watching rail tile’s info modal,Kalpesh Desale,C2480003,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"iOS
+Android
+Fire Tab
+Web
+iPad",P2,GQA-2826,Regression P2s - Prod,Android Mobile,R114231,Continue Watching,0,,Passed,Kalpesh Desale,6/16/2023 6:46 AM,Regression,1.1.1.1
+67,T30929294,Selecting asset tiles on Continue Watching performs expected action,Kalpesh Desale,C2625348,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2755, GQA-2760, GQA-2815",Regression P2s - Prod,Android Mobile,R114231,Continue Watching,0,,Passed,Kalpesh Desale,6/16/2023 3:12 AM,Regression,1.1.1.1
+68,T30929295,Authenticated user verifying email error handling in Account Tab screen,kamila K,C2625506,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-15064,Regression P2s - Prod,Android Mobile,R114231,Account Page,0,,Passed,kamila K,6/16/2023 2:27 AM,Regression,1.1.1.1
+69,T30929296,Authenticated user able to cancel change email in Account Tab screen,kamila K,C2625508,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-15064,Regression P2s - Prod,Android Mobile,R114231,Account Page,0,,Passed,kamila K,6/16/2023 2:28 AM,Regression,1.1.1.1
+70,T30929297,Authenticated user verifying change password error handling from Account Tab screen,kamila K,C2625512,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-15064,Regression P2s - Prod,Android Mobile,R114231,Account Page,0,,Passed,kamila K,6/16/2023 2:30 AM,Regression,1.1.1.1
+71,T30929304,Authenticated user can able to change Name from Account Tab screen,kamila K,C2625525,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-15064,Regression P2s - Prod,Android Mobile,R114231,Account Page,0,,Passed,Kazi Al Hasan,6/21/2023 1:51 AM,Regression,
+72,T30929000,Account Tab: Subscribe Now,kamila K,C2483142,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-15063, GQA-14529, GQA-1887, GQA-1861, GQA-1824, GQA-1820, GQA-1584, GQA-1398, GQA-1557, GQA-1975",Regression P2s - Prod,Android Mobile,R114231,Account Page,0,,Passed,kamila K,6/16/2023 2:34 AM,Regression,1.1.1.1
+73,T30929057,Authenticated user can able to  Toggle App Notifications in Settings Tab,kamila K,C2614881,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad",P2,GQA-2006,Regression P2s - Prod,Android Mobile,R114231,Account Page,0,,Passed,kamila K,6/16/2023 2:38 AM,Regression,1.1.1.1
+74,T30929068,Authenticated user can able to access info section in setting Tab,kamila K,C2614983,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-1987,Regression P2s - Prod,Android Mobile,R114231,Account Page,0,,Passed,kamila K,6/16/2023 2:54 AM,Regression,1.1.1.1
+75,T30929089,Authenticated user can able to view active signed in devices,kamila K,C2620874,,,,,,Android BD Regression 6/1+,R112031,"iOS
+Android
+Web",P2,GQA-2592,Regression P2s - Prod,Android Mobile,R114231,Account Page,0,,Passed,kamila K,6/16/2023 2:55 AM,Regression,1.1.1.1
+76,T30929090,Authenticated user can able to sign out of all devices from manage devices screen,kamila K,C2620878,,,,,,Android BD Regression 6/1+,R112031,"iOS
+Android
+Web",P2,GQA-1988,Regression P2s - Prod,Android Mobile,R114231,Account Page,0,,Passed,kamila K,6/16/2023 3:35 AM,Regression,1.1.1.1
+77,T30929108,Authenticated user verifying App settings sub nav items,kamila K,C2621178,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2006,Regression P2s - Prod,Android Mobile,R114231,Account Page,0,,Passed,kamila K,6/16/2023 3:00 AM,Regression,1.1.1.1
+78,T30929111,Verifying transactional email is triggered when user edits name/email/password,kamila K,C2621195,,,,,,Android BD Regression 6/1+,R112031,"iOS
+Android
+Fire Tab
+Web",P2,GQA-1990,Regression P2s - Prod,Android Mobile,R114231,Account Page,0,,Untested,,,Regression,
+79,T30929305,Authenticated user verifying errors during editing name from Account tab screen,kamila K,C2625526,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-15064,Regression P2s - Prod,Android Mobile,R114231,Account Page,0,,Passed,kamila K,6/16/2023 3:03 AM,Regression,1.1.1.1
+80,T30928978,Sign in flow for a TV provider user,,C2479736,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2044,Regression P2s - Prod,Android Mobile,R114231,"Onboarding, Registration and Sign in",0,,Passed,Thangam Thia,6/15/2023 5:12 PM,Regression,
+81,T30928979,Sign In flow for a single profile user,,C2479738,,,,,,Android BD Regression 6/1+,R112031,All Platforms,P2,GQA-19699,Regression P2s - Prod,Android Mobile,R114231,"Onboarding, Registration and Sign in",0,,Passed,Thangam Thia,6/15/2023 5:12 PM,Regression,
+82,T30928980,Sign In with incorrect account credentials,,C2479743,,,,,,Android BD Regression 6/1+,R112031,All Platforms,P2,"GQA-15063, GQA-14529, GQA-1887, GQA-1861, GQA-1824, GQA-1820, GQA-1584, GQA-1398, GQA-1557, GQA-1975",Regression P2s - Prod,Android Mobile,R114231,"Onboarding, Registration and Sign in",0,,Passed,Thangam Thia,6/15/2023 5:12 PM,Regression,
+83,T30928993,Create account fields validation,,C2482569,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2051,Regression P2s - Prod,Android Mobile,R114231,"Onboarding, Registration and Sign in",0,,Passed,Thangam Thia,6/15/2023 5:12 PM,Regression,
+84,T30928956,Authenticated User navigates from one network landing page to another,kamila K,C2478629,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-15063, GQA-14529, GQA-1887, GQA-1861, GQA-1824, GQA-1820, GQA-1584, GQA-1398, GQA-1557, GQA-1975",Regression P2s - Prod,Android Mobile,R114231,Network Landing Page,0,,Passed,Kazi Al Hasan,6/16/2023 11:50 AM,Regression,
+85,T30929042,Resume Subscription Flow via Renewal Date,,C2606964,,COM-6441,,,,Android BD Regression 6/1+,R112031,Android,P2,GQA-2110,Regression P2s - Prod,Android Mobile,R114231,Google Pause Subscription,1,,Failed,kamila K,6/22/2023 3:15 AM,Regression,
+86,T30929110,Trailer CTA is hidden on CDP for assets that do not have one,,C2621191,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2799, GQA-2802",Regression P2s - Prod,Android Mobile,R114231,Content Detail Page,0,"Content Detail Page Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/186551056/
+
+Content Detail Page Feature:
+https://wbdstreaming.atlassian.net/browse/CD-74",Passed,Kazi Al Hasan,6/16/2023 11:51 AM,Regression,
+87,T30929001,User sees Fallback  of Hero Image,,C2483777,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2793,Regression P2s - Prod,Android Mobile,R114231,Content Detail Page,0,"Content Detail Page Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/186551056/
+
+Content Detail Page Feature:
+https://wbdstreaming.atlassian.net/browse/CD-74",Passed,Kazi Al Hasan,6/16/2023 12:03 PM,Regression,
+88,T30929109,Start playback of a trailer from CDP in Cold Start state,,C2621180,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2793, GQA-2798, GQA-2794, GQA-2786, GQA-2782",Regression P2s - Prod,Android Mobile,R114231,Content Detail Page,0,"Content Detail Page Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/186551056/
+
+Content Detail Page Feature:
+https://wbdstreaming.atlassian.net/browse/CD-74",Passed,Kazi Al Hasan,6/16/2023 12:05 PM,Regression,
+89,T30929134,Start playback of a trailer on CDP in Coming Soon state,,C2621645,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2812, GQA-2813, GQA-2534, GQA-2797, GQA-2795",Regression P2s - Prod,Android Mobile,R114231,Content Detail Page,0,"Content Detail Page Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/186551056/
+
+Content Detail Page Feature:
+https://wbdstreaming.atlassian.net/browse/CD-74",Passed,Kazi Al Hasan,6/16/2023 12:06 PM,Regression,
+90,T30929143,Content Details page chip group items load page content for selected chip/tab,Nathan Sloat,C2621761,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2616, GQA-2612, GQA-2599, GQA-2609",Regression P2s - Prod,Android Mobile,R114231,Content Detail Page,0,"Content Detail Page Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/186551056/
+
+Content Detail Page Feature:
+https://wbdstreaming.atlassian.net/browse/CD-74",Awaiting Clarifications,Kazi Al Hasan,6/16/2023 12:07 PM,Regression,
+91,T30928973,"Content details page """"Extras"""" tab metadata",,C2479710,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2599, GQA-2616",Regression P2s - Prod,Android Mobile,R114231,Content Detail Page,0,"Content Detail Page Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/186551056/
+
+Content Detail Page Feature:
+https://wbdstreaming.atlassian.net/browse/CD-74",Passed,Kazi Al Hasan,6/16/2023 12:15 PM,Regression,
+92,T30929155,"Series Content details page """"Extras"""" are sorted by season tabs",,C2621929,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2599, GQA-2616",Regression P2s - Prod,Android Mobile,R114231,Content Detail Page,0,"Content Detail Page Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/186551056/
+
+Content Detail Page Feature:
+https://wbdstreaming.atlassian.net/browse/CD-74",Passed,Kazi Al Hasan,6/16/2023 12:15 PM,Regression,
+93,T30929144,"Content details page """"You May Also Like"""" tab metadata",Nathan Sloat,C2621766,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2616, GQA-2612",Regression P2s - Prod,Android Mobile,R114231,Content Detail Page,0,"Content Detail Page Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/186551056/
+
+Content Detail Page Feature:
+https://wbdstreaming.atlassian.net/browse/CD-74",Awaiting Clarifications,Kazi Al Hasan,6/16/2023 12:19 PM,Regression,
+94,T30929250,Disclaimer copy is shown under the action bar for 4K and higher assets only,,C2623113,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-1554, GQA-1464",Regression P2s - Prod,Android Mobile,R114231,Content Detail Page,0,"Content Detail Page Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/186551056/
+
+Content Detail Page Feature:
+https://wbdstreaming.atlassian.net/browse/CD-74",Passed,Kazi Al Hasan,6/16/2023 12:33 PM,Regression,
+95,T30928957,Authenticated User:  Validating series detail page via Series tiles,Nakul Sharma,C2478631,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2684, GQA-2799, GQA-2793",Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 3:30 AM,Regression,
+96,T30928958,Authenticated user: Validating series detail page via Hero CTA /Cold Start,Nakul Sharma,C2478633,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2799, GQA-2684, GQA-2793, GQA-2782",Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 3:51 AM,Regression,
+97,T30928974,Resume playback from Series Details page for series with viewing progress,Nakul Sharma,C2479711,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2799, GQA-2684, GQA-2793, GQA-2778, GQA-2787",Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 5:18 AM,Regression,
+98,T30928975,Episodes shown are based on season selected,Nakul Sharma,C2479714,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2609,Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 5:19 AM,Regression,
+99,T30928984,"Select asset from """"You May Also Like"""" rail on the Series Details page",Nakul Sharma,C2480054,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2612,Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 5:27 AM,Regression,
+100,T30929113,Series Detail page Action bar CTAs show both label and icon,Nakul Sharma,C2621406,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2802.GQA-2683,Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 5:39 AM,Regression,
+101,T30929149,Episode tab tile metadata,Nakul Sharma,C2621772,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2616, GQA-2609",Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 5:59 AM,Regression,
+102,T30929145,Episodes tab defaults - cold start  (no viewing progress),Nakul Sharma,C2621767,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2616, GQA-2609",Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 6:00 AM,Regression,
+103,T30929146,Episodes tab for series with viewing progress defaults on next up season/episode,Nakul Sharma,C2621768,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2616, GQA-2609",Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 6:32 AM,Regression,
+104,T30929147,Episodes tab season picker for Topical series shows most recent season at top of list,Nakul Sharma,C2621769,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2616, GQA-2609",Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 6:34 AM,Regression,
+105,T30929156,Series Extras shown are based on season selected,Nakul Sharma,C2621935,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2599, GQA-2616",Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 6:56 AM,Regression,
+106,T30929148,Episodes tab does not show season picker for miniseries,Nakul Sharma,C2621771,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2609, GQA-2616",Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 6:57 AM,Regression,
+107,T30929210,Validate Navigating between seasons,Nakul Sharma,C2622617,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2609, GQA-2616, GQA-2590",Regression P2s - Prod,Android Mobile,R114231,Series Detail Page,1,"Beam CDP State Matrix: 
+ https://docs.google.com/spreadsheets/d/1slfDbka3CQCBM1Jcdo1ZU2sH2GBfuI6S2ic97e4mPbw/edit#gid=0",Passed,Nakul Sharma,6/16/2023 6:49 AM,Regression,
+108,T30929137,Authenticated user: Validating movie playback via Play button on Inline Hero CTA,Nakul Sharma,C2621716,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2779,Regression P2s - Prod,Android Mobile,R114231,Movie Detail Page,1,,Passed,Nakul Sharma,6/16/2023 6:50 AM,Regression,
+109,T30929138,Resume playback from Movie Details page for movie with viewing progress,Nakul Sharma,C2621717,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2799, GQA-2684, GQA-2786",Regression P2s - Prod,Android Mobile,R114231,Movie Detail Page,1,,Passed,Nakul Sharma,6/16/2023 6:50 AM,Regression,
+110,T30929183,Open Info panel from episode tile 'Episode Details' CTA in kebab menu,Nakul Sharma,C2622332,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2796,Regression P2s - Prod,Android Mobile,R114231,Info panel,1,,Passed,Nakul Sharma,6/16/2023 6:53 AM,Regression,
+111,T30929184,Close Episode Info panel via Back CTA,Nakul Sharma,C2622335,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2796,Regression P2s - Prod,Android Mobile,R114231,Info panel,1,,Passed,Nakul Sharma,6/16/2023 6:53 AM,Regression,
+112,T30929189,Restart episode from episode tile Restart CTA in kebab menu,Nakul Sharma,C2622412,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2796,Regression P2s - Prod,Android Mobile,R114231,Info panel,1,,Passed,Nakul Sharma,6/16/2023 6:53 AM,Regression,
+113,T30929190,Resume episode from episode tile 'Resume' CTA in kebab menu,Nakul Sharma,C2622416,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2796,Regression P2s - Prod,Android Mobile,R114231,Info panel,1,,Passed,Nakul Sharma,6/16/2023 6:53 AM,Regression,
+114,T30929187,Open Info panel from extra tile 'More Info' CTA in kebab menu,Nakul Sharma,C2622348,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2796,Regression P2s - Prod,Android Mobile,R114231,Info panel,1,,Passed,Nakul Sharma,6/16/2023 6:53 AM,Regression,
+115,T30929178,Authenticated User - Geo-block verification,,C2622273,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Roku
+Web
+tvOS
+iPad
+iPhone",P2,GQA-2250,Regression P2s - Prod,Android Mobile,R114231,Site Selection & EEA Portability,0,,Passed,Kazi Al Hasan,6/16/2023 12:37 PM,Regression,
+116,T30929179,Unauthenticated User - Geo-block verfication,,C2622276,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Roku
+Web
+tvOS
+iPad
+iPhone",P2,GQA-2250,Regression P2s - Prod,Android Mobile,R114231,Site Selection & EEA Portability,0,,Passed,Kazi Al Hasan,6/16/2023 12:37 PM,Regression,
+117,T30928994,Geo-blocking error,Nakul Sharma,C2482602,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Roku
+Web
+tvOS
+iPad
+iPhone",P2,GQA-2250,Regression P2s - Prod,Android Mobile,R114231,Site Selection & EEA Portability,0,,Passed,Nakul Sharma,6/21/2023 3:52 AM,Regression,
+118,T30928995,Token invalidation on sign out,Nakul Sharma,C2482603,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Roku
+Web
+tvOS
+iPad
+iPhone",P2,GQA-2250,Regression P2s - Prod,Android Mobile,R114231,Site Selection & EEA Portability,0,,Untested,,,Regression,
+119,T30928996,Token invalidation when app closed,Nakul Sharma,C2482604,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Roku
+Web
+tvOS
+iPad
+iPhone",P2,GQA-2250,Regression P2s - Prod,Android Mobile,R114231,Site Selection & EEA Portability,0,,Untested,,,Regression,
+120,T30928997,Token invalidation when app open,Nakul Sharma,C2482605,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Roku
+Web
+tvOS
+iPad
+iPhone",P2,GQA-2250,Regression P2s - Prod,Android Mobile,R114231,Site Selection & EEA Portability,0,,Untested,,,Regression,
+121,T30929084,User can experience long playback without issues,,C2617505,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2027,Regression P2s - Prod,Android Mobile,R114231,Core playback,1,,Untested,,,Regression,
+122,T30928990,User sees Playback in Landscape Orientation,,C2481410,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2027,Regression P2s - Prod,Android Mobile,R114231,Core playback,1,,Passed,Thangam Thia,6/15/2023 1:54 PM,Regression,
+123,T30929319,Video Player - Test Long duration stability - 2hrs VOD Playback,,C2653676,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,.,Regression P2s - Prod,Android Mobile,R114231,Core playback,1,,Untested,,,Regression,
+124,T30929046,User can see a loading indicator in case of playback interruption,,C2614791,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2027,Regression P2s - Prod,Android Mobile,R114231,Core playback,1,,Untested,,,Regression,
+125,T30929083,User can resume playback after a long pause,Kalpesh Desale,C2617504,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2027,Regression P2s - Prod,Android Mobile,R114231,Core playback,1,,Passed,Kalpesh Desale,6/19/2023 4:04 AM,Regression,1.1.1.1
+126,T30929151,User can switch devices after reaching concurrent stream limit,,C2621912,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2005,Regression P2s - Prod,Android Mobile,R114231,Core playback,1,,Untested,,,Regression,
+127,T30929264,Ad-Lite user initiates playback of an ad-enabled piece of HBO content,,C2623669,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2553,Regression P2s - Prod,Android Mobile,R114231,Ads Playback,1,,Passed,Kazi Al Hasan,6/21/2023 1:17 AM,Regression,
+128,T30929284,An ad-Lite user initiates playback on any piece of content for the first time that day.,,C2624348,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2513,Regression P2s - Prod,Android Mobile,R114231,Ads Playback,1,,Passed,Kazi Al Hasan,6/21/2023 1:18 AM,Regression,
+129,T30929285,An ad-Lite user initiates playback on any piece of content for the second time that day.,,C2624349,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2513,Regression P2s - Prod,Android Mobile,R114231,Ads Playback,1,,Passed,Kazi Al Hasan,6/21/2023 1:19 AM,Regression,
+130,T30929077,Adlite User does not see Beam Promo pre- rolls,Nathan Sloat,C2617269,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2105, GQA-2739, GQA-2183, GQA-2739",Regression P2s - Prod,Android Mobile,R114231,BEAM Pre- and Post-Roll Playback,1,,Awaiting Clarifications,Kazi Al Hasan,6/21/2023 1:09 AM,Regression,
+131,T30929045,User can watch content in lower quality in poor network conditions,,C2614790,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+iOS
+Android
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2027,Regression P2s - Prod,Android Mobile,R114231,Content Formats & AV Components,1,https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/162857401/PLAY-28+Content+Formats+AV+Components+Test+Plan,Passed,Kazi Al Hasan,6/21/2023 1:41 AM,Regression,
+132,T30929080,Selecting assets of audio <type> plays them at <type>,,C2617472,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+iOS
+Android
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2104,Regression P2s - Prod,Android Mobile,R114231,Content Formats & AV Components,1,https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/162857401/PLAY-28+Content+Formats+AV+Components+Test+Plan,Passed,Kazi Al Hasan,6/21/2023 1:52 AM,Regression,
+133,T30929082,Selecting assets with language in <language> plays them in <language>,,C2617476,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+iOS
+Android
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2108,Regression P2s - Prod,Android Mobile,R114231,Content Formats & AV Components,1,https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/162857401/PLAY-28+Content+Formats+AV+Components+Test+Plan,Untested,,,Regression,
+134,T30929081,Audio levels of assets are in the standard range,,C2617473,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+iOS
+Android
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2104,Regression P2s - Prod,Android Mobile,R114231,Content Formats & AV Components,1,https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/162857401/PLAY-28+Content+Formats+AV+Components+Test+Plan,Untested,,,Regression,
+135,T30929175,Assets with global edits plays as expected,,C2622156,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+iOS
+Android
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2106,Regression P2s - Prod,Android Mobile,R114231,Content Formats & AV Components,1,https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/162857401/PLAY-28+Content+Formats+AV+Components+Test+Plan,Remove from Run,kamila K,6/20/2023 5:33 AM,Regression,
+136,T30928999,Authenticated User should see Up Next banner even when <Interrupt> is happened on <Device>,Nakul Sharma,C2483070,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2303, GQA-2072",Regression P2s - Prod,Android Mobile,R114231,Up Next,2,,Awaiting Clarifications,Nakul Sharma,6/21/2023 8:24 AM,Regression,
+137,T30928998,Authenticated User should see Up next Banner in poor network conditions,Nakul Sharma,C2483069,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2303, GQA-2072",Regression P2s - Prod,Android Mobile,R114231,Up Next,2,,Passed,Nakul Sharma,6/21/2023 8:24 AM,Regression,
+138,T30929024,User can watch assets of different Aspect Ratios,,C2605379,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2128,Regression P2s - Prod,Android Mobile,R114231,Video/Player Fit- Aspect Ratio Support,1,,Untested,,,Regression,
+139,T30929075,User can watch assets on devices with extreme Aspect Ratios,,C2617246,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2128,Regression P2s - Prod,Android Mobile,R114231,Video/Player Fit- Aspect Ratio Support,1,,Untested,,,Regression,
+140,T30929078,User does not see  letterboxing/pillarboxing if screen ratio equals content Aspect Ratio,,C2617338,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2128,Regression P2s - Prod,Android Mobile,R114231,Video/Player Fit- Aspect Ratio Support,1,,Untested,,,Regression,
+141,T30929066,User can see default text positioning in <TextType> if it is not specified in the source,,C2614971,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2681 GQA-2596,Regression P2s - Prod,Android Mobile,R114231,"Text Display & Formating (Subtitles, CC)",1,,Untested,,,Regression,
+142,T30929064,User can see the source formatting respected in the <TextType>,,C2614967,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2128 GQA-2596,Regression P2s - Prod,Android Mobile,R114231,"Text Display & Formating (Subtitles, CC)",1,,Untested,,,Regression,
+143,T30929065,User can see special characters correctly displayed in the <TextType>,,C2614968,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2681 GQA-2596,Regression P2s - Prod,Android Mobile,R114231,"Text Display & Formating (Subtitles, CC)",1,,Untested,,,Regression,
+144,T30929079,User can see correct error messages during playback,,C2617468,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+iOS
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2027,Regression P2s - Prod,Android Mobile,R114231,Playback Error Messaging,1,,Untested,,,Regression,
+145,T30929114,When DRM does not allow 4k,,C2621504,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2338,Regression P2s - Prod,Android Mobile,R114231,Fallback and Fail Opens,1,,Untested,,,Regression,
+146,T30929118,When DRM does not allow HD,,C2621508,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2338,Regression P2s - Prod,Android Mobile,R114231,Fallback and Fail Opens,1,,Untested,,,Regression,
+147,T30929115,Previous Audio Track is Unavailable,,C2621505,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-1955,Regression P2s - Prod,Android Mobile,R114231,Fallback and Fail Opens,1,,Untested,,,Regression,
+148,T30929116,Previous Subtitles are Not Available,,C2621506,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-1955,Regression P2s - Prod,Android Mobile,R114231,Fallback and Fail Opens,1,,Untested,,,Regression,
+149,T30929117,Call to playback Marker Fails during Continue Watching,,C2621507,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-1955,Regression P2s - Prod,Android Mobile,R114231,Fallback and Fail Opens,1,,Untested,,,Regression,
+150,T30929119,Call to playback Marker Fails Initially But Succeeds During Playback,,C2621509,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-1955,Regression P2s - Prod,Android Mobile,R114231,Fallback and Fail Opens,1,,Untested,,,Regression,
+151,T30929120,Parental Controls Playback from Deeplink from Launch,kamila K,C2621513,,GCX-28167,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2339, GQA-2337",Regression P2s - Prod,Android Mobile,R114231,Parental Controls,2,,Failed,kamila K,6/20/2023 5:29 AM,Regression,1.1.1.1
+152,T30929121,Parental Controls Playback Deeplink in App,kamila K,C2621521,,GCX-28167,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2339, GQA-2337",Regression P2s - Prod,Android Mobile,R114231,Parental Controls,2,,Failed,kamila K,6/20/2023 5:29 AM,Regression,1.1.1.1
+153,T30929150,Error message is displayed  when launching the BEAM app outside of the US,Kalpesh Desale,C2621821,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+iPhone",P2,GQA-1790,Regression P2s - Prod,Android Mobile,R114231,Error messaging,2,"Video Start Restricted - Error Messaging - Concurrent stream limit, Geo-Restriction, Parental Controls, Live Blackouts",Passed,Kalpesh Desale,6/16/2023 9:45 AM,Regression,1.1.1.1
+154,T30929136,Deeplink into Geo-Restricted Content,,C2621680,App is only available in US currently,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2339,Regression P2s - Prod,Android Mobile,R114231,Error messaging,2,"Video Start Restricted - Error Messaging - Concurrent stream limit, Geo-Restriction, Parental Controls, Live Blackouts",Remove from Run,kamila K,6/20/2023 5:31 AM,Regression,
+155,T30929173,Error Messaging: Notification Is Available and Operable in Landscape,,C2622060,,,,,,Android BD Regression 6/1+,R112031,"iOS
+Android",P2,GQA-2339,Regression P2s - Prod,Android Mobile,R114231,Error Messaging Accessibility,3,,Untested,,,Regression,
+156,T30929031,Verify Autoplay Episodes option is set to ON by default,,C2605708,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2271,Regression P2s - Prod,Android Mobile,R114231,Playback Settings,2,,Passed,Thangam Thia,6/16/2023 9:39 AM,Regression,
+157,T30929029,Verify custom caption styling will inherit settings on OS level of user’s device,,C2605631,,GCX-28542,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2271,Regression P2s - Prod,Android Mobile,R114231,Playback Settings,2,,Failed,Thangam Thia,6/16/2023 10:44 AM,Regression,
+158,T30929038,Verify Stream over WI-Fi only' is sets to OFF by default,,C2606071,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2271,Regression P2s - Prod,Android Mobile,R114231,Playback Settings,2,,Passed,Thangam Thia,6/16/2023 10:53 AM,Regression,
+159,T30929030,Stream Stream over WI-Fi only sets to ON,,C2605633,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2271,Regression P2s - Prod,Android Mobile,R114231,Playback Settings,2,,Passed,Thangam Thia,6/16/2023 11:15 AM,Regression,
+160,T30929044,Verify that settings will not persist across devices,,C2612522,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2271,Regression P2s - Prod,Android Mobile,R114231,Playback Settings,2,,Passed,Thangam Thia,6/16/2023 11:15 AM,Regression,
+161,T30929032,Verify behaviour when connection type is changed during playback,Nakul Sharma,C2606057,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2271,Regression P2s - Prod,Android Mobile,R114231,Playback Settings,2,,Passed,Nakul Sharma,6/21/2023 8:27 AM,Regression,
+162,T30929053,Verify cold start audio and text menu settings for adult profile with device CC settings set to OFF,kamila K,C2614809,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2316,Regression P2s - Prod,Android Mobile,R114231,Audio and text menu,2,,Passed,kamila K,6/21/2023 6:05 AM,Regression,1.1.1.1
+163,T30929059,Verify that audio/text preference persists in future playback sessions for the profile on the device,kamila K,C2614885,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2316,Regression P2s - Prod,Android Mobile,R114231,Audio and text menu,2,,Passed,kamila K,6/21/2023 6:08 AM,Regression,1.1.1.1
+164,T30929061,Verify that audio/text preference does not persist across devices,kamila K,C2614890,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2316,Regression P2s - Prod,Android Mobile,R114231,Audio and text menu,2,,Passed,kamila K,6/21/2023 6:12 AM,Regression,1.1.1.1
+165,T30929063,Verify that Force Narrative track is displayed in playback,kamila K,C2614923,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2316 GQA-2596,Regression P2s - Prod,Android Mobile,R114231,Audio and text menu,2,,Passed,kamila K,6/21/2023 6:20 AM,Regression,1.1.1.1
+166,T30929067,Verify MLP list can accommodate properly  up to ~35 languages,kamila K,C2614981,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2316,Regression P2s - Prod,Android Mobile,R114231,Audio and text menu,2,,Passed,kamila K,6/21/2023 6:24 AM,Regression,1.1.1.1
+167,T30929181,Validate Skip button appears on the screen during  the skippable sequence,,C2622327,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2253, GQA-1808, GQA-2595",Regression P2s - Prod,Android Mobile,R114231,Skip button,2,,Passed,Thangam Thia,6/16/2023 11:31 AM,Regression,
+168,T30929182,Validate clicking  skip button  will skip to the time defined in the data,Kalpesh Desale,C2622328,"Validate with Android One Plus 6 OS-11
+",,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2253, GQA-2246",Regression P2s - Prod,Android Mobile,R114231,Skip button,2,,Passed,Kalpesh Desale,6/16/2023 8:27 AM,Regression,1.1.1.1
+169,T30929180,Validate skip button doesn't show when the duration of the title sequence is <10s.,,C2622326,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2271, GQA-2246",Regression P2s - Prod,Android Mobile,R114231,Skip button,2,,Untested,,,Regression,
+170,T30929213,Validate Skip intro button appears again when user  rewinds to a Skip window,Kalpesh Desale,C2622629,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2246, GQA-2253",Regression P2s - Prod,Android Mobile,R114231,Skip button,2,,Passed,Kalpesh Desale,6/16/2023 8:28 AM,Regression,1.1.1.1
+171,T30929229,Thumbnail Previews will be shown within 300ms of interaction  with transport controls,kamila K,C2622864,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2308,Regression P2s - Prod,Android Mobile,R114231,"Preview Thumbnail (fka """"trickplay"""")",2,,Passed,kamila K,6/21/2023 4:21 AM,Regression,1.1.1.1
+172,T30929231,Timestamp is displayed for each thumbnail image,kamila K,C2622867,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2308,Regression P2s - Prod,Android Mobile,R114231,"Preview Thumbnail (fka """"trickplay"""")",2,,Passed,kamila K,6/22/2023 7:26 AM,Regression,1.1.1.1
+173,T30929232,Individual images should represent no less than 5s of video,Kalpesh Desale,C2622869,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2308,Regression P2s - Prod,Android Mobile,R114231,"Preview Thumbnail (fka """"trickplay"""")",2,,Passed,Kalpesh Desale,6/16/2023 8:32 AM,Regression,1.1.1.1
+174,T30929233,The image is in sync with the actual playhead.,kamila K,C2622870,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2308,Regression P2s - Prod,Android Mobile,R114231,"Preview Thumbnail (fka """"trickplay"""")",2,,Passed,kamila K,6/21/2023 4:25 AM,Regression,1.1.1.1
+175,T30929230,Size of the thumbnail is relative to the device/screen size,kamila K,C2622865,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2308,Regression P2s - Prod,Android Mobile,R114231,"Preview Thumbnail (fka """"trickplay"""")",2,,Passed,kamila K,6/22/2023 7:34 AM,Regression,1.1.1.1
+176,T30929092,Verify Interactions with other apps on device  during PIP,Kalpesh Desale,C2620973,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2305, GQA-2558",Regression P2s - Prod,Android Mobile,R114231,PIP,1,,Passed,Kalpesh Desale,6/19/2023 3:02 AM,Regression,1.1.1.1
+177,T30929091,Verify  PiP player can be moved around the screen  without video interruption,Kalpesh Desale,C2620899,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2305, GQA-2558",Regression P2s - Prod,Android Mobile,R114231,PIP,1,,Passed,Kalpesh Desale,6/19/2023 6:19 AM,Regression,1.1.1.1
+178,T30929021,User can exit editing mode on the Downloads / Series Rollup Page,Nakul Sharma,C2602585,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2306,Regression P2s - Prod,Android Mobile,R114231,Edit the Downloads List,3,,Passed,Nakul Sharma,6/21/2023 8:30 AM,Regression,
+179,T30929012,User can delete individual episodes from a Series Rollup page,Kalpesh Desale,C2490916,"
+Validate with Android One Plus 6 OS-11
+",,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2306,Regression P2s - Prod,Android Mobile,R114231,Edit the Downloads List,3,,Passed,Kalpesh Desale,6/19/2023 3:10 AM,Regression,1.1.1.1
+180,T30929010,User with no downloads sees an empty state page,Kalpesh Desale,C2490902,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2306,Regression P2s - Prod,Android Mobile,R114231,Downloads page access and view,3,,Passed,Kalpesh Desale,6/19/2023 2:58 AM,Regression,1.1.1.1
+181,T30929015,User can see Movie and Episode tiles with metadata on the Downloads Page,Nakul Sharma,C2494985,,GCX-28725,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2306,Regression P2s - Prod,Android Mobile,R114231,Downloads page access and view,3,,Failed,Nakul Sharma,6/21/2023 8:29 AM,Regression,
+182,T30929016,User can see Series header with metadata on the Downloads Page,Nakul Sharma,C2495050,,GCX-28725,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2306,Regression P2s - Prod,Android Mobile,R114231,Downloads page access and view,3,,Failed,Nakul Sharma,6/21/2023 8:29 AM,Regression,
+183,T30929022,User Can View Relevant Meta Data From the D.A.D from the Asset Details Page,Nakul Sharma,C2605344,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2269,Regression P2s - Prod,Android Mobile,R114231,Download Action Drawer,2,,Passed,Nakul Sharma,6/21/2023 8:31 AM,Regression,
+184,T30929011,User can Restart Download When Error Occurs from the Asset Details Page,Kalpesh Desale,C2490912,"Validate with Android One Plus 6 OS-11
+",,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2269,Regression P2s - Prod,Android Mobile,R114231,Download Action Drawer,2,,Passed,Kalpesh Desale,6/19/2023 3:00 AM,Regression,1.1.1.1
+185,T30929017,User can navigate to Asset Details Page from Downloads Page,Nakul Sharma,C2495051,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2269,Regression P2s - Prod,Android Mobile,R114231,Download Action Drawer,2,,Passed,Nakul Sharma,6/21/2023 8:31 AM,Regression,
+186,T30929023,User can View Relevant Meta Data From the D.A.D from the Downloads Page,Nakul Sharma,C2605345,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2269,Regression P2s - Prod,Android Mobile,R114231,Download Action Drawer,2,,Passed,Nakul Sharma,6/21/2023 8:32 AM,Regression,
+187,T30929040,Verify downloads when type of connection is changed,Nakul Sharma,C2606584,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2260,Regression P2s - Prod,Android Mobile,R114231,Downloads Settings,2,,Passed,Nakul Sharma,6/21/2023 8:33 AM,Regression,
+188,T30929043,Downloaded asset gets removed from the catalogue before the download’s expiry date,,C2606966,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2334,Regression P2s - Prod,Android Mobile,R114231,Download Business Rules,2,,Untested,,,Regression,
+189,T30929019,Verify Offline Error Message for Ad-Lite Users,Nakul Sharma,C2602563,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,"GQA-2334, GQA-2649",Regression P2s - Prod,Android Mobile,R114231,Download Business Rules,2,,Passed,Nakul Sharma,6/21/2023 8:34 AM,Regression,
+190,T30929056,"Verify that """"30 asset"""" limit cap does not include not fully downloaded assets",,C2614880,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2334,Regression P2s - Prod,Android Mobile,R114231,Download Business Rules,2,,Untested,,,Regression,
+191,T30929308,"Verify that Premium User """"100 asset"""" limit cap does not include not fully downloaded assets",,C2648380,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,"GQA-15467, GQA-15450",Regression P2s - Prod,Android Mobile,R114231,Download Business Rules,2,,Untested,,,Regression,
+192,T30929007,Content metadata in offline player,Nakul Sharma,C2489818,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,"GQA-2031, GQA-2067",Regression P2s - Prod,Android Mobile,R114231,Downloads Playback,2,,Passed,Nakul Sharma,6/21/2023 6:27 AM,Regression,
+193,T30929020,User can see Playback progress saved after watching offline,Nakul Sharma,C2602573,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,"GQA-2031, GQA-2067",Regression P2s - Prod,Android Mobile,R114231,Downloads Playback,2,,Passed,Nakul Sharma,6/21/2023 6:32 AM,Regression,
+194,T30929269,Analytics: Verify videoplayer events are fired when watching downloaded assets offline,,C2623796,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2721,Regression P2s - Prod,Android Mobile,R114231,Downloads Playback,2,,Untested,,,Regression,
+195,T30929008,Downloads Audio Track Current UI Language,,C2490897,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2307,Regression P2s - Prod,Android Mobile,R114231,Downloading an Asset,2,,Passed,Anupam Bhomia,6/15/2023 4:54 PM,Regression,
+196,T30929009,Downloads Text Track,Nakul Sharma,C2490899,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2307,Regression P2s - Prod,Android Mobile,R114231,Downloading an Asset,2,,Passed,Nakul Sharma,6/21/2023 6:14 AM,Regression,
+197,T30929018,Verify Time to Download,Nakul Sharma,C2602561,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2307,Regression P2s - Prod,Android Mobile,R114231,Downloading an Asset,2,,Passed,Nakul Sharma,6/21/2023 6:15 AM,Regression,
+198,T30929014,User can queue up multiple downloads,Nakul Sharma,C2494958,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,GQA-2307,Regression P2s - Prod,Android Mobile,R114231,Downloading an Asset,2,,Passed,Nakul Sharma,6/21/2023 6:16 AM,Regression,
+199,T30929013,User can see updated Download States in the Downloads Page,Nakul Sharma,C2491082,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+M1 Mac
+M2 Mac
+iPhone",P2,"GQA-2307, GQA-2309",Regression P2s - Prod,Android Mobile,R114231,Downloading an Asset,2,,Passed,Nakul Sharma,6/21/2023 6:17 AM,Regression,
+200,T30929321,User can see Chromecast device list dynamically update,,C2674775,,,,,,Android BD Regression 6/1+,R112031,"Android
+Web
+iPad
+iPhone",P2,GQA-2329,Regression P2s - Prod,Android Mobile,R114231,Chromecast,1,,Untested,,,Regression,
+201,T30929323,WiFi toggle does not interrupt Casting playback,,C2681445,,,,,,Android BD Regression 6/1+,R112031,"Android
+Web
+iPad
+iPhone",P2,GQA-2329,Regression P2s - Prod,Android Mobile,R114231,Chromecast,1,,Untested,,,Regression,
+202,T30929158,New Adult Profile: Audio Language Cold Start,kamila K,C2622026,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 4:17 AM,Regression,1.1.1.1
+203,T30929159,New Adult Profile: Captions On Cold Start,kamila K,C2622027,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 4:28 AM,Regression,1.1.1.1
+204,T30929160,New Adult Profile: Captions Off Cold Start,kamila K,C2622028,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 4:33 AM,Regression,1.1.1.1
+205,T30929163,New Adult Profile Captions Off and Original Audio not English Cold Start,kamila K,C2622031,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 5:11 AM,Regression,1.1.1.1
+206,T30929161,New Kids Profile: Audio Language Cold Start,kamila K,C2622029,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 5:14 AM,Regression,1.1.1.1
+207,T30929162,New Kids Profile: Captions On Cold Start,kamila K,C2622030,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 5:27 AM,Regression,1.1.1.1
+208,T30929177,New Kids Profile Captions Off on Cold Start,kamila K,C2622244,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 5:28 AM,Regression,1.1.1.1
+209,T30929164,Adult Profile Persist Audio Preferences,kamila K,C2622032,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 5:44 AM,Regression,1.1.1.1
+210,T30929165,Kids Profile Persist Audio Preferences,kamila K,C2622033,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 6:03 AM,Regression,1.1.1.1
+211,T30929166,Adult Profile Persist Text Preference,kamila K,C2622034,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 5:47 AM,Regression,1.1.1.1
+212,T30929167,Kids Profile Persist Text Preferences,kamila K,C2622035,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 6:03 AM,Regression,1.1.1.1
+213,T30929168,Do Not Persist Adult Profile Audio Preferences Cross-Device,kamila K,C2622036,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 8:36 AM,Regression,1.1.1.1
+214,T30929169,Do Not Persist Adult Profile Text Preferences Cross-Device,kamila K,C2622037,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 8:37 AM,Regression,1.1.1.1
+215,T30929170,Do Not Persist Kids Profile Audio Preferences Cross-Device,kamila K,C2622038,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 8:42 AM,Regression,1.1.1.1
+216,T30929171,Do Not Persist Kids Profile Text Preference Cross Device,kamila K,C2622039,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2331,Regression P2s - Prod,Android Mobile,R114231,"US Domestic :: Language Cold Start, Persistence and Fallbacks",1,,Passed,kamila K,6/20/2023 8:42 AM,Regression,1.1.1.1
+217,T30929100,Force upgrade - Unauthenticated user by Region,,C2621130,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+iPhone",P2,"GQA-2821, GQA-2811, GQA-2809",Regression P2s - Prod,Android Mobile,R114231,Force Upgrade,0,,Remove from Run,kamila K,6/19/2023 8:46 AM,Regression,
+218,T30929104,Force upgrade - Unauthenticated user by SKU,,C2621139,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+iPhone",P2,"GQA-2821, GQA-2811, GQA-2809",Regression P2s - Prod,Android Mobile,R114231,Force Upgrade,0,,Remove from Run,kamila K,6/19/2023 8:46 AM,Regression,
+219,T30929105,Force upgrade - Unauthenticated user by Version,,C2621140,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+iPhone",P2,"GQA-2821, GQA-2811, GQA-2809",Regression P2s - Prod,Android Mobile,R114231,Force Upgrade,0,,Untested,,,Regression,
+220,T30929101,Force upgrade - Authenticated user by Region,,C2621133,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+iPhone",P2,"GQA-2821, GQA-2811, GQA-2809",Regression P2s - Prod,Android Mobile,R114231,Force Upgrade,0,,Remove from Run,kamila K,6/19/2023 8:46 AM,Regression,
+221,T30929106,Force upgrade - Authenticated user by SKU,,C2621141,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+iPhone",P2,"GQA-2821, GQA-2811, GQA-2809",Regression P2s - Prod,Android Mobile,R114231,Force Upgrade,0,,Remove from Run,kamila K,6/19/2023 8:47 AM,Regression,
+222,T30929107,Force upgrade - Authenticated user by Version,,C2621142,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+iPhone",P2,"GQA-2821, GQA-2811, GQA-2809",Regression P2s - Prod,Android Mobile,R114231,Force Upgrade,0,,Untested,,,Regression,
+223,T30929102,Force upgrade - Authenticated user - During playback,,C2621136,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+iPhone",P2,"GQA-2821, GQA-2811, GQA-2809",Regression P2s - Prod,Android Mobile,R114231,Force Upgrade,0,,Remove from Run,kamila K,6/19/2023 8:48 AM,Regression,
+224,T30929103,Force upgrade - Authenticated user -  During navigation,,C2621137,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+iPhone",P2,"GQA-2821, GQA-2811, GQA-2809",Regression P2s - Prod,Android Mobile,R114231,Force Upgrade,0,,Remove from Run,kamila K,6/19/2023 8:48 AM,Regression,
+225,T30928963,Warm start search and recommended layout as expected,kamila K,C2479439,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2102,Regression P2s - Prod,Android Mobile,R114231,Search Core,1,,Passed,kamila K,6/19/2023 6:54 AM,Regression,1.1.1.1
+226,T30929033,Vertically navigating the warm start recommended content hides some elements of the page,kamila K,C2606058,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2102,Regression P2s - Prod,Android Mobile,R114231,Search Core,1,,Passed,kamila K,6/19/2023 6:55 AM,Regression,1.1.1.1
+227,T30929034,Horizontally navigating the warm start recommended content rails,kamila K,C2606059,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2102,Regression P2s - Prod,Android Mobile,R114231,Search Core,1,,Passed,kamila K,6/19/2023 8:23 AM,Regression,1.1.1.1
+228,T30929035,Search results update when adding more to the search,kamila K,C2606062,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2175, GQA-2165",Regression P2s - Prod,Android Mobile,R114231,Search Core,1,,Passed,kamila K,6/19/2023 8:39 AM,Regression,1.1.1.1
+229,T30928966,Search results update when removing characters,kamila K,C2479452,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2175, GQA-2165",Regression P2s - Prod,Android Mobile,R114231,Search Core,1,,Passed,kamila K,6/19/2023 8:42 AM,Regression,1.1.1.1
+230,T30928967,Retain search results when backing out of selected asset,kamila K,C2479464,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2175, GQA-2165",Regression P2s - Prod,Android Mobile,R114231,Search Core,1,,Passed,kamila K,6/19/2023 8:51 AM,Regression,1.1.1.1
+231,T30928985,Repeating a search query should produce same results,kamila K,C2480055,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2175, GQA-2165",Regression P2s - Prod,Android Mobile,R114231,Search Core,1,,Passed,kamila K,6/19/2023 8:52 AM,Regression,1.1.1.1
+232,T30929036,Access content details page from search results,kamila K,C2606063,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2175, GQA-2165",Regression P2s - Prod,Android Mobile,R114231,Search Core,1,,Passed,kamila K,6/19/2023 8:57 AM,Regression,1.1.1.1
+233,T30929037,Access content details page from warm start recommended rails,kamila K,C2606064,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2102,Regression P2s - Prod,Android Mobile,R114231,Search Core,1,,Passed,kamila K,6/19/2023 8:58 AM,Regression,1.1.1.1
+234,T30929051,"Search results expected layout, badges and metadata",kamila K,C2614806,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2100,Regression P2s - Prod,Android Mobile,R114231,Search Core,1,,Passed,kamila K,6/19/2023 9:03 AM,Regression,1.1.1.1
+235,T30928962,Search by <edgeCaseType> returns relevant results,kamila K,C2479436,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+iOS
+Android
+Roku
+Web
+HWA
+Android TV
+tvOS
+All Platforms
+Hospitality LG
+STB
+Samsung
+Xbox
+Vizio
+Playstation",P2,GQA-2075,Regression P2s - Prod,Android Mobile,R114231,Search API,1,,Passed,kamila K,6/19/2023 9:08 AM,Regression,1.1.1.1
+236,T30929047,Love Dialog - Tap Yes and Rate,kamila K,C2614797,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2575, GQA-2512",Regression P2s - Prod,Android Mobile,R114231,Love Dialog,1,,Passed,kamila K,6/20/2023 5:08 AM,Regression,1.1.1.1
+237,T30929054,"Love Dialog - Tap Yes, Dismiss",,C2614826,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2575, GQA-2512",Regression P2s - Prod,Android Mobile,R114231,Love Dialog,1,,Untested,,,Regression,
+238,T30929048,Love Dialog - Tap No and fill Survey,Kalpesh Desale,C2614799,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2575, GQA-2512",Regression P2s - Prod,Android Mobile,R114231,Love Dialog,1,,Untested,,,Regression,
+239,T30929052,Love Dialog - Tap No and dismiss,kamila K,C2614808,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2575, GQA-2512",Regression P2s - Prod,Android Mobile,R114231,Love Dialog,1,,Passed,kamila K,6/22/2023 6:30 AM,Regression,1.1.1.1
+240,T30929076,Survey in Spanish language,,C2617257,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2575, GQA-2512",Regression P2s - Prod,Android Mobile,R114231,Love Dialog,1,,Untested,,,Regression,
+241,T30929049,"No prompt, when user watching content",,C2614800,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2575, GQA-2512",Regression P2s - Prod,Android Mobile,R114231,Prompts should not be visible,2,,Untested,,,Regression,
+242,T30929050,No 2nd prompt until 180 days,,C2614803,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2575, GQA-2512",Regression P2s - Prod,Android Mobile,R114231,Prompts should not be visible,2,,Untested,,,Regression,
+243,T30929069,Selecting a tile on <railType> navigates to <destination>,kamila K,C2614984,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2748, GQA-2748, GQA-2753, GQA-2516, GQA-2752, GQA-2750",Regression P2s - Prod,Android Mobile,R114231,Rail and Tile Components,1,"Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301",Passed,kamila K,6/21/2023 4:16 AM,Regression,1.1.1.1
+244,T30929070,Themed rail - validation,kamila K,C2614986,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-1658,Regression P2s - Prod,Android Mobile,R114231,Rail and Tile Components,1,"Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301",Passed,kamila K,6/21/2023 5:14 AM,Regression,1.1.1.1
+245,T30929060,2x3 rail - metadata validation,kamila K,C2614889,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2748,Regression P2s - Prod,Android Mobile,R114231,Rail and Tile Components,1,"Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301",Passed,kamila K,6/21/2023 5:17 AM,Regression,1.1.1.1
+246,T30929062,16x9 rail - metadata validation,kamila K,C2614916,,,,,,Android BD Regression 6/1+,R112031,"Android TV
+All Platforms",P2,GQA-2753,Regression P2s - Prod,Android Mobile,R114231,Rail and Tile Components,1,"Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301",Passed,kamila K,6/21/2023 5:30 AM,Regression,1.1.1.1
+247,T30929055,"Verify Default, Focused and Pressed states for tiles on <railType>",kamila K,C2614878,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2748, GQA-2748, GQA-2753, GQA-2516, GQA-2750",Regression P2s - Prod,Android Mobile,R114231,Rail and Tile Components,1,"Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301",Passed,kamila K,6/21/2023 5:34 AM,Regression,1.1.1.1
+248,T30929058,"Verify Default, Focused and Selected states for tabs",kamila K,C2614883,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2803,Regression P2s - Prod,Android Mobile,R114231,Rail and Tile Components,1,"Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301",Passed,kamila K,6/21/2023 5:37 AM,Regression,1.1.1.1
+249,T30929071,2x3 tile - long metadata truncation,kamila K,C2614987,No data is available ,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2748,Regression P2s - Prod,Android Mobile,R114231,Rail and Tile Components,1,"Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301",Remove from Run,kamila K,6/21/2023 5:50 AM,Regression,
+250,T30929072,16x9 tile - long metadata truncation,kamila K,C2614988,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2753,Regression P2s - Prod,Android Mobile,R114231,Rail and Tile Components,1,"Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301",Untested,,,Regression,
+251,T30929073,Themed Rail - long metadata truncation,kamila K,C2614989,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2752,Regression P2s - Prod,Android Mobile,R114231,Rail and Tile Components,1,"Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301",Untested,,,Regression,
+252,T30929074,Scrolling to end of rail and back on <railType> rail,kamila K,C2617155,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2748, GQA-2753, GQA-2516, GQA-2752, GQA-2750",Regression P2s - Prod,Android Mobile,R114231,Rail and Tile Components,1,"Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301",Passed,Kalpesh Desale,6/19/2023 6:19 AM,Regression,
+253,T30929139,Character Row Navigation,kamila K,C2621718,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-1657, GQA-1872, GQA-2603, GQA-2613, GQA-2806",Regression P2s - Prod,Android Mobile,R114231,Rail and Tile Components,1,"Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301",Passed,kamila K,6/21/2023 5:56 AM,Regression,1.1.1.1
+254,T30929140,Character Row Pathing,kamila K,C2621719,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2634, GQA-2603, GQA-2613",Regression P2s - Prod,Android Mobile,R114231,Rail and Tile Components,1,"Rail and Tile Components Test Plan: https://wbdstreaming.atlassian.net/wiki/spaces/GQA/pages/159711872
+
+Rail and Tile Components Feature:
+https://wbdstreaming.atlassian.net/browse/CD-301",Passed,kamila K,6/21/2023 5:59 AM,Regression,1.1.1.1
+255,T30929093,Header Large metadata validation,kamila K,C2621024,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-1980, GQA-2525, GQA-2800",Regression P2s - Prod,Android Mobile,R114231,Hero Components,1,,Untested,,,Regression,
+256,T30929094,Inline Hero for Home Page - metadata validation,kamila K,C2621025,,,,,,Android BD Regression 6/1+,R112031,All Platforms,P2,"GQA-2779, GQA-2525",Regression P2s - Prod,Android Mobile,R114231,Hero Components,1,,Untested,,,Regression,
+257,T30929095,Header - metadata validation,kamila K,C2621026,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-1659,Regression P2s - Prod,Android Mobile,R114231,Hero Components,1,,Untested,,,Regression,
+258,T30929096,Immersive Hero for mobile - metadata validation,kamila K,C2621027,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GCX-3242, GQA-2754",Regression P2s - Prod,Android Mobile,R114231,Hero Components,1,,Untested,,,Regression,
+259,T30929097,Header Large - Validate long metadata truncation,kamila K,C2621038,,,,,,Android BD Regression 6/1+,R112031,All Platforms,P2,"GQA-2749, GQA-2525, GQA-2800",Regression P2s - Prod,Android Mobile,R114231,Hero Components,1,,Untested,,,Regression,
+260,T30929098,Inline Hero - Validate long metadata truncation,kamila K,C2621040,,,,,,Android BD Regression 6/1+,R112031,All Platforms,P2,"GQA-2779, GQA-2525",Regression P2s - Prod,Android Mobile,R114231,Hero Components,1,,Untested,,,Regression,
+261,T30929099,Header - Validate long metadata truncation,kamila K,C2621044,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-1659,Regression P2s - Prod,Android Mobile,R114231,Hero Components,1,,Untested,,,Regression,
+262,T30929176,Validate Generic Grid Behavior does not display infinite scrolling of the grid,kamila K,C2622177,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2718,Regression P2s - Prod,Android Mobile,R114231,Foundational Components behavior,1,,Untested,,,Regression,
+263,T30929185,Validate Number of tiles in a grid does not dictate the tile size,kamila K,C2622336,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2718,Regression P2s - Prod,Android Mobile,R114231,Foundational Components behavior,1,,Untested,,,Regression,
+264,T30929186,Validate Number of tiles in a row varies by tile aspect ratio and breakpoint,kamila K,C2622338,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2718,Regression P2s - Prod,Android Mobile,R114231,Foundational Components behavior,1,,Untested,,,Regression,
+265,T30929309,Validate page components type,kamila K,C2648467,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2774,Regression P2s - Prod,Android Mobile,R114231,Foundational Components behavior,1,,Untested,,,Regression,
+266,T30929133,Validate Backstack functionality for Player UpNext Asset-A  (2.2),kamila K,C2621634,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,kamila K,6/16/2023 3:10 AM,Regression,1.1.1.1
+267,T30929125,Validate Backstack functionality for Player UpNext Asset A+B  (2.2.1),kamila K,C2621605,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,kamila K,6/16/2023 3:14 AM,Regression,1.1.1.1
+268,T30929126,Validate Backstack functionality for Player MLP 2.4,kamila K,C2621607,Tested with MLP with Close button. Not with back ,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,kamila K,6/16/2023 3:18 AM,Regression,1.1.1.1
+269,T30929122,Validate Backstack functionality for Player Extra 2.5,kamila K,C2621601,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,kamila K,6/16/2023 3:25 AM,Regression,1.1.1.1
+270,T30929127,Validate Backstack functionality to Deeplink to video player 3.1,,C2621609,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Untested,,,Regression,
+271,T30929128,Validate Backstack functionality to Deeplink to CDP 3.2,kamila K,C2621610,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,kamila K,6/20/2023 2:22 AM,Regression,1.1.1.1
+272,T30929123,Validate Backstack for Deeplinking to Internal page 3.3,kamila K,C2621602,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,kamila K,6/22/2023 4:55 AM,Regression,1.1.1.1
+273,T30929198,Validate Backstack Sign Up and IAP (Select Plan Paywall) 4.1a,kamila K,C2622590,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+iPhone",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,kamila K,6/16/2023 5:44 AM,Regression,1.1.1.1
+274,T30929203,Validate Backstack Paywall: Select Plan > Create Account ? Select Plan 4.1b,kamila K,C2622596,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+iPhone",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,kamila K,6/16/2023 5:46 AM,Regression,1.1.1.1
+275,T30929205,Validate Backstack Paywall: Select Plan > Create Account > Native IAP > Backstack > Error Message > Paywall 4.1c,,C2622598,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+iPhone",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Untested,,,Regression,
+276,T30929124,Validate Backstack Paywall: Select Plan > Create Account > Native IAP > Confirmation > Homepage 4.1d,kamila K,C2621603,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+iPhone",P2,"GQA-2583, GCX-15105",Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,kamila K,6/22/2023 4:51 AM,Regression,1.1.1.1
+277,T30929129,Android Mobile: Validate Backstack for Android Backplayer End Card 12.2,Kalpesh Desale,C2621623,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,Kalpesh Desale,6/19/2023 6:04 AM,Regression,1.1.1.1
+278,T30929130,Android Mobile: Validate Backstack for Android Back Search 13.1,kamila K,C2621624,,GCX-21118,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Failed,kamila K,6/16/2023 6:10 AM,Regression,1.1.1.1
+279,T30929131,Android Mobile: Validate Backstack for Who is Watching 14.1,kamila K,C2621625,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,kamila K,6/16/2023 6:11 AM,Regression,1.1.1.1
+280,T30929132,Android Mobile: Validate Root Backstack for Pages 15.1,kamila K,C2621626,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,kamila K,6/16/2023 6:13 AM,Regression,1.1.1.1
+281,T30929157,Android Mobile: Validate Android Mobile physical Back behavior 15.1,kamila K,C2621936,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab",P2,GQA-2583,Regression P2s - Prod,Android Mobile,R114231,Backstack Scenarios,0,,Passed,kamila K,6/22/2023 6:33 AM,Regression,1.1.1.1
+282,T30929141,A/B testing for content discovery,,C2621733,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2523,Regression P2s - Prod,Android Mobile,R114231,A/B Testing,0,,Untested,,,Regression,
+283,T30929311,Audio Description – Spotlight page - Audio Descriptive library – Browse and Filter,Kalpesh Desale,C2653263,Validate with Android One Plus 6 OS-11,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2640,Regression P2s - Prod,Android Mobile,R114231,Spotlight Page,1,,Passed,Kalpesh Desale,6/19/2023 3:06 AM,Regression,1.1.1.1
+284,T30929312,Audio Description – Spotlight page – Series selection,kamila K,C2653264,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2640,Regression P2s - Prod,Android Mobile,R114231,Spotlight Page,1,,Passed,kamila K,6/22/2023 6:45 AM,Regression,1.1.1.1
+285,T30929153,Audio Description - Audio Description Content chip is available,Kalpesh Desale,C2621914,"
+Validate with Android One Plus 6 OS-11
+",,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2642,Regression P2s - Prod,Android Mobile,R114231,Within Navigation,1,,Passed,Kalpesh Desale,6/19/2023 3:07 AM,Regression,1.1.1.1
+286,T30929194,User can not see <AssetType> with watching progress in Hero and For you rails,,C2622566,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2538,Regression P2s - Prod,Android Mobile,R114231,Title Relevance & Exploration : Watched Content Suppression: Rail level,1,,Untested,,,Regression,
+287,T30929195,<AssetType> with watching progress is demoted to the end in horizontally re-ranked rails,,C2622568,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2538,Regression P2s - Prod,Android Mobile,R114231,Title Relevance & Exploration : Watched Content Suppression: Rail level,1,,Untested,,,Regression,
+288,T30929221,<AssetType> with watching progress is demoted to the end in Query-driven and Curated rails,,C2622686,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2538,Regression P2s - Prod,Android Mobile,R114231,Title Relevance & Exploration : Watched Content Suppression: Rail level,1,,Untested,,,Regression,
+289,T30929222,User can see watched content suspended in ML-driven rails,,C2622732,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2538,Regression P2s - Prod,Android Mobile,R114231,Title Relevance & Exploration : Watched Content Suppression: Rail level,1,,Untested,,,Regression,
+290,T30929223,User can see watched content suspended and returned in Query-driven and Curated rails,,C2622737,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2538,Regression P2s - Prod,Android Mobile,R114231,Title Relevance & Exploration : Watched Content Suppression: Rail level,1,,Untested,,,Regression,
+291,T30929214,Email Deeplink happy path,kamila K,C2622631,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,"GQA-2197, GQA-2193",Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/19/2023 6:59 AM,Regression,1.1.1.1
+292,T30929215,Push notification deeplink happy path,,C2622632,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2197, GQA-2193",Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Untested,,,Regression,
+293,T30929216,In-app notification deep link happy path,,C2622634,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,"GQA-2197, GQA-2193",Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Untested,,,Regression,
+294,T30929197,Deep Link to Series detail page for unauth user,kamila K,C2622576,,MLG-2241,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Vizio
+Playstation
+iPhone",P2,GQA-2197,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 7:18 AM,Regression,1.1.1.1
+295,T30929199,Deep Link to Series detail page for signed in user,kamila K,C2622592,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Vizio
+Playstation
+iPhone",P2,GQA-2197,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/16/2023 6:40 AM,Regression,1.1.1.1
+296,T30929211,Deep Link to Movie detail page for unauth user,kamila K,C2622626,,MLG-2241,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+iPhone",P2,GQA-2197,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 6:33 AM,Regression,1.1.1.1
+297,T30929217,Deep Link to Movie detail page for signed in user,kamila K,C2622642,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Vizio
+Playstation
+iPhone",P2,GQA-2197,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/16/2023 6:42 AM,Regression,1.1.1.1
+298,T30929212,Deep Link to Franchise page for unauth user,kamila K,C2622627,,MLG-2241,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,"GQA-2197, GQA-1994",Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 6:33 AM,Regression,1.1.1.1
+299,T30929218,Deep Link to Franchise page for signed in user,kamila K,C2622643,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,"GQA-2197, GQA-1994",Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/16/2023 6:45 AM,Regression,1.1.1.1
+300,T30929200,Deep Link to asset which doesn't exist on the app,,C2622593,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Vizio
+Playstation
+iPhone",P2,"GQA-2197, GQA-2012, GQA-2322, GQA-2185, GQA-2328, GQA-2184, GQA-1994, GQA-2010, GQA-15113",Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Remove from Run,kamila K,6/16/2023 6:51 AM,Regression,
+301,T30929201,Legacy HBO Max deep Link on BEAM app,,C2622594,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Vizio
+Playstation
+iPhone",P2,"GQA-2197, GQA-2012, GQA-2322, GQA-2185, GQA-2328, GQA-2184, GQA-1994, GQA-2010, GQA-15113",Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Remove from Run,kamila K,6/16/2023 6:52 AM,Regression,
+302,T30929202,Deep Link for user who don't have app installed on device,,C2622595,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2197, GQA-2012, GQA-2322, GQA-2185, GQA-2328, GQA-2184, GQA-1994, GQA-2010, GQA-15113",Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Remove from Run,kamila K,6/16/2023 6:52 AM,Regression,
+303,T30929204,Kid profile with parental code enabled trying to deep link restricted content,kamila K,C2622597,,GCX-28167,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+iPhone",P2,"GQA-2197, GQA-2012, GQA-2322, GQA-2185, GQA-2328, GQA-2184, GQA-1994, GQA-2010",Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/20/2023 3:34 AM,Regression,1.1.1.1
+304,T30929220,Kid profile with parental code enabled trying to deep link restricted content from profile picker,kamila K,C2622645,,GCX-28167,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Vizio
+Playstation
+iPhone",P2,"GQA-2197, GQA-2012, GQA-2322, GQA-2185, GQA-2328, GQA-2184, GQA-1994, GQA-2010",Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/20/2023 3:34 AM,Regression,1.1.1.1
+305,T30929219,Locked adult profile accessing the deep link,kamila K,C2622644,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Vizio
+Playstation
+iPhone",P2,GQA-2197,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/20/2023 4:03 AM,Regression,1.1.1.1
+306,T30929206,Deep Link to Primary settings screen on mobile for unauth user,kamila K,C2622605,,MLG-2243,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2185,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 7:17 AM,Regression,1.1.1.1
+307,T30929226,Deep Link to Primary settings screen on mobile for Signed user,kamila K,C2622788,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-2185,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/16/2023 7:44 AM,Regression,1.1.1.1
+308,T30929209,Deep Link to Who's watching screen for unauth user,kamila K,C2622614,,MLG-2243,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Vizio
+Playstation
+iPhone",P2,GQA-2328,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 7:17 AM,Regression,1.1.1.1
+309,T30929270,Deep Link to Who's watching screen for signed user,kamila K,C2623799,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Vizio
+Playstation
+iPhone",P2,GQA-2328,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/16/2023 7:49 AM,Regression,1.1.1.1
+310,T30929207,Deep Link to content page with auto adding to My List for unauth user,kamila K,C2622611,,GCX-26391,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2012,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/20/2023 2:50 AM,Regression,1.1.1.1
+311,T30929208,Deep Link to content page with auto adding to My List for signed in user,kamila K,C2622613,,GCX-26391,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2012,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/20/2023 2:50 AM,Regression,1.1.1.1
+312,T30929234,Deep Link to video player which has existing playback markers as signed user,kamila K,C2622880,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Vizio
+Playstation
+iPhone",P2,GQA-2184,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/16/2023 8:36 AM,Regression,1.1.1.1
+313,T30929248,Deep Link to account creation page,kamila K,C2622991,,MLG-2242,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+iPhone",P2,GQA-2010,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 6:43 AM,Regression,1.1.1.1
+314,T30929271,Deep Link to Shows page for unauth user,kamila K,C2624310,,MLG-2241,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Vizio
+Playstation
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 6:33 AM,Regression,1.1.1.1
+315,T30929279,Deep Link to Shows page for signed user,kamila K,C2624323,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/16/2023 8:39 AM,Regression,1.1.1.1
+316,T30929298,Deep Link to New & Notable page for unauth user,kamila K,C2625513,,MLG-2241,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 6:33 AM,Regression,1.1.1.1
+317,T30929299,Deep Link to New & Notable page for signed user,kamila K,C2625514,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/16/2023 8:58 AM,Regression,1.1.1.1
+318,T30929272,Deep Link to Movies page for unauth user,kamila K,C2624311,,MLG-2241,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 6:33 AM,Regression,1.1.1.1
+319,T30929278,Deep Link to Movies page for signed user,kamila K,C2624322,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/16/2023 9:16 AM,Regression,1.1.1.1
+320,T30929273,Deep Link to My Stuff page for unauth user,kamila K,C2624312,,MLG-2241,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 6:33 AM,Regression,1.1.1.1
+321,T30929280,Deep Link to My Stuff page for signed user,kamila K,C2624324,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/19/2023 3:18 AM,Regression,1.1.1.1
+322,T30929274,Deep Link to Genre page for unauth user,kamila K,C2624314,,MLG-2241,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 6:33 AM,Regression,1.1.1.1
+323,T30929281,Deep Link to Genre page for signed user,kamila K,C2624325,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/19/2023 3:22 AM,Regression,1.1.1.1
+324,T30929275,Deep Link to Brand page for unauth user,kamila K,C2624315,,MLG-2241,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 6:33 AM,Regression,1.1.1.1
+325,T30929282,Deep Link to Brand page for signed user,kamila K,C2624326,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/19/2023 3:23 AM,Regression,1.1.1.1
+326,T30929276,Deep Link to Collection page for unauth user,kamila K,C2624316,,MLG-2241,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Failed,kamila K,6/19/2023 6:33 AM,Regression,1.1.1.1
+327,T30929283,Deep Link to Collection page for signed user,kamila K,C2624327,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-1994,Regression P2s - Prod,Android Mobile,R114231,Deep Links,1,,Passed,kamila K,6/19/2023 3:47 AM,Regression,1.1.1.1
+328,T30929265,Verify Onboarding Notification when subscribing,,C2623676,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2207,Regression P2s - Prod,Android Mobile,R114231,Marketing Notifications,1,,Untested,,,Regression,
+329,T30929266,Validate Onboarding email notification,,C2623677,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2207,Regression P2s - Prod,Android Mobile,R114231,Marketing Notifications,1,,Untested,,,Regression,
+330,T30929310,Validate Recommendation Email In App,,C2648470,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+iPad
+iPhone",P2,GQA-15198,Regression P2s - Prod,Android Mobile,R114231,Marketing Notifications,1,,Untested,,,Regression,
+331,T30929235,Validate  subscription related notifications - Subscription Confirmation,,C2622906,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2135,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+332,T30929236,Validate  subscription related notifications - Subscription Termination,,C2622909,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+iPhone",P2,GQA-2135,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+333,T30929237,Validate  subscription related notifications - Upgrade or Downgrade Subscription,,C2622910,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2135,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Remove from Run,kamila K,6/22/2023 3:56 AM,Regression,
+334,T30929238,Validate  subscription related notifications -Plan change/ Switch confirmation,,C2622954,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2135,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Remove from Run,kamila K,6/22/2023 3:56 AM,Regression,
+335,T30929239,Validate  subscription related notifications - Annual Plan Renewal,,C2622955,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2135,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+336,T30929240,Validate  subscription related notifications -Plan change/ Switch not processed,,C2622956,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2135,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Remove from Run,kamila K,6/22/2023 3:56 AM,Regression,
+337,T30929241,Validate  subscription related notifications - OTP email,,C2622957,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2135,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+338,T30929242,Validate  subscription related notifications - Redeeming Promo Offer email,,C2622958,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2135,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+339,T30929244,Validate  subscription related notifications - Promo Code Expiration,,C2622960,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2135,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+340,T30929243,Validate  subscription related notifications - Washington DC user,,C2622959,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2135,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+341,T30929255,Validate Transactional Accounts/Identities Notifications (forgot password),,C2623558,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2151,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+342,T30929256,Validate Transactional Accounts/Identities Notifications (Security PIN creation ),,C2623559,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2151,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+343,T30929257,Validate Transactional Accounts/Identities Notifications (Security PIN removal ),,C2623560,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2151,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+344,T30929258,Validate Transactional Accounts/Identities Notifications (Security PIN updation ),,C2623561,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2151,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+345,T30929259,Validate Transactional Accounts/Identities Notifications (Account details updation ),,C2623562,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2151,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+346,T30929260,Validate Transactional Accounts/Identities Notifications (Adding Kids Profile ),,C2623563,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2151,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+347,T30929261,Validate Transactional Accounts/Identities Notifications (Deleting Kids Profile ),,C2623564,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2151,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+348,T30929262,Validate Transactional Accounts/Identities Notifications (Updating Email address ),,C2623565,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2151,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+349,T30929277,Validate Transactional Payments Notifications ( Credit card expiration 7 days notification),,C2624318,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2149,Regression P2s - Prod,Android Mobile,R114231,Transaction Notifications,1,,Untested,,,Regression,
+350,T30929254,SIngle day execution,,C2623511,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+iOS
+Fire Tab
+Roku
+Web
+Android TV
+CTV
+tvOS
+All Platforms
+Comcast
+STB",P2,GQA-2565,Regression P2s - Prod,Android Mobile,R114231,Green Light,0,,Untested,,,Regression,
+351,T30929253,Ad time restriction,,C2623340,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2615,Regression P2s - Prod,Android Mobile,R114231,Ad server configuration,0,,Untested,,,Regression,
+352,T30929289,All privacy featured can be viewed in the languages supported in my region,,C2625262,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2652,Regression P2s - Prod,Android Mobile,R114231,General Requirements,1,,Untested,,,Regression,
+353,T30929290,Account creation is successful but capturing the acknowledgment/consent is not successful,,C2625263,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2652,Regression P2s - Prod,Android Mobile,R114231,General Requirements,1,,Untested,,,Regression,
+354,T30929291,Consent posting fails during account creation in a region where it cannot progress without Privacy Policy Acknowledgement,,C2625265,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2652,Regression P2s - Prod,Android Mobile,R114231,General Requirements,1,,Untested,,,Regression,
+355,T30929292,Consent capture is not successful in a region where there are checkboxes for consent,,C2625266,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2652,Regression P2s - Prod,Android Mobile,R114231,General Requirements,1,,Untested,,,Regression,
+356,T30929293,Consent capture is not successful in a region where the consents captured are implicit,,C2625267,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2652,Regression P2s - Prod,Android Mobile,R114231,General Requirements,1,,Untested,,,Regression,
+357,T30929287,"Front End Consent - CA, CO, CT, or VA user - DNSoS consent persistence across devices",kamila K,C2625119,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2652, GQA-21700",Regression P2s - Prod,Android Mobile,R114231,Buy Flow,3,,Passed,kamila K,6/22/2023 4:31 AM,Regression,1.1.1.1
+358,T30929227,Front End Consent - Settings - Privacy Policy,Kalpesh Desale,C2622817,"Validate with Android One Plus 6 OS-11
+",,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2652,Regression P2s - Prod,Android Mobile,R114231,Settings,2,,Passed,Kalpesh Desale,6/16/2023 8:15 AM,Regression,1.1.1.1
+359,T30929228,Front End Consent - Settings - Terms of Use,Kalpesh Desale,C2622823,"Validate with Android One Plus 6 OS-11
+",,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2652,Regression P2s - Prod,Android Mobile,R114231,Settings,2,,Passed,Kalpesh Desale,6/16/2023 8:15 AM,Regression,1.1.1.1
+360,T30929263,"Front End Consent - Settings - DNSoS Default State (CA, CO, CT, or VA users)",kamila K,C2623666,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,"GQA-2652, GQA-21700",Regression P2s - Prod,Android Mobile,R114231,Settings,2,,Passed,kamila K,6/22/2023 4:25 AM,Regression,1.1.1.1
+361,T30929268,Front End Consent - Settings - Unauthenticated User,kamila K,C2623770,,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-2652,Regression P2s - Prod,Android Mobile,R114231,Settings,2,,Passed,kamila K,6/22/2023 4:32 AM,Regression,1.1.1.1
+362,T30929286,Front End Consent - Notifications - Email from BEAM and Affiliates,kamila K,C2624456,,,,,,Android BD Regression 6/1+,R112031,"Android
+Fire Tab
+Web
+iPad
+iPhone",P2,GQA-2652,Regression P2s - Prod,Android Mobile,R114231,Settings,2,,Passed,kamila K,6/22/2023 4:27 AM,Regression,1.1.1.1
+363,T30929267,Front End Consent - Settings - Kids Profile - Kids Privacy Policy,Kalpesh Desale,C2623769,"Validate with Android One Plus 6 OS-11
+",,,,,Android BD Regression 6/1+,R112031,"iOS
+Android
+HWA
+CTV",P2,GQA-1596,Regression P2s - Prod,Android Mobile,R114231,Kids Front End Consent,2,,Passed,Kalpesh Desale,6/16/2023 8:15 AM,Regression,1.1.1.1
+364,T30929288,Error with New or Existing User on Second Screen Flow,,C2625234,Not applicable for Android Mobile. Android Mobile never has the option to scan a QR code to login.,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-15093,Regression P2s - Prod,Android Mobile,R114231,User Walls / Errors,0,,Remove from Run,kamila K,6/22/2023 3:03 AM,Regression,
+365,T30929300,Error with New MVPD User Second Screen Flow,,C2625516,Not applicable for Android Mobile. Android Mobile never has the option to scan a QR code to login.,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-15093,Regression P2s - Prod,Android Mobile,R114231,User Walls / Errors,0,,Remove from Run,kamila K,6/22/2023 3:03 AM,Regression,
+366,T30929301,Error with New or Existing MVPD User,,C2625517,Not applicable for Android Mobile. Android Mobile never has the option to scan a QR code to login.,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-15093,Regression P2s - Prod,Android Mobile,R114231,User Walls / Errors,0,,Remove from Run,kamila K,6/22/2023 3:03 AM,Regression,
+367,T30929302,Error with Existing MVPD User - Cannot Verify Subscription,,C2625518,Not applicable for Android Mobile. Android Mobile never has the option to scan a QR code to login.,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-15093,Regression P2s - Prod,Android Mobile,R114231,User Walls / Errors,0,,Remove from Run,kamila K,6/22/2023 3:03 AM,Regression,
+368,T30929303,Error with Existing MVPD User - Can’t Sign In,,C2625519,Not applicable for Android Mobile. Android Mobile never has the option to scan a QR code to login.,,,,,Android BD Regression 6/1+,R112031,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P2,GQA-15093,Regression P2s - Prod,Android Mobile,R114231,User Walls / Errors,0,,Remove from Run,kamila K,6/22/2023 3:03 AM,Regression,

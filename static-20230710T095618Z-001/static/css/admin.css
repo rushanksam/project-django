@@ -1,0 +1,63 @@
+
+thead{
+    background : #1c87c9;
+    color: #ffffff;
+}
+th,
+
+/*#header{
+    height: 50px;
+    background: #aabbdd;
+    color: #000;
+}
+#header a:link, #header a:visited {
+      color: #2b6471;
+}
+#branding h1{
+    color: #000;
+}
+
+h1{
+    color: #000;
+}
+.module h2, .module caption, .inline-group h2{
+    background: #aabbdd;
+    color: #000;
+    height: 40px;
+}
+a.section:link{
+    color: #000;
+}
+a:link{
+    color: #000;
+}
+
+div.breadcrumbs {
+    background: #aabbdd;
+    color:#10284e;
+}
+div.breadcrumbs a {
+    color: #333;
+}
+  
+
+
+
+
+.button, input[type=submit], input[type=button], .submit-row input, a.button {
+    background: #10287e;
+    color: #fff;
+    border-radius: 14px;
+  }
+  .button:hover, input[type=submit]:hover, input[type=button]:hover, input[type=button]:hover, .submit-row input:hover, a.button:hover{
+    background: #30caa0;
+    color: #333;
+  }
+  .button.default, input[type=submit].default, .submit-row input.default{
+    background: #30caa0;
+    color: #333;
+  }
+  .button.default:hover, input[type=submit].default:hover, .submit-row input.default:hover{
+    background: #10287e;
+    color: #fff;
+  }

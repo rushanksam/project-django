@@ -1,0 +1,9 @@
+,ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+0,T30341720,sign-in/sign-out,,C2682245,,,,,,BD_8P0 CUJ_1stJUN,R111963,All Platforms,Critical,,Roku,Roku 4k TV,R111971,OD&BD Build Validation Test,0,,Passed,Shuan Wang,6/1/2023 12:47 PM,Sanity,
+1,T30341721,New user purchase plan,,C2682246,,,,,,BD_8P0 CUJ_1stJUN,R111963,All Platforms,Critical,,Roku,Roku 4k TV,R111971,OD&BD Build Validation Test,0,,Passed,Stephanie Kart,6/1/2023 1:47 PM,Sanity,
+2,T30341722,Authenticated user plays video.,,C2682247,,,,,,BD_8P0 CUJ_1stJUN,R111963,All Platforms,Critical,,Roku,Roku 4k TV,R111971,OD&BD Build Validation Test,0,,Passed,Shuan Wang,6/1/2023 12:44 PM,Sanity,
+3,T30341723,Authenticated user plays video with ad,,C2682248,,,,,,BD_8P0 CUJ_1stJUN,R111963,All Platforms,Critical,,Roku,Roku 4k TV,R111971,OD&BD Build Validation Test,0,,Passed,Shuan Wang,6/1/2023 12:45 PM,Sanity,
+4,T30341724,Authenticated user able to search,,C2682249,,,,,,BD_8P0 CUJ_1stJUN,R111963,All Platforms,Critical,,Roku,Roku 4k TV,R111971,OD&BD Build Validation Test,0,,Passed,Shuan Wang,6/1/2023 12:43 PM,Sanity,
+5,T30341725,Authenticated user can create a profile,,C2682250,,,,,,BD_8P0 CUJ_1stJUN,R111963,All Platforms,Critical,,Roku,Roku 4k TV,R111971,OD&BD Build Validation Test,0,,Passed,Shuan Wang,6/1/2023 12:39 PM,Sanity,
+6,T30341726,Authenticated user - Verify My list functionality,,C2682251,,,,,,BD_8P0 CUJ_1stJUN,R111963,All Platforms,Critical,,Roku,Roku 4k TV,R111971,OD&BD Build Validation Test,0,,Passed,Shuan Wang,6/1/2023 12:42 PM,Sanity,
+7,T30341727,Authenticated user can edit their profile details,,C2682252,,,,,,BD_8P0 CUJ_1stJUN,R111963,All Platforms,Critical,,Roku,Roku 4k TV,R111971,OD&BD Build Validation Test,0,,Passed,Shuan Wang,6/1/2023 12:41 PM,Sanity,

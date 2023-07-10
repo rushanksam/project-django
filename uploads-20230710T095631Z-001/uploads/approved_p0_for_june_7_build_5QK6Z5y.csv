@@ -1,0 +1,621 @@
+,ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+0,T30609962,Standard profile user - Validate global navigation menu,Noel Dizon,C2478610,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2600, GQA-1876",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Global Navigation,1,,Passed,Noel Dizon,6/7/2023 6:51 PM,Regression,
+1,T30609963,Kids profile user - Validate global navigation menu,Noel Dizon,C2478611,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2600, GQA-1876",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Global Navigation,1,,Passed,Noel Dizon,6/7/2023 6:54 PM,Regression,
+2,T30609967,Remove shows from My Stuff > My List tab using asset tiles,Noel Dizon,C2478621,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2755, GQA-2760",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,My Stuff,1,,Passed,Noel Dizon,6/7/2023 6:58 PM,Regression,
+3,T30609966,Authenticated new user-Verify My list functionality,Noel Dizon,C2478616,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2760,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,My Stuff,1,,Passed,Noel Dizon,6/7/2023 6:56 PM,Regression,
+4,T30609979,Validate Continue watching rail update behavior on Homepage,Noel Dizon,C2607139,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2823,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Continue Watching,1,,Passed,Noel Dizon,6/7/2023 7:08 PM,Regression,
+5,T30609974,Verify Signout from setting page,Noel Dizon,C2483786,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2686, GQA-2744",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,"Onboarding, Registration and Sign in",1,,Passed,Noel Dizon,6/7/2023 7:09 PM,Regression,
+6,T30609961,Validate Lapsed/Inactive Subscription screen when user is signed in with lapsed user account,Noel Dizon,C2478606,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2046, GQA-2313",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,"Onboarding, Registration and Sign in",1,,Passed,Noel Dizon,6/7/2023 7:15 PM,Regression,
+7,T30609978,MVPD Sign In (3rd Party Credentials)] Lapsed MVPD User Chooses to Connect to a new MVPD Provider With a New BEAM Account,Mohamed Khaliq,C2606569,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2030,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,MVPD,1,,Passed,Mohamed Khaliq,6/8/2023 4:31 AM,Regression,1.1.1.4
+8,T30609984,TV Code MVPD Sign In - Lapsed User Chooses to Renew via IAP Flow,,C2611133,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Roku
+Android TV
+CTV
+tvOS
+Comcast
+Samsung",P0,"GQA-2177, GQA-2317",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,MVPD,1,,Passed,Stephanie Kart,6/9/2023 11:50 AM,Regression,
+9,T30609983,MVPD Sign In (3rd Party Credentials) Lapsed MVPD User Chooses To Renew Subscription via DTC Flow,,C2611107,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2035, GQA-2208",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,MVPD,1,,Passed,Stephanie Kart,6/9/2023 11:50 AM,Regression,
+10,T30609990,Validate IAP Happy Path Purchase,Snehi Maniktala,C2621492, ![](index.php?/attachments/get/210ed49d-8942-4b47-af45-84818187ed8e)  ![](index.php?/attachments/get/323d5b1c-64cc-4904-9661-e5ea8a2615e2)  ![](index.php?/attachments/get/5bf63ed7-c452-4e3c-87c8-26ccfeaa5206)  ![](index.php?/attachments/get/84f76d38-31aa-423d-9d0e-a0433a6b931b)  ![](index.php?/attachments/get/fabeb2da-1319-4982-855e-4f4bc0d8e540)  ![](index.php?/attachments/get/324a1785-8c79-4d58-983f-7daaa5cc6eb6)      ,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+iOS
+Android
+Fire Tab
+Roku
+Android TV
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+iPhone",P0,"GQA-2266, GQA-2177, GQA-2091, GQA-2076, GQA-2077, GQA-2078, GQA-2725, GQA-2189",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Subscribe via IAP,2,,Passed,Snehi Maniktala,6/8/2023 2:23 AM,Regression,
+11,T30609975,Change Plan - Upgrade Plan,Snehi Maniktala,C2489270,"https://wbdstreaming.atlassian.net/browse/GCX-26185
+Boundary team confirmed stg backoffice is currently locked. Post-launch ADD should be created to determine long-term solution going forward.",,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Roku
+tvOS
+iPad
+iPhone",P0,GQA-2295,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Change Plan for IAP,2,,Blocked,Snehi Maniktala,6/8/2023 2:33 AM,Regression,
+12,T30609976,Change Plan - Downgrade Plan,Snehi Maniktala,C2489271,"https://wbdstreaming.atlassian.net/browse/GCX-26185
+Boundary team confirmed stg backoffice is currently locked. Post-launch ADD should be created to determine long-term solution going forward.",,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Roku
+iPad
+iPhone",P0,GQA-2295,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Change Plan for IAP,2,,Blocked,Snehi Maniktala,6/8/2023 2:33 AM,Regression,
+13,T30609988,Automatic Restore Purchase,Snehi Maniktala,C2617194, ![](index.php?/attachments/get/75718fc1-ba85-4927-b168-b86821b3f6b6) ,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+iOS
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+iPad
+iPhone",P0,GQA-2280,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Restore Purchase,2,,Passed,Snehi Maniktala,6/8/2023 2:27 AM,Regression,
+14,T30609991,Authenticated User:  Validating movie detail page via Movie tiles,Thiago Capanema,C2621715,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2799, GQA-2684, GQA-2786",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Movie Detail Page,1,,Passed,Thiago Capanema,6/7/2023 4:49 PM,Regression,
+15,T30609970,Authenticated User - Verify Age Rating & Content Descriptors,Noel Dizon,C2480314,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2254,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Age Rating & Content Descriptors,1,,Passed,Noel Dizon,6/7/2023 7:16 PM,Regression,
+16,T30609986,Authenticated User can play <AssetType> content,Thiago Capanema,C2614787,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2027, GQA-2131",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Core playback,1,,Passed,Thiago Capanema,6/7/2023 4:52 PM,Regression,
+17,T30609971,Authenticated User - Verify Ad Pods & Ad Counter,Thiago Capanema,C2481415,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2547, GQA-2624",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Ads Playback,1,,Passed,Thiago Capanema,6/7/2023 4:53 PM,Regression,
+18,T30609972,"Authenticated User - Validate Hidden Progress Bar, Pause/resume, Scrub Backward and Forward during Ad Playback",Thiago Capanema,C2481417,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2622,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Ads Playback,1,,Passed,Thiago Capanema,6/7/2023 4:53 PM,Regression,
+19,T30609995,Adult pre-roll bumpers,Thiago Capanema,C2622616,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2733, GQA-2131, GQA-2574",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,BEAM Pre- and Post-Roll Playback,1,,Passed,Thiago Capanema,6/7/2023 4:58 PM,Regression,
+20,T30609999,Adult mid-roll bumpers,Thiago Capanema,C2624446,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2733, GQA-2697, GQA-2131, GQA-2574",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,BEAM Pre- and Post-Roll Playback,1,,Passed,Thiago Capanema,6/7/2023 4:58 PM,Regression,
+21,T30609977,Verify Autoplay Episodes behaviour when option sets to <AutoPlaySetting>,Thiago Capanema,C2605627,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2271,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Playback Settings,1,,Passed,Thiago Capanema,6/7/2023 4:57 PM,Regression,
+22,T30609980,Verify interactions that  trigger the chrome to be shown,Thiago Capanema,C2611049,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2301,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,"VOD Timeline, Playback Controls & Transport Controls",1,,Passed,Thiago Capanema,6/7/2023 4:59 PM,Regression,
+23,T30609981,Verify that user can pause any content,Thiago Capanema,C2611056,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2301,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,"VOD Timeline, Playback Controls & Transport Controls",1,,Passed,Thiago Capanema,6/7/2023 4:59 PM,Regression,
+24,T30609982,Verify timeline indicators are displayed,Thiago Capanema,C2611059,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2301,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,"VOD Timeline, Playback Controls & Transport Controls",1,,Passed,Thiago Capanema,6/7/2023 5:00 PM,Regression,
+25,T30609989,Verify user can use scrubbing to FF/Back video,Thiago Capanema,C2617219,,GCX-25907,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+iOS
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2301,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,"VOD Timeline, Playback Controls & Transport Controls",1,,Failed,Thiago Capanema,6/7/2023 5:01 PM,Regression,
+26,T30609985,Verify cold start audio and text menu settings for adult profile with device CC settings set to ON,Thiago Capanema,C2612525,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+iPad
+iPhone",P0,GQA-2316,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Audio and text menu,1,,Passed,Thiago Capanema,6/7/2023 5:02 PM,Regression,
+27,T30609987,Verify cold start audio and text menu settings for kids profile,Bharati Subramanian,C2614810,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+DirecTV
+iPad
+iPhone",P0,GQA-2316,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Audio and text menu,1,,Passed,Bharati Subramanian,6/8/2023 2:20 AM,Regression,1.1.1.4
+28,T30609992,Verify More episodes button is only available on episodic content,Thiago Capanema,C2621760,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Roku
+Android TV
+Comcast
+STB
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+cdev",P0,GQA-2261,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,More Episodes,1,,Passed,Thiago Capanema,6/7/2023 5:03 PM,Regression,
+29,T30609993,Verify “More Episodes” is a persistent part of the player chrome,Thiago Capanema,C2621762,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Roku
+Android TV
+DirecTV
+Comcast
+Samsung
+LG
+Xbox
+Vizio
+Playstation",P0,GQA-2261,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,More Episodes,1,,Passed,Thiago Capanema,6/7/2023 5:03 PM,Regression,
+30,T30609998,Verify R&A is <displayed> for <content type>,Noel Dizon,C2622785,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-1807,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Ratings & Advisories Overlay,1,,Passed,Noel Dizon,6/7/2023 7:08 PM,Regression,
+31,T30609996,Rating and Advisories do not display over pre-roll,Noel Dizon,C2622771,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GCX-3958, GQA-2254",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Ratings & Advisories Overlay,1,,Passed,Noel Dizon,6/7/2023 7:22 PM,Regression,
+32,T30609997,R&A should display during intro,Noel Dizon,C2622774,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-1807,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Ratings & Advisories Overlay,1,,Passed,Noel Dizon,6/7/2023 7:22 PM,Regression,
+33,T30609973,Geo error message When User Launch App in 'Not Permitted Territory',,C2481422,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+iPad
+iPhone",P0,GQA-2250,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Site Selection & EEA Portability,1,,Passed,Jun Choi,6/8/2023 10:18 AM,Regression,
+34,T30609968,Authenticated user can get search results,Thiago Capanema,C2478647,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2100, GQA-2175, GQA-2165, GQA-2102, GQA-2174",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Search Core,1,,Passed,Thiago Capanema,6/7/2023 5:04 PM,Regression,
+35,T30609969,Authenticated user on a kid’s profile can get search results,Thiago Capanema,C2478648,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2639, GQA-2737, GQA-2618",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Search Core,1,,Passed,Thiago Capanema,6/7/2023 5:06 PM,Regression,
+36,T30609994,User can see different type of content in the End Card recommendations,Thiago Capanema,C2622545,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+Samsung
+LG
+Xbox
+Vizio
+Playstation",P0,GQA-2804,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Human / Machine : ML for End Card,1,,Passed,Thiago Capanema,6/7/2023 5:27 PM,Regression,
+37,T30609964,Standard profile user-Validate Account page,Thiago Capanema,C2478614,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2006,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Account Page,1,,Passed,Thiago Capanema,6/7/2023 5:19 PM,Regression,
+38,T30609965,Kids profile user-Validate Account page,Thiago Capanema,C2478615,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2006,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,Account Page,1,,Passed,Thiago Capanema,6/7/2023 5:20 PM,Regression,
+39,T30610000,Standard Profile Creation,Thiago Capanema,C2653506,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+All Platforms
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2069, GQA-2248, GQA-2064",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,User Profiles,1,,Passed,Thiago Capanema,6/7/2023 5:18 PM,Regression,
+40,T30610001,Kids Profile Creation and Validation of content,Thiago Capanema,C2653507,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,GQA-2274,Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,User Profiles,1,,Passed,Thiago Capanema,6/7/2023 5:21 PM,Regression,
+41,T30610002,PIN Validation,Snehi Maniktala,C2653508, ![](index.php?/attachments/get/1cc459e6-d601-4add-9361-a115b7216a89)  ![](index.php?/attachments/get/59060546-547e-43a5-a253-9395bf58382c)  ![](index.php?/attachments/get/76e07728-9459-4367-a4c4-0598122108d4)  ,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+DirecTV
+Comcast
+iPad
+Samsung
+LG
+Xbox
+Vizio
+Playstation
+iPhone",P0,"GQA-2788, GQA-2805",Approved P0 for June 7 Build,"Roku device low, mid, high",R112881,User Profiles,1,,Passed,Snehi Maniktala,6/8/2023 2:54 AM,Regression,

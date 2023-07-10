@@ -1,0 +1,202 @@
+,ID,Title,Assigned To,Case ID,Comment,Defects,Elapsed,Forecast,In Progress,Plan,Plan ID,Platform,Priority,References,Run,Run Configuration,Run ID,Section,Section Depth,Section Description,Status,Tested By,Tested On,Type,Version
+0,T30251237,Roku Instant sign up for New Roku user,,C2482574,"ISU is not immediately available for regular regression testing. This requires coordination with Roku and commerce developers
+
+",,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2279,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Instant Sign Up,1,,Blocked,Stephanie Kart,6/5/2023 12:35 PM,Regression,
+1,T30251259,Roku Instant sign up for existing Roku user,,C2621646,"ISU is not immediately available for regular regression testing. This requires coordination with Roku and commerce developers
+
+",,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2279,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Instant Sign Up,1,,Blocked,Stephanie Kart,6/5/2023 12:35 PM,Regression,
+2,T30251246,Roku Instant sign up user logged in with Roku auto account link,,C2617280,ISU is not immediately available for regular regression testing. This requires coordination with Roku and commerce developers,,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2279,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Instant Sign Up,1,,Blocked,Stephanie Kart,6/5/2023 2:13 PM,Regression,
+3,T30251247,Account Password creation page validation on BEAM,,C2617281,Need a 'ghost'/instant signup BEAM user and to be auto logged in to the device,,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2279,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Instant Sign Up,1,,Blocked,Stephanie Kart,6/5/2023 12:29 PM,Regression,
+4,T30251248,Promo offer check with Roku Instant sign up flow for new Roku users,,C2617282,ISU is not immediately available for regular regression testing. This requires coordination with Roku and commerce developers,,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2279,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Instant Sign Up,1,,Blocked,Stephanie Kart,6/5/2023 12:31 PM,Regression,
+5,T30251260,Promo offer check with Roku Instant sign up flow for existing Roku users,,C2621648,"ISU is not immediately available for regular regression testing. This requires coordination with Roku and commerce developers
+",,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2279,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Instant Sign Up,1,,Blocked,Stephanie Kart,6/5/2023 12:31 PM,Regression,
+6,T30251274,Roku Instant sign up user kill the app on create password screen,,C2622138,"ISU is not immediately available for regular regression testing. This requires coordination with Roku and commerce developers
+Create password for ISU(ghost accounts) was descoped for 5/23 launch and has not been implemented yet",,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2279,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Instant Sign Up,1,,Blocked,Stephanie Kart,6/5/2023 12:36 PM,Regression,
+7,T30251275,Roku ghost subscribers re-login,,C2622148,Create password flow for user accounts without a password was descoped from the 5/23 launch and has not been implemented yet,,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2279,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Instant Sign Up,1,,Blocked,Stephanie Kart,6/5/2023 2:36 PM,Regression,
+8,T30251261,Roku passive on hold subscription happy path,,C2621697,"This feature is not regularly available for regression testing.
+Need a special private channel build PLUS a Roku with an expired payment method and active monthly Max subscription",,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2293,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Pay Passive on Hold,1,,Blocked,Stephanie Kart,6/5/2023 3:52 PM,Regression,
+9,T30251262,Email notification for failed renewal,,C2621700,Need a Roku account with an expired payment method AND an active monthly subscription to Max,,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2293,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Pay Passive on Hold,1,,Blocked,Stephanie Kart,6/5/2023 3:35 PM,Regression,
+10,T30251263,Renewal notification validation  on Roku home screen,,C2621701,"This feature is not regularly available for regression testing.
+Need a special private channel build PLUS a Roku with an expired payment method and active monthly Max subscription",,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2293,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Pay Passive on Hold,1,,Blocked,Stephanie Kart,6/5/2023 12:34 PM,Regression,
+11,T30251264,Renewal notification upon app launch,,C2621702,"This feature is not regularly available for regression testing. 
+Need a special private channel build PLUS a Roku with an expired payment method and active monthly Max subscription",,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2293,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Pay Passive on Hold,1,,Blocked,Stephanie Kart,6/5/2023 12:34 PM,Regression,
+12,T30251265,Roku on hold user experience in BEAM app,,C2621703,Need a Roku account with an expired payment method AND an active monthly subscription to Max,,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2293,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Pay Passive on Hold,1,,Blocked,Stephanie Kart,6/5/2023 3:37 PM,Regression,
+13,T30251266,Roku on hold user updates payment flow,,C2621704,Need a Roku account with an expired payment method AND an active monthly subscription to Max,,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2293,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Pay Passive on Hold,1,,Blocked,Stephanie Kart,6/5/2023 3:37 PM,Regression,
+14,T30251271,Roku active user activating secondary device,,C2622092,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2297,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Automatic Account Link,1,,Passed,Jun Choi,6/8/2023 12:28 PM,Regression,
+15,T30251269,User with no access token in roku cloud launch the app,,C2622069,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2297,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Automatic Account Link,1,,Passed,Stephanie Kart,6/5/2023 2:34 PM,Regression,
+16,T30251270,Roku active subscriber resetting and logging on same device,,C2622091,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2297,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Automatic Account Link,1,,Passed,Jun Choi,6/8/2023 12:28 PM,Regression,
+17,T30251272,User with no Roku subscription delete and re-launch app after manually signing in,,C2622136,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2297,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Automatic Account Link,1,,Passed,Jun Choi,6/8/2023 10:32 AM,Regression,
+18,T30251273,User with valid roku subscription sign out of app and re-launch,,C2622137,Not valid for Roku.  Roku saves an access token in roku cloud and auto-signs in.,,,,,[Roku] 5/30 BD&GD CUJs,R111282,Roku,P1,GQA-2297,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Roku Automatic Account Link,1,,Remove from Run,Stephanie Kart,6/5/2023 1:08 PM,Regression,
+19,T30251240,Validate IAP purchase flow with PIN enabled on store level payment,,C2611080,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Roku
+Samsung",P1,"GQA-2091, GQA-2076, GQA-2077, GQA-2177",IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Subscribe via IAP,1,,Passed,Stephanie Kart,6/5/2023 1:01 PM,Regression,
+20,T30251284,Validate New user sign up Happy Path flow,,C2648522,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+iOS
+Android
+Fire Tab
+Roku
+Web
+Android TV
+tvOS
+Cox
+Comcast
+Samsung",P1,"GQA-2266, GQA-2177, GQA-2089, GQA-2091, GQA-2076, GQA-2077, GQA-2078, GQA-2725, GQA-2189, GQA-2112, GQA-2272, GQA-2051",IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Subscribe via IAP,1,,Passed,Stephanie Kart,6/5/2023 1:04 PM,Regression,
+21,T30251241,Validate IAP purchase flow when incorrect PIN is entered in payment page,,C2617164,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Roku
+Samsung",P1,"GQA-2091, GQA-2076, GQA-2077, GQA-2177",IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Subscribe via IAP,1,,Passed,Stephanie Kart,6/5/2023 2:28 PM,Regression,
+22,T30251242,Validate IAP purchase flow when payment method is missing on store account,,C2617165,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+Roku
+Android TV
+Samsung",P1,"GQA-2091, GQA-2076, GQA-2077, GQA-2177",IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Subscribe via IAP,1,,Passed,Stephanie Kart,6/9/2023 9:58 AM,Regression,
+23,T30251243,Validate IAP purchase flow when payment method is declined in store level,,C2617166,,GCX-17465,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+iOS
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+Samsung",P1,"GQA-2177, GQA-2089, GQA-2091, GQA-2076, GQA-2077, GQA-2078",IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Subscribe via IAP,1,,Failed,Jun Choi,6/8/2023 10:47 AM,Regression,
+24,T30251257,Choose Your Plan - Screen Validation,,C2621520,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+iOS
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+Samsung
+LG
+Xbox
+Vizio
+Playstation",P1,GQA-2078,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Subscribe via IAP,1,,Passed,Stephanie Kart,6/5/2023 2:57 PM,Regression,
+25,T30251267,User with Lapsed IAP subscription resubscribes through different IAP billing entity,,C2621757,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Android
+Fire Tab
+Roku
+tvOS
+iPad
+Samsung
+cdev",P1,GQA-2289,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Re-subscribe after lapsed subscription,1,,Passed,Jun Choi,6/8/2023 2:59 PM,Regression,
+26,T30251276,User with Lapsed IAP subscription resubscribes through the same IAP billing entity,,C2622242,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Android
+Fire Tab
+Roku
+tvOS
+iPad
+Samsung",P1,GQA-2289,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Re-subscribe after lapsed subscription,1,,Passed,Stephanie Kart,6/5/2023 2:34 PM,Regression,
+27,T30251268,User with Lapsed DTC subscription resubscribes through IAP billing entity,,C2621846,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Android
+Fire Tab
+Roku
+tvOS
+iPad
+Samsung",P1,GQA-2289,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Re-subscribe after lapsed subscription,1,,Passed,Stephanie Kart,6/5/2023 2:34 PM,Regression,
+28,T30251277,Verify User is Presented Closest Matching SKU for devices where Previous Plan is Unavailable,,C2622885,Need lapsed Roku user with a plan that is no longer available in the environment,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Android
+Fire Tab
+Roku
+tvOS
+iPad
+Samsung",P1,GQA-2289,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Re-subscribe after lapsed subscription,1,,Blocked,Stephanie Kart,6/5/2023 1:04 PM,Regression,
+29,T30251278,Verify All Plan Choices is Shown When Previous Plan is Not Returned By Services,,C2622886,Need lapsed Roku user with a plan that is no longer available in the environment,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Android
+Fire Tab
+Roku
+tvOS
+iPad
+Samsung",P1,GQA-2289,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Re-subscribe after lapsed subscription,1,,Blocked,Stephanie Kart,6/5/2023 1:02 PM,Regression,
+30,T30251279,Verify User is Presented With a Promotion Better than their Previous Plan,,C2622887,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Android
+Fire Tab
+Roku
+tvOS
+iPad
+Samsung",P1,GQA-2289,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Re-subscribe after lapsed subscription,1,,Passed,Jun Choi,6/8/2023 10:41 AM,Regression,
+31,T30251280,Validate Lapsed Users IAP purchase flow when payment method is declined in store level,,C2622888,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+iOS
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+Samsung",P1,"GQA-2177, GQA-2089, GQA-2091, GQA-2076, GQA-2077, GQA-2078",IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Re-subscribe after lapsed subscription,1,,Passed,Jun Choi,6/8/2023 10:39 AM,Regression,
+32,T30251258,Change Plan - Screen Validation,,C2621522,"https://wbdstreaming.atlassian.net/browse/GCX-26185
+Change Plan is blocked in Stage",,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Roku
+tvOS",P1,GQA-2295,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Change Plan for IAP,1,,Blocked,Jun Choi,6/8/2023 12:30 PM,Regression,
+33,T30251250,Change Plan - Crossgrade Plan,,C2621167,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Roku
+tvOS",P2,GQA-2295,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Change Plan for IAP,1,,Untested,,,Regression,
+34,T30251254,Change Plan - Cancel Upgrade Plan,,C2621171,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Roku
+tvOS",P2,GQA-2295,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Change Plan for IAP,1,,Passed,Stephanie Kart,6/5/2023 2:59 PM,Regression,
+35,T30251251,Change Plan - Cancel Downgrade Plan,,C2621168,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Roku
+tvOS",P2,GQA-2295,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Change Plan for IAP,1,,Passed,Stephanie Kart,6/5/2023 2:59 PM,Regression,
+36,T30251255,Change Plan - Cancel Crossgrade Plan,,C2621172,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Roku
+tvOS",P2,GQA-2295,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Change Plan for IAP,1,,Passed,Stephanie Kart,6/5/2023 2:59 PM,Regression,
+37,T30251249,Change Plan - Failed Payment on Upgrade Plan,,C2620859,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Roku
+tvOS",P2,GQA-2295,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Change Plan for IAP,1,,Untested,,,Regression,
+38,T30251252,Change Plan - Failed Payment on Downgrade Plan,,C2621169,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Roku
+tvOS",P2,GQA-2295,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Change Plan for IAP,1,,Untested,,,Regression,
+39,T30251253,Change Plan - Failed Payment on Crossgrade Plan,,C2621170,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Roku
+tvOS",P2,GQA-2295,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Change Plan for IAP,1,,Untested,,,Regression,
+40,T30251245,No Automatic Restore Purchase - Lapsed User,,C2617196,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+iOS
+Android
+Fire Tab
+Roku
+Android TV
+tvOS",P1,GQA-2280,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Restore Purchase,1,,Passed,Stephanie Kart,6/5/2023 12:30 PM,Regression,
+41,T30251283,Automatic Restore Purchase - No Password,,C2625520,"Need a 'ghost'/instant signup BEAM user and to be auto logged in to the device.
+Create password flow was descoped for 5/23 launch and has not been implemented yet",,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Roku
+Android TV",P1,GQA-2280,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Restore Purchase,1,,Blocked,Stephanie Kart,6/5/2023 12:29 PM,Regression,
+42,T30251285,Provider Subscription Details,,C2653216,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+iOS
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+iPad
+Samsung
+LG
+Xbox
+Playstation
+iPhone",P1,GQA-2170,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Purchase Flow,1,,Passed,Stephanie Kart,6/5/2023 12:13 PM,Regression,
+43,T30251282,Removal of 4K UHD Copy in Legacy Max Buy Flow,,C2625515,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,All Platforms,P1,GQA-15521,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Out Of Scope or Duplicate,1,,Passed,Stephanie Kart,6/5/2023 12:35 PM,Regression,
+44,T30251256,Validate IAP Happy Path Purchase,Rabiya Khan,C2621492,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+iOS
+Android
+Fire Tab
+Roku
+Android TV
+DirecTV
+Comcast
+STB
+iPad
+Samsung
+iPhone",P0,"GQA-2266, GQA-2177, GQA-2091, GQA-2076, GQA-2077, GQA-2078, GQA-2725, GQA-2189",IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Subscribe via IAP,2,,Passed,Rabiya Khan,6/2/2023 8:09 AM,Regression,1.1.0.38
+45,T30251238,Change Plan - Upgrade Plan,Rabiya Khan,C2489270,"https://wbdstreaming.atlassian.net/browse/GCX-26185
+Boundary team confirmed stg backoffice is currently locked. Post-launch ADD should be created to determine long-term solution going forward.",,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Roku
+tvOS
+iPad
+iPhone",P0,GQA-2295,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Change Plan for IAP,2,,Blocked,Rabiya Khan,6/2/2023 8:10 AM,Regression,1.1.0.38
+46,T30251239,Change Plan - Downgrade Plan,Rabiya Khan,C2489271,"https://wbdstreaming.atlassian.net/browse/GCX-26185
+Boundary team confirmed stg backoffice is currently locked. Post-launch ADD should be created to determine long-term solution going forward.",,,,,[Roku] 5/30 BD&GD CUJs,R111282,"iOS
+Roku
+iPad
+iPhone",P0,GQA-2295,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Change Plan for IAP,2,,Blocked,Rabiya Khan,6/2/2023 8:10 AM,Regression,1.1.0.38
+47,T30251244,Automatic Restore Purchase,Rabiya Khan,C2617194,,,,,,[Roku] 5/30 BD&GD CUJs,R111282,"Fire TV
+iOS
+Android
+Fire Tab
+Roku
+Android TV
+tvOS
+iPad
+iPhone",P0,GQA-2280,IAP,Roku 4k TV/Ultra/Express/Stick,R111287,Restore Purchase,2,,Passed,Rabiya Khan,6/2/2023 8:09 AM,Regression,1.1.0.38

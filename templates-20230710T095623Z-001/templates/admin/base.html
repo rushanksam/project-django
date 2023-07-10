@@ -1,0 +1,30 @@
+{% extends 'admin/base.html' %} {% block extrahead %}{{ block.super }}
+<style>
+  :root {
+    --primary: #0017c89b;
+    --secondary: #0017c89b;
+    --accent: #73cba4;
+    --primary-fg: #fff;
+    --header-color: #ccffe8;
+    --darkened-bg: #f5fffa;
+  }
+  thead th {
+    background : #1c87c9;
+    color: #ffffff;
+  }
+  summary {
+    background: #0017c89b;
+    color: #ffffff;
+  }
+  
+  div label {
+    background: #0017c89b;
+    color: #ffffff;    
+  }
+  label button {
+    background: #0017c89b;
+    color: #ffffff; 
+  }
+
+</style>
+{% endblock %}
